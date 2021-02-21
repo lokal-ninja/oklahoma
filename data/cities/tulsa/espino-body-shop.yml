@@ -1,11 +1,10 @@
-id: 4546488157
-type: node
-shop: car repair
-latitude: 36.1650748
-longitude: -95.95796010000001
+id: 901819532
+type: way
+latitude: 36.1652377
+longitude: -95.9580603
 postcode: "74110"
 city: Tulsa
-street: "N Lewis Ave"
+street: "North Lewis Avenue"
 housenumber: 719
 phone: "+1-918-402-7295"
 opening_hours: ""

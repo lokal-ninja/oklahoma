@@ -1,6 +1,5 @@
 id: 744425831
 type: way
-shop: chemist
 latitude: 36.1411036
 longitude: -95.9666275
 postcode: "74014"
@@ -8,5 +7,5 @@ city: Tulsa
 street: "East 15th Street"
 housenumber: 1701
 phone: ""
-opening_hours: ""
+opening_hours: "24/7"
 website: ""
