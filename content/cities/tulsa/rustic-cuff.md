@@ -1,5 +1,5 @@
 ---
 title: "Rustic Cuff"
 url: /tulsa/rustic-cuff/
-shop: boutique
+shop: clothes
 ---
