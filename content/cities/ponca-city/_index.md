@@ -1,6 +1,6 @@
 ---
 title: Ponca City
 url: /ponca-city/
-latitude: 36.7267431
-longitude: -97.0667341
+latitude: 36.703647000000004
+longitude: -97.08189800000001
 ---
