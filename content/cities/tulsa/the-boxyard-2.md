@@ -1,5 +1,0 @@
----
-title: "The Boxyard"
-url: /tulsa/the-boxyard-2/
-shop: mall
----

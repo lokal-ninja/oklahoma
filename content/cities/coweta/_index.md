@@ -1,6 +1,6 @@
 ---
 title: Coweta
 url: /coweta/
-latitude: 35.9517674
-longitude: -95.65081400000001
+latitude: 35.9524768
+longitude: -95.6508637
 ---
