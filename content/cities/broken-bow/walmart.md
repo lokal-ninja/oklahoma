@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /broken-bow/walmart/
-shop: supermarket
+shop: department store
 ---

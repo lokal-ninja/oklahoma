@@ -1,5 +1,5 @@
 ---
 title: "Used Books"
-url: /stillwater-ok/used-books/
+url: /stillwater/used-books/
 shop: books
 ---

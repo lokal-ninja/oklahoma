@@ -1,5 +1,5 @@
 ---
 title: "The Book Nook"
-url: /stillwater-ok/the-book-nook/
+url: /stillwater/the-book-nook/
 shop: books
 ---
