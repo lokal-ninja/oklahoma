@@ -1,6 +1,6 @@
 ---
 title: Durant
 url: /durant/
-latitude: 33.9958945
-longitude: -96.38142590000001
+latitude: 33.9919761
+longitude: -96.37767620000001
 ---

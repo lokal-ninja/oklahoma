@@ -1,6 +1,6 @@
 ---
 title: Antlers
 url: /antlers/
-latitude: 34.2319053
-longitude: -95.61869800000001
+latitude: 34.232326300000004
+longitude: -95.6204938
 ---
