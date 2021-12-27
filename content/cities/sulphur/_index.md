@@ -1,6 +1,6 @@
 ---
 title: Sulphur
 url: /sulphur/
-latitude: 34.5078669
-longitude: -96.96834980000001
+latitude: 34.504
+longitude: -97.005
 ---

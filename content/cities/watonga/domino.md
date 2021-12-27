@@ -1,5 +1,5 @@
 ---
 title: "Domino"
 url: /watonga/domino/
-shop: convenience
+shop: Lebensmittel
 ---

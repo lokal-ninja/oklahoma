@@ -1,6 +1,6 @@
 ---
 title: Weatherford
 url: /weatherford/
-latitude: 35.5261633
-longitude: -98.70757440000001
+latitude: 35.525
+longitude: -98.691
 ---

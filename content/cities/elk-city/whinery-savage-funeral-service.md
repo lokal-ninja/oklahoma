@@ -1,5 +1,5 @@
 ---
 title: "Whinery-Savage Funeral Service"
 url: /elk-city/whinery-savage-funeral-service/
-shop: funeral directors
+shop: Bestattungen
 ---

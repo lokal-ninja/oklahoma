@@ -1,6 +1,6 @@
 ---
 title: Stillwater
 url: /stillwater/
-latitude: 36.1156306
-longitude: -97.0585717
+latitude: 36.119
+longitude: -97.05
 ---

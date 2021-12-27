@@ -1,5 +1,5 @@
 ---
 title: "The Greenhouse"
 url: /norman/the-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

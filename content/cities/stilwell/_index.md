@@ -1,6 +1,6 @@
 ---
 title: Stilwell
 url: /stilwell/
-latitude: 35.814431
-longitude: -94.6286156
+latitude: 35.808
+longitude: -94.629
 ---

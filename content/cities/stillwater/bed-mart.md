@@ -1,5 +1,5 @@
 ---
 title: "Bed Mart"
 url: /stillwater/bed-mart/
-shop: furniture
+shop: Möbel
 ---

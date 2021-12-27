@@ -1,5 +1,5 @@
 ---
 title: "Jaguar Tulsa"
 url: /tulsa/jaguar-tulsa/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /oklahoma-city/carmax/
-shop: car
+shop: Autohaus
 ---

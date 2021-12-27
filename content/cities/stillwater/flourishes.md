@@ -1,5 +1,5 @@
 ---
 title: "Flourishes"
 url: /stillwater/flourishes/
-shop: florist
+shop: Blumen
 ---

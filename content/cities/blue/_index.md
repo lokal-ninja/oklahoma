@@ -1,6 +1,6 @@
 ---
 title: Blue
 url: /blue/
-latitude: 33.996485400000005
-longitude: -96.22998700000001
+latitude: 33.997
+longitude: -96.233
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jenk
 url: /jenk/
-latitude: 
-longitude: 
+latitude: 36.023
+longitude: -96.009
 ---

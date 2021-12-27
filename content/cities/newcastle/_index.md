@@ -1,6 +1,6 @@
 ---
 title: Newcastle
 url: /newcastle/
-latitude: 35.2472869
-longitude: -97.59976
+latitude: 35.291
+longitude: -97.662
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cherry Street Tattoo"
 url: /tulsa/cherry-street-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

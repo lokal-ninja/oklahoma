@@ -1,6 +1,6 @@
 ---
 title: Medicine Park
 url: /medicine-park/
-latitude: 34.7274797
-longitude: -98.5013644
+latitude: 34.727
+longitude: -98.499
 ---

@@ -1,6 +1,6 @@
 ---
 title: Purcell
 url: /purcell/
-latitude: 35.0136831
-longitude: -97.36113950000001
+latitude: 34.988
+longitude: -97.37
 ---

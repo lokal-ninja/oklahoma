@@ -1,6 +1,6 @@
 ---
 title: Battiest
 url: /battiest/
-latitude: 34.393435700000005
-longitude: -94.9249499
+latitude: 34.394
+longitude: -94.927
 ---

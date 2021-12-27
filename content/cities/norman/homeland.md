@@ -1,5 +1,5 @@
 ---
 title: "Homeland"
 url: /norman/homeland/
-shop: supermarket
+shop: Supermarkt
 ---

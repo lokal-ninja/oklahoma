@@ -1,5 +1,5 @@
 ---
 title: "Farmer's Feed"
 url: /sapulpa/farmers-feed/
-shop: garden centre
+shop: Garten-Center
 ---

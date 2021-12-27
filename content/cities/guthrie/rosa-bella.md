@@ -1,5 +1,5 @@
 ---
 title: "Rosa Bella"
 url: /guthrie/rosa-bella/
-shop: gift
+shop: Andenken
 ---

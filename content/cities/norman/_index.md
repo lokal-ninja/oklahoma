@@ -1,6 +1,6 @@
 ---
 title: Norman
 url: /norman/
-latitude: 35.2225717
-longitude: -97.43948160000001
+latitude: 35.227
+longitude: -97.42
 ---

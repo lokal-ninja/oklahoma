@@ -1,6 +1,6 @@
 ---
 title: Catoosa
 url: /catoosa/
-latitude: 36.188987000000004
-longitude: -95.745817
+latitude: 36.19
+longitude: -95.738
 ---

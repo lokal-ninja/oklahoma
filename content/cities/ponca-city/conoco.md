@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /ponca-city/conoco/
-shop: convenience
+shop: Lebensmittel
 ---

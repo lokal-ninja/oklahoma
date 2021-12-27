@@ -1,5 +1,5 @@
 ---
 title: "Harps"
 url: /chelsea/harps/
-shop: supermarket
+shop: Supermarkt
 ---

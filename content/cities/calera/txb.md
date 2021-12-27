@@ -1,5 +1,5 @@
 ---
 title: "TXB"
 url: /calera/txb/
-shop: convenience
+shop: Lebensmittel
 ---

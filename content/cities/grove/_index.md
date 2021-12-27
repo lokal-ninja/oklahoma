@@ -1,6 +1,6 @@
 ---
 title: Grove
 url: /grove/
-latitude: 36.5936863
-longitude: -94.76911860000001
+latitude: 36.563
+longitude: -94.778
 ---

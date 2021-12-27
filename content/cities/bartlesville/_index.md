@@ -1,6 +1,6 @@
 ---
 title: Bartlesville
 url: /bartlesville/
-latitude: 36.7494864
-longitude: -95.97829660000001
+latitude: 36.752
+longitude: -95.978
 ---

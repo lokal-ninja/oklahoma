@@ -1,5 +1,5 @@
 ---
 title: "Hertz"
 url: /stillwater/hertz/
-shop: car
+shop: Autohaus
 ---

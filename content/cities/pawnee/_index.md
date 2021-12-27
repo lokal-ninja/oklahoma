@@ -1,6 +1,6 @@
 ---
 title: Pawnee
 url: /pawnee/
-latitude: 36.3151645
-longitude: -96.7200995
+latitude: 36.338
+longitude: -96.794
 ---

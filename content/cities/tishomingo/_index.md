@@ -1,6 +1,6 @@
 ---
 title: Tishomingo
 url: /tishomingo/
-latitude: 34.2348151
-longitude: -96.67637400000001
+latitude: 34.234
+longitude: -96.675
 ---

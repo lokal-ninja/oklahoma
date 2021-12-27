@@ -1,6 +1,6 @@
 ---
 title: Owasso
 url: /owasso/
-latitude: 36.2659698
-longitude: -95.8548557
+latitude: 36.277
+longitude: -95.829
 ---

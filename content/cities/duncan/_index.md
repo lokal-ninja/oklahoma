@@ -1,6 +1,6 @@
 ---
 title: Duncan
 url: /duncan/
-latitude: 34.502302900000004
-longitude: -97.95781290000001
+latitude: 34.528
+longitude: -97.97
 ---

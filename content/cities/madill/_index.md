@@ -1,6 +1,6 @@
 ---
 title: Madill
 url: /madill/
-latitude: 34.0902508
-longitude: -96.7715618
+latitude: 34.07
+longitude: -96.766
 ---

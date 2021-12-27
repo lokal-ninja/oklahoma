@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /durant/aarons/
-shop: furniture
+shop: Möbel
 ---

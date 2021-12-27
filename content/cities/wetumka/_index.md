@@ -1,6 +1,6 @@
 ---
 title: Wetumka
 url: /wetumka/
-latitude: 35.2319678
-longitude: -96.24179520000001
+latitude: 35.233
+longitude: -96.241
 ---

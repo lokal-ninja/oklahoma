@@ -1,6 +1,6 @@
 ---
 title: Oklahoms City
 url: /oklahoms-city/
-latitude: 
-longitude: 
+latitude: 35.406
+longitude: -97.544
 ---

@@ -1,5 +1,5 @@
 ---
 title: "rue21"
 url: /ardmore/rue21/
-shop: clothes
+shop: Kleidung
 ---

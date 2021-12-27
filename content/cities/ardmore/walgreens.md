@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /ardmore/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /owasso/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

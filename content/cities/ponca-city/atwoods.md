@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /ponca-city/atwoods/
-shop: general
+shop: Dorfladen
 ---

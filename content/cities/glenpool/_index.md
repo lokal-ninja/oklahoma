@@ -1,6 +1,6 @@
 ---
 title: Glenpool
 url: /glenpool/
-latitude: 35.9553737
-longitude: -96.0088843
+latitude: 35.984
+longitude: -96.03
 ---

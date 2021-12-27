@@ -1,5 +1,5 @@
 ---
 title: "Car City Auto Finance"
 url: /tulsa/car-city-auto-finance/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antques"
 url: /stillwater/antques/
-shop: antiques
+shop: Antiquitäten
 ---

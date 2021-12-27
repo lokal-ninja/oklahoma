@@ -1,6 +1,6 @@
 ---
 title: Kingfisher
 url: /kingfisher/
-latitude: 35.9471931
-longitude: -97.9641244
+latitude: 35.829
+longitude: -97.937
 ---

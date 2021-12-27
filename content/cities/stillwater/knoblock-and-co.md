@@ -1,5 +1,5 @@
 ---
 title: "Knoblock and Co"
 url: /stillwater/knoblock-and-co/
-shop: gift
+shop: Andenken
 ---

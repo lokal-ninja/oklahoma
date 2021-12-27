@@ -1,6 +1,6 @@
 ---
 title: Locust Grove
 url: /locust-grove/
-latitude: 36.2000936
-longitude: -95.1677401
+latitude: 36.199
+longitude: -95.158
 ---
