@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /stillwater/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

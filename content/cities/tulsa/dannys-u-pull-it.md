@@ -1,5 +1,5 @@
 ---
 title: "Danny's U Pull It"
 url: /tulsa/dannys-u-pull-it/
-shop: Autoteile
+shop: car parts
 ---

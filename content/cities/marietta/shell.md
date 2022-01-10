@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /marietta/shell/
-shop: Lebensmittel
+shop: convenience
 ---

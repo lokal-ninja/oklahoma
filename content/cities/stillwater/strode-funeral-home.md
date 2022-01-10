@@ -1,5 +1,5 @@
 ---
 title: "Strode Funeral Home"
 url: /stillwater/strode-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

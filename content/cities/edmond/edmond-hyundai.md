@@ -1,5 +1,5 @@
 ---
 title: "Edmond Hyundai"
 url: /edmond/edmond-hyundai/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gene Deck"
 url: /oklahoma-city/gene-deck/
-shop: Anhänger
+shop: trailer
 ---

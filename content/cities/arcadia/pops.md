@@ -1,5 +1,5 @@
 ---
 title: "Pop's"
 url: /arcadia/pops/
-shop: Getränke
+shop: beverages
 ---

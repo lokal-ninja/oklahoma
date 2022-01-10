@@ -1,5 +1,5 @@
 ---
 title: "Christian Brothers Automotive"
 url: /edmond/christian-brothers-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

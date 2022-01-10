@@ -1,5 +1,5 @@
 ---
 title: "Hudiburg Subaru"
 url: /oklahoma-city/hudiburg-subaru/
-shop: Autohaus
+shop: car
 ---

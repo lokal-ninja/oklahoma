@@ -1,5 +1,5 @@
 ---
 title: "Sunmart"
 url: /perry/sunmart/
-shop: Lebensmittel
+shop: convenience
 ---

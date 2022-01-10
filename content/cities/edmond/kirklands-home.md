@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's Home"
 url: /edmond/kirklands-home/
-shop: Möbel
+shop: furniture
 ---

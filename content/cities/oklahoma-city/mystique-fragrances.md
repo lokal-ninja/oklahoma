@@ -1,5 +1,5 @@
 ---
 title: "Mystique Fragrances"
 url: /oklahoma-city/mystique-fragrances/
-shop: Kosmetik
+shop: beauty
 ---

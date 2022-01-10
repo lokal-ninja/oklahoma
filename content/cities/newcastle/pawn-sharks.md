@@ -1,5 +1,5 @@
 ---
 title: "Pawn Sharks"
 url: /newcastle/pawn-sharks/
-shop: Leiher
+shop: pawnbroker
 ---

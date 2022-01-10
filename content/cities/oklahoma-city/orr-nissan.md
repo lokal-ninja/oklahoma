@@ -1,5 +1,5 @@
 ---
 title: "Orr Nissan"
 url: /oklahoma-city/orr-nissan/
-shop: Autohaus
+shop: car
 ---

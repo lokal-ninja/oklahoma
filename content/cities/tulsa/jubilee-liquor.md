@@ -1,5 +1,5 @@
 ---
 title: "Jubilee Liquor"
 url: /tulsa/jubilee-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

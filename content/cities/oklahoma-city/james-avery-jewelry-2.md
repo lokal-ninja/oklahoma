@@ -1,5 +1,5 @@
 ---
 title: "James Avery Jewelry"
 url: /oklahoma-city/james-avery-jewelry-2/
-shop: Schmuck
+shop: jewelry
 ---

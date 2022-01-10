@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /ardmore/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

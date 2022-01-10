@@ -1,5 +1,5 @@
 ---
 title: "Baker's Auto"
 url: /newcastle/bakers-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

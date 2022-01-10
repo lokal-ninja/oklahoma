@@ -1,5 +1,5 @@
 ---
 title: "Reasor's"
 url: /tulsa/reasors/
-shop: Supermarkt
+shop: supermarket
 ---

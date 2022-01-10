@@ -1,5 +1,5 @@
 ---
 title: "Professional Office Equipment"
 url: /ardmore/professional-office-equipment/
-shop: Schreibwaren
+shop: office supplies
 ---

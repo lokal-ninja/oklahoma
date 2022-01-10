@@ -1,5 +1,5 @@
 ---
 title: "Homeland"
 url: /stillwater/homeland/
-shop: Supermarkt
+shop: supermarket
 ---

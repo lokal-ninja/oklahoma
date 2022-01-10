@@ -1,5 +1,5 @@
 ---
 title: "Dirty Dogs Grooming"
 url: /newcastle/dirty-dogs-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

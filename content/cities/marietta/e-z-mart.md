@@ -1,5 +1,5 @@
 ---
 title: "E-Z Mart"
 url: /marietta/e-z-mart/
-shop: Lebensmittel
+shop: convenience
 ---

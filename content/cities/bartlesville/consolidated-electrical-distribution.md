@@ -1,5 +1,5 @@
 ---
 title: "Consolidated Electrical Distribution"
 url: /bartlesville/consolidated-electrical-distribution/
-shop: Eisenwaren
+shop: hardware
 ---

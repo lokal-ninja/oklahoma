@@ -1,5 +1,5 @@
 ---
 title: "Custom Concepts"
 url: /poteau/custom-concepts/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homeland"
 url: /pryor-creek/homeland/
-shop: Supermarkt
+shop: supermarket
 ---

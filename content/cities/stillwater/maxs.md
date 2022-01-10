@@ -1,5 +1,5 @@
 ---
 title: "Max's"
 url: /stillwater/maxs/
-shop: Autowerkstatt
+shop: car repair
 ---

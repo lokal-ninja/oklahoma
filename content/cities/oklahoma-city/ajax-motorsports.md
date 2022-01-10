@@ -1,5 +1,5 @@
 ---
 title: "Ajax Motorsports"
 url: /oklahoma-city/ajax-motorsports/
-shop: Motorrad
+shop: motorcycle
 ---

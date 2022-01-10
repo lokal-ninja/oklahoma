@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /stillwater/sears/
-shop: Baumarkt
+shop: doityourself
 ---

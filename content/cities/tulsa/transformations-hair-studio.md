@@ -1,5 +1,5 @@
 ---
 title: "Transformations Hair Studio"
 url: /tulsa/transformations-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

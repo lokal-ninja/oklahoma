@@ -1,5 +1,5 @@
 ---
 title: "Car Mart"
 url: /stillwater/car-mart/
-shop: Autohaus
+shop: car
 ---

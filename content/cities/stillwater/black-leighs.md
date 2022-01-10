@@ -1,5 +1,5 @@
 ---
 title: "Black Leigh's"
 url: /stillwater/black-leighs/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cooper Tires"
 url: /stillwater/cooper-tires/
-shop: Autowerkstatt
+shop: car repair
 ---

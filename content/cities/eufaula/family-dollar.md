@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /eufaula/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

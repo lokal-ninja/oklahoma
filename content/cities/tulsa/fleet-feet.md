@@ -1,5 +1,5 @@
 ---
 title: "Fleet Feet"
 url: /tulsa/fleet-feet/
-shop: Schuhe
+shop: shoes
 ---

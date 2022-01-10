@@ -1,5 +1,5 @@
 ---
 title: "Pine Cellular"
 url: /antlers/pine-cellular/
-shop: Handy
+shop: mobile phone
 ---

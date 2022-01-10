@@ -1,5 +1,5 @@
 ---
 title: "One Main Financial"
 url: /stillwater/one-main-financial/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Market"
 url: /tulsa/warehouse-market/
-shop: Supermarkt
+shop: supermarket
 ---

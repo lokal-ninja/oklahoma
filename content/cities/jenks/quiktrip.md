@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /jenks/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

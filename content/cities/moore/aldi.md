@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /moore/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

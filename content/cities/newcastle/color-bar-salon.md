@@ -1,5 +1,5 @@
 ---
 title: "Color Bar Salon"
 url: /newcastle/color-bar-salon/
-shop: Friseur
+shop: hairdresser
 ---

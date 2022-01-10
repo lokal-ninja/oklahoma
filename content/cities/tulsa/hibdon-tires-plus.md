@@ -1,5 +1,5 @@
 ---
 title: "Hibdon Tires Plus"
 url: /tulsa/hibdon-tires-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

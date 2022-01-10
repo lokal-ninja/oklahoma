@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /yukon/petsmart/
-shop: Tiere
+shop: pet
 ---

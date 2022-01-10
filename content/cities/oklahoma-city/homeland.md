@@ -1,5 +1,5 @@
 ---
 title: "Homeland"
 url: /oklahoma-city/homeland/
-shop: Supermarkt
+shop: supermarket
 ---

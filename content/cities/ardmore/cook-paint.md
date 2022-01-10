@@ -1,5 +1,5 @@
 ---
 title: "Cook Paint"
 url: /ardmore/cook-paint/
-shop: Farben
+shop: paint
 ---

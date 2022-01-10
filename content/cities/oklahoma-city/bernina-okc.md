@@ -1,5 +1,5 @@
 ---
 title: "Bernina OKC"
 url: /oklahoma-city/bernina-okc/
-shop: Nähzubehör
+shop: sewing
 ---

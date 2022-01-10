@@ -1,5 +1,5 @@
 ---
 title: "Dress Barn"
 url: /stillwater/dress-barn/
-shop: Kleidung
+shop: clothes
 ---

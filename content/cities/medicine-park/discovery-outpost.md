@@ -1,5 +1,5 @@
 ---
 title: "Discovery Outpost"
 url: /medicine-park/discovery-outpost/
-shop: Bücher
+shop: books
 ---

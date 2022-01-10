@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /stillwater/verizon/
-shop: Handy
+shop: mobile phone
 ---

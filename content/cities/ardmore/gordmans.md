@@ -1,5 +1,5 @@
 ---
 title: "Gordmans"
 url: /ardmore/gordmans/
-shop: Warenhaus
+shop: department store
 ---

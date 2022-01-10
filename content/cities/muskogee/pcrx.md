@@ -1,5 +1,5 @@
 ---
 title: "PCRX"
 url: /muskogee/pcrx/
-shop: Computer
+shop: computer
 ---

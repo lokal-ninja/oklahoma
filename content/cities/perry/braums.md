@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /perry/braums/
-shop: Milch
+shop: dairy
 ---

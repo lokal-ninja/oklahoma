@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ardmore/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

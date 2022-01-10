@@ -1,5 +1,5 @@
 ---
 title: "Wave Lengths"
 url: /stillwater/wave-lengths/
-shop: Friseur
+shop: hairdresser
 ---

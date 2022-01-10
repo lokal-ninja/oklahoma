@@ -1,5 +1,5 @@
 ---
 title: "Harps Foods"
 url: /fort-gibson/harps-foods/
-shop: Supermarkt
+shop: supermarket
 ---

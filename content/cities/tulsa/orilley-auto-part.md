@@ -1,5 +1,5 @@
 ---
 title: "O'Rilley Auto Part"
 url: /tulsa/orilley-auto-part/
-shop: Autoteile
+shop: car parts
 ---

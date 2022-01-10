@@ -1,5 +1,5 @@
 ---
 title: "Petro Mart"
 url: /coweta/petro-mart/
-shop: Lebensmittel
+shop: convenience
 ---

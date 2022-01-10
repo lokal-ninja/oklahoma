@@ -1,5 +1,5 @@
 ---
 title: "Courtesy PC"
 url: /tishomingo/courtesy-pc/
-shop: Elektronik
+shop: electronics
 ---

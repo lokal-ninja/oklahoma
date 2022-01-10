@@ -1,5 +1,5 @@
 ---
 title: "Arvin's Detail"
 url: /stillwater/arvins-detail/
-shop: Autowerkstatt
+shop: car repair
 ---

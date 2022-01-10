@@ -1,5 +1,5 @@
 ---
 title: "Xpress Cellular Repair"
 url: /midwest-city/xpress-cellular-repair/
-shop: Handy
+shop: mobile phone
 ---

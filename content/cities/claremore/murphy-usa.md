@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /claremore/murphy-usa/
-shop: Kiosk
+shop: kiosk
 ---

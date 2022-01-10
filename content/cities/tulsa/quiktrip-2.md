@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tulsa/quiktrip-2/
-shop: Lebensmittel
+shop: convenience
 ---

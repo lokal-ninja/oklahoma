@@ -1,5 +1,5 @@
 ---
 title: "Cell Barn"
 url: /stillwater/cell-barn/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ellison Feed and Seed"
 url: /norman/ellison-feed-and-seed/
-shop: Garten-Center
+shop: garden centre
 ---
