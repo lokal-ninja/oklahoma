@@ -1,6 +1,6 @@
 ---
 title: Moore
 url: /moore/
-latitude: 35.322
-longitude: -97.493
+latitude: 35.333
+longitude: -97.478
 ---
