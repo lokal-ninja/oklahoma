@@ -1,6 +1,6 @@
 ---
 title: Tulsa
 url: /tulsa/
-latitude: 36.074
-longitude: -95.886
+latitude: 36.115
+longitude: -95.976
 ---
