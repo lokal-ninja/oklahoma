@@ -1,6 +1,6 @@
 ---
 title: Woodward
 url: /woodward/
-latitude: 36.405
-longitude: -99.362
+latitude: 36.436
+longitude: -99.391
 ---
