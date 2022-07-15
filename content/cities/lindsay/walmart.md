@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /lindsay/walmart/
-shop: supermarket
+shop: department store
 ---
