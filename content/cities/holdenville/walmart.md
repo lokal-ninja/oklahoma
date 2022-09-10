@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /holdenville/walmart/
-shop: supermarket
+shop: department store
 ---
