@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /oklamoma-city/nothing-bundt-cakes/
+url: /norman/nothing-bundt-cakes/
 shop: pastry
 ---
