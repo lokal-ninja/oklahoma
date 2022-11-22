@@ -1,6 +1,6 @@
 ---
 title: Calera
 url: /calera/
-latitude: 33.881
-longitude: -96.5
+latitude: 33.91
+longitude: -96.461
 ---
