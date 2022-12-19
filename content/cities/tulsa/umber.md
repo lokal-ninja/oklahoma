@@ -1,5 +1,5 @@
 ---
 title: "Umber"
 url: /tulsa/umber/
-shop: boutique
+shop: clothes
 ---
