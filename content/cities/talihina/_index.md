@@ -1,6 +1,6 @@
 ---
 title: Talihina
 url: /talihina/
-latitude: 34.753
-longitude: -95.051
+latitude: 34.745
+longitude: -95.043
 ---
