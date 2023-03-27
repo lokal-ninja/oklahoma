@@ -1,6 +1,6 @@
 ---
 title: Bixby
 url: /bixby/
-latitude: 35.918
+latitude: 35.95
 longitude: -95.886
 ---
