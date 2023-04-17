@@ -1,6 +1,6 @@
 ---
 title: Atoka
 url: /atoka/
-latitude: 34.367
-longitude: -96.142
+latitude: 34.364
+longitude: -96.144
 ---
