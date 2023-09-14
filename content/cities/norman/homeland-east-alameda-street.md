@@ -1,5 +1,5 @@
 ---
 title: "Homeland"
-url: /norman/homeland/
+url: /norman/homeland-east-alameda-street/
 shop: supermarket
 ---

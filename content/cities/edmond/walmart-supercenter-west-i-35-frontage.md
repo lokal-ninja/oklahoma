@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /edmond/walmart-supercenter/
+url: /edmond/walmart-supercenter-west-i-35-frontage/
 shop: supermarket
 ---

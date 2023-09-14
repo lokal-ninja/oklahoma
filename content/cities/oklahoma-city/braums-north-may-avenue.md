@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
-url: /oklahoma-city/braums/
+url: /oklahoma-city/braums-north-may-avenue/
 shop: dairy
 ---

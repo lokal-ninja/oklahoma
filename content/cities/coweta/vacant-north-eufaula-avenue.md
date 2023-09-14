@@ -1,5 +1,5 @@
 ---
 title: "(vacant)"
-url: /coweta/vacant/
+url: /coweta/vacant-north-eufaula-avenue/
 shop: vacant
 ---

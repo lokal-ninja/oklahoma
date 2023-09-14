@@ -1,5 +1,5 @@
 ---
 title: "OnCue"
-url: /stillwater/oncue/
+url: /stillwater/oncue-west-6th-avenue/
 shop: convenience
 ---

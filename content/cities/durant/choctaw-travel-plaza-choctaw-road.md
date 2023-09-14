@@ -1,5 +1,5 @@
 ---
 title: "Choctaw Travel Plaza"
-url: /durant/choctaw-travel-plaza/
+url: /durant/choctaw-travel-plaza-choctaw-road/
 shop: convenience
 ---

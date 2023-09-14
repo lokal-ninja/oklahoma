@@ -1,5 +1,5 @@
 ---
 title: "SecurCare Self Storage"
-url: /tulsa/securcare-self-storage/
+url: /tulsa/securcare-self-storage-south-yale-avenue/
 shop: storage rental
 ---

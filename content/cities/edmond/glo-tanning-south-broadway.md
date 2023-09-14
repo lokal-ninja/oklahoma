@@ -1,5 +1,5 @@
 ---
 title: "Glo Tanning"
-url: /edmond/glo-tanning/
+url: /edmond/glo-tanning-south-broadway/
 shop: beauty
 ---

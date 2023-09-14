@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
-url: /stillwater/braums/
+url: /stillwater/braums-north-perkins-road/
 shop: dairy
 ---

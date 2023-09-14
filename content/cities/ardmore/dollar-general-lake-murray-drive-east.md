@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /ardmore/dollar-general/
+url: /ardmore/dollar-general-lake-murray-drive-east/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
-url: /oklahoma-city/braums/
+url: /oklahoma-city/braums-south-shields-boulevard/
 shop: dairy
 ---
