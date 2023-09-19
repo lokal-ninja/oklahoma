@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Market"
-url: /tulsa/warehouse-market-south-lewis-avenue/
+url: /tulsa/warehouse-market-north-sheridan-road/
 shop: supermarket
 ---
