@@ -1,6 +1,6 @@
 ---
 title: Elk City
 url: /elk-city/
-latitude: 35.411
-longitude: -99.419
+latitude: 35.409
+longitude: -99.377
 ---
