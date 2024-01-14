@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /tulsa/walmart-neighborhood-market-east-21st-street/
+url: /tulsa/walmart-neighborhood-market-south-harvard-avenue/
 shop: supermarket
 ---
