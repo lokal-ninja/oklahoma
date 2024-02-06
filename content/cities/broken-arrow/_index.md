@@ -1,6 +1,6 @@
 ---
 title: Broken Arrow
 url: /broken-arrow/
-latitude: 36.067
-longitude: -95.742
+latitude: 36.06
+longitude: -95.82
 ---
