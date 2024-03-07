@@ -1,5 +1,5 @@
 ---
-title: "irby"
+title: "Irby"
 url: /tulsa/irby/
 shop: electrical
 ---
