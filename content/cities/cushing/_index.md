@@ -1,6 +1,6 @@
 ---
 title: Cushing
 url: /cushing/
-latitude: 35.988
-longitude: -96.722
+latitude: 35.985
+longitude: -96.77
 ---
