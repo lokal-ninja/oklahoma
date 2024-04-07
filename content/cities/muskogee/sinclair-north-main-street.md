@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
-url: /muskogee/sinclair-chandler-road/
+url: /muskogee/sinclair-north-main-street/
 shop: convenience
 ---
