@@ -1,6 +1,6 @@
 ---
 title: Cartwright
 url: /cartwright/
-latitude: 33.853
-longitude: -96.568
+latitude: 33.854
+longitude: -96.566
 ---
