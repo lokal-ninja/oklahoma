@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /tulsa/jiffy-lube-south-garnett-road/
+url: /tulsa/jiffy-lube-east-skelly-drive/
 shop: car repair
 ---
