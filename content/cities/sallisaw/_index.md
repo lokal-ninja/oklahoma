@@ -1,6 +1,6 @@
 ---
 title: Sallisaw
 url: /sallisaw/
-latitude: 35.451
-longitude: -94.802
+latitude: 35.464
+longitude: -94.708
 ---
