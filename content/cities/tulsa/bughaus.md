@@ -1,5 +1,5 @@
 ---
 title: "Bughaus"
 url: /tulsa/bughaus/
-shop: car parts
+shop: car repair
 ---

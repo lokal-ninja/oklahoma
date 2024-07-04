@@ -1,6 +1,6 @@
 ---
 title: Oklahoma City
 url: /oklahoma-city/
-latitude: 35.319
-longitude: -97.513
+latitude: 35.615
+longitude: -97.548
 ---
