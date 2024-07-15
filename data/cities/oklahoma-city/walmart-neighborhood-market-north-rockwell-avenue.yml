@@ -1,11 +1,11 @@
-id: 5315598993
-type: node
-latitude: 35.5825
-longitude: -97.64
+id: 567258580
+type: way
+latitude: 35.5828
+longitude: -97.64024
 postcode: "73162"
 city: Oklahoma City
 street: "North Rockwell Avenue"
 housenumber: 11101
-phone: "+1-405-773-3555"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2877/oklahoma-city-ok/whats-new"
+phone: "+1 405-773-3555"
+opening_hours: "06:00-23:00"
+website: "https://www.walmart.com/store/2877-oklahoma-city-ok"
