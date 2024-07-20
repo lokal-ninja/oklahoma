@@ -1,6 +1,6 @@
 ---
 title: Wilburton
 url: /wilburton/
-latitude: 34.921
-longitude: -95.323
+latitude: 34.918
+longitude: -95.318
 ---
