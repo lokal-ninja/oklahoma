@@ -1,6 +1,6 @@
 ---
 title: Hennessey
 url: /hennessey/
-latitude: 36.109
-longitude: -97.897
+latitude: 36.108
+longitude: -97.899
 ---
