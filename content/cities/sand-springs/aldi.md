@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sand-springs/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

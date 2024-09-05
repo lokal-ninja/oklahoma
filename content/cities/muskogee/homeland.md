@@ -1,5 +1,5 @@
 ---
 title: "Homeland"
 url: /muskogee/homeland/
-shop: supermarket
+shop: Supermarkt
 ---

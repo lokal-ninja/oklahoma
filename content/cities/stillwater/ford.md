@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /stillwater/ford/
-shop: car
+shop: Autohaus
 ---

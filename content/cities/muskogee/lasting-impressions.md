@@ -1,5 +1,5 @@
 ---
 title: "Lasting Impressions"
 url: /muskogee/lasting-impressions/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ritz"
 url: /muskogee/ritz/
-shop: hairdresser
+shop: Friseur
 ---

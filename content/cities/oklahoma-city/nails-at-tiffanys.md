@@ -1,5 +1,5 @@
 ---
 title: "Nails At Tiffany's"
 url: /oklahoma-city/nails-at-tiffanys/
-shop: beauty
+shop: Kosmetik
 ---

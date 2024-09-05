@@ -1,5 +1,5 @@
 ---
 title: "Pro Nails"
 url: /muskogee/pro-nails/
-shop: beauty
+shop: Kosmetik
 ---

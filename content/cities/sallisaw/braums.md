@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /sallisaw/braums/
-shop: dairy
+shop: Milch
 ---

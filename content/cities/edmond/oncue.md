@@ -1,5 +1,5 @@
 ---
 title: "OnCue"
 url: /edmond/oncue/
-shop: convenience
+shop: Lebensmittel
 ---

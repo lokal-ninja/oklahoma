@@ -1,5 +1,5 @@
 ---
 title: "Sophisticuts"
 url: /muskogee/sophisticuts/
-shop: hairdresser
+shop: Friseur
 ---

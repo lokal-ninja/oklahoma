@@ -1,5 +1,5 @@
 ---
 title: "Sanchez Tires"
 url: /tulsa/sanchez-tires/
-shop: tyres
+shop: Reifen
 ---

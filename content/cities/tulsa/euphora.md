@@ -1,5 +1,5 @@
 ---
 title: "Euphora"
 url: /tulsa/euphora/
-shop: cannabis
+shop: Hanf
 ---

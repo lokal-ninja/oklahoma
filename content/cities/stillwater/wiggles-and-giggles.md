@@ -1,5 +1,5 @@
 ---
 title: "Wiggles and Giggles"
 url: /stillwater/wiggles-and-giggles/
-shop: gift
+shop: Andenken
 ---

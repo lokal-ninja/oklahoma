@@ -1,5 +1,5 @@
 ---
 title: "Waxing the City"
 url: /oklahoma-city/waxing-the-city/
-shop: beauty
+shop: Kosmetik
 ---

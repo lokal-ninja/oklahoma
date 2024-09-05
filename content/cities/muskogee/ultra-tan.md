@@ -1,5 +1,5 @@
 ---
 title: "Ultra Tan"
 url: /muskogee/ultra-tan/
-shop: beauty
+shop: Kosmetik
 ---

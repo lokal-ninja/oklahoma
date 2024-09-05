@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /vian/loves/
-shop: convenience
+shop: Lebensmittel
 ---

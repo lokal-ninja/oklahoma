@@ -1,5 +1,5 @@
 ---
 title: "Harps"
 url: /roland/harps/
-shop: supermarket
+shop: Supermarkt
 ---

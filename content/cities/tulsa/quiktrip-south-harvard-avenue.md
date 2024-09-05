@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tulsa/quiktrip-south-harvard-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

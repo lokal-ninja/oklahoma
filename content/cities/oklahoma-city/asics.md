@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /oklahoma-city/asics/
-shop: shoes
+shop: Schuhe
 ---

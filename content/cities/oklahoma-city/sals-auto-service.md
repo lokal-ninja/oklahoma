@@ -1,5 +1,5 @@
 ---
 title: "Sal's Auto Service"
 url: /oklahoma-city/sals-auto-service/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /catoosa/ross/
-shop: department store
+shop: Warenhaus
 ---

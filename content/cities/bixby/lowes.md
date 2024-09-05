@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /bixby/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

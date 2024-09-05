@@ -1,5 +1,5 @@
 ---
 title: "EarMaster"
 url: /ada/earmaster/
-shop: hearing aids
+shop: Hörgeräte
 ---

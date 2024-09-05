@@ -1,5 +1,5 @@
 ---
 title: "El Rinconcito"
 url: /oklahoma-city/el-rinconcito/
-shop: supermarket
+shop: Supermarkt
 ---

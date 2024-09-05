@@ -1,5 +1,5 @@
 ---
 title: "Stuteville Ford of Atoka"
 url: /atoka/stuteville-ford-of-atoka/
-shop: car
+shop: Autohaus
 ---

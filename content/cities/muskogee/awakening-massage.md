@@ -1,5 +1,5 @@
 ---
 title: "Awakening Massage"
 url: /muskogee/awakening-massage/
-shop: massage
+shop: Massage
 ---

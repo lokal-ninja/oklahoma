@@ -1,5 +1,5 @@
 ---
 title: "State Beauty Supply"
 url: /broken-arrow/state-beauty-supply/
-shop: shop
+shop: Allgemein
 ---

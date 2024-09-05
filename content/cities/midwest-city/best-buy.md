@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /midwest-city/best-buy/
-shop: electronics
+shop: Elektronik
 ---

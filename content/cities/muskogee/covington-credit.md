@@ -1,5 +1,5 @@
 ---
 title: "Covington Credit"
 url: /muskogee/covington-credit/
-shop: pawnbroker
+shop: Leiher
 ---

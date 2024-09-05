@@ -1,5 +1,5 @@
 ---
 title: "Bryde"
 url: /tulsa/bryde/
-shop: clothes
+shop: Kleidung
 ---

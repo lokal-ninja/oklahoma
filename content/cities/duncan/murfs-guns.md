@@ -1,5 +1,5 @@
 ---
 title: "Murf's Guns"
 url: /duncan/murfs-guns/
-shop: weapons
+shop: Waffen
 ---

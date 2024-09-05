@@ -1,5 +1,5 @@
 ---
 title: "Fancy Nails"
 url: /oklahoma-city/fancy-nails/
-shop: beauty
+shop: Kosmetik
 ---

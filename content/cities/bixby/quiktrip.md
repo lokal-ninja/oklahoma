@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /bixby/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

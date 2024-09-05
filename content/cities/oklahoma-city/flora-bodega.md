@@ -1,5 +1,5 @@
 ---
 title: "Flora Bodega"
 url: /oklahoma-city/flora-bodega/
-shop: supermarket
+shop: Supermarkt
 ---

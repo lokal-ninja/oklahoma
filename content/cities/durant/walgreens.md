@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /durant/walgreens/
-shop: chemist
+shop: Drogerie
 ---

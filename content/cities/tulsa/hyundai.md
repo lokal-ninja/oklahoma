@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /tulsa/hyundai/
-shop: car
+shop: Autohaus
 ---

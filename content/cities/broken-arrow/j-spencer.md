@@ -1,5 +1,5 @@
 ---
 title: "J. Spencer"
 url: /broken-arrow/j-spencer/
-shop: jewelry
+shop: Schmuck
 ---

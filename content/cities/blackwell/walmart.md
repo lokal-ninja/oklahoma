@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /blackwell/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

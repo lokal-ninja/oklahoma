@@ -1,5 +1,5 @@
 ---
 title: "Blend Salon"
 url: /oklahoma-city/blend-salon/
-shop: hairdresser
+shop: Friseur
 ---

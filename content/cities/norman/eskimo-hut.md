@@ -1,5 +1,5 @@
 ---
 title: "Eskimo Hut"
 url: /norman/eskimo-hut/
-shop: shop
+shop: Allgemein
 ---

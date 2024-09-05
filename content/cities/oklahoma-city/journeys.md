@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /oklahoma-city/journeys/
-shop: shoes
+shop: Schuhe
 ---

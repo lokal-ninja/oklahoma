@@ -1,5 +1,5 @@
 ---
 title: "Sutherlands"
 url: /tulsa/sutherlands/
-shop: hardware
+shop: Eisenwaren
 ---

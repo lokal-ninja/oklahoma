@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /stillwater/atwoods/
-shop: farm
+shop: Hofladen
 ---

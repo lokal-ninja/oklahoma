@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /stillwater/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

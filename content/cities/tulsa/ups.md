@@ -1,5 +1,5 @@
 ---
 title: "UPS"
 url: /tulsa/ups/
-shop: copyshop
+shop: Kopieren
 ---

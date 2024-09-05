@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /tulsa/quiktrip-east-admiral-place-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Women's Health Boutique"
 url: /oklahoma-city/womens-health-boutique/
-shop: beauty
+shop: Kosmetik
 ---

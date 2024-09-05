@@ -1,5 +1,5 @@
 ---
 title: "Anathallo Wellness"
 url: /oklahoma-city/anathallo-wellness/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /pauls-valley/braums/
-shop: dairy
+shop: Milch
 ---

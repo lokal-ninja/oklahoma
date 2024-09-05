@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /stillwater/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

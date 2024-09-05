@@ -1,5 +1,5 @@
 ---
 title: "Skyn"
 url: /broken-arrow/skyn/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Collegetown Real O state"
 url: /stillwater/collegetown-real-o-state/
-shop: estate agent
+shop: Immobilien
 ---

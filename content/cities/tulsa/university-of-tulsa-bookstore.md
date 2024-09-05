@@ -1,5 +1,5 @@
 ---
 title: "University of Tulsa Bookstore"
 url: /tulsa/university-of-tulsa-bookstore/
-shop: books
+shop: Bücher
 ---

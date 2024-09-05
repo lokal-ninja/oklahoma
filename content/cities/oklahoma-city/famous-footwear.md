@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /oklahoma-city/famous-footwear/
-shop: shoes
+shop: Schuhe
 ---
