@@ -1,5 +1,5 @@
 ---
 title: "Ruffin's Transmision and Automotive"
 url: /hugo/ruffins-transmision-and-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Budz Dispensary"
 url: /oklahoma-city/best-budz-dispensary/
-shop: Hanf
+shop: cannabis
 ---

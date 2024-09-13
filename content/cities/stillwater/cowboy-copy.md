@@ -1,5 +1,5 @@
 ---
 title: "Cowboy Copy"
 url: /stillwater/cowboy-copy/
-shop: Kopieren
+shop: copyshop
 ---

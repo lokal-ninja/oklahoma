@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /muskogee/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

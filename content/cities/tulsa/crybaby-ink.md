@@ -1,5 +1,5 @@
 ---
 title: "Crybaby Ink"
 url: /tulsa/crybaby-ink/
-shop: Tattoo
+shop: tattoo
 ---

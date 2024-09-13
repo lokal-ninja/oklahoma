@@ -1,5 +1,5 @@
 ---
 title: "Shadow Mountain Comics"
 url: /tulsa/shadow-mountain-comics/
-shop: Sammler
+shop: collector
 ---

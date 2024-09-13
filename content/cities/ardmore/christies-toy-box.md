@@ -1,5 +1,5 @@
 ---
 title: "Christies Toy Box"
 url: /ardmore/christies-toy-box/
-shop: Andenken
+shop: gift
 ---

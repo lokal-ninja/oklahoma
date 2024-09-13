@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /broken-arrow/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

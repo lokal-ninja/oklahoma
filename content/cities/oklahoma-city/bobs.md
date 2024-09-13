@@ -1,5 +1,5 @@
 ---
 title: "Bob's"
 url: /oklahoma-city/bobs/
-shop: Lebensmittel
+shop: convenience
 ---

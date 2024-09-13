@@ -1,5 +1,5 @@
 ---
 title: "Tate Boys"
 url: /catoosa/tate-boys/
-shop: Reifen
+shop: tyres
 ---

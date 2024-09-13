@@ -1,5 +1,5 @@
 ---
 title: "Eufaula True Value Hardware"
 url: /eufaula/eufaula-true-value-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

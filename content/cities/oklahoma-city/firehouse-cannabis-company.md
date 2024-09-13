@@ -1,5 +1,5 @@
 ---
 title: "Firehouse Cannabis Company"
 url: /oklahoma-city/firehouse-cannabis-company/
-shop: Hanf
+shop: cannabis
 ---

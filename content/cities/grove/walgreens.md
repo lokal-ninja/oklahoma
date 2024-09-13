@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /grove/walgreens/
-shop: Drogerie
+shop: chemist
 ---

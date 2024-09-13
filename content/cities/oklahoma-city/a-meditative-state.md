@@ -1,5 +1,5 @@
 ---
 title: "A Meditative State"
 url: /oklahoma-city/a-meditative-state/
-shop: Massage
+shop: massage
 ---

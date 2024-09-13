@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /muskogee/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

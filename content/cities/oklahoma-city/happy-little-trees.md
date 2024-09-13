@@ -1,5 +1,5 @@
 ---
 title: "Happy Little Trees"
 url: /oklahoma-city/happy-little-trees/
-shop: Hanf
+shop: cannabis
 ---

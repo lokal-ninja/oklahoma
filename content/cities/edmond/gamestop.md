@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /edmond/gamestop/
-shop: Videospiele
+shop: video games
 ---

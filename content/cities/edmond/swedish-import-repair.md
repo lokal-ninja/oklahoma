@@ -1,5 +1,5 @@
 ---
 title: "Swedish Import Repair"
 url: /edmond/swedish-import-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

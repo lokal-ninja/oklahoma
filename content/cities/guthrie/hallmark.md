@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /guthrie/hallmark/
-shop: Andenken
+shop: gift
 ---

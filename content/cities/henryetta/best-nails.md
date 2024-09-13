@@ -1,5 +1,5 @@
 ---
 title: "Best Nails"
 url: /henryetta/best-nails/
-shop: Kosmetik
+shop: beauty
 ---

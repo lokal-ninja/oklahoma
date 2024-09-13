@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tulsa/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

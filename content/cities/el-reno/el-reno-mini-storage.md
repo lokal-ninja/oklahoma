@@ -1,5 +1,5 @@
 ---
 title: "El Reno Mini Storage"
 url: /el-reno/el-reno-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

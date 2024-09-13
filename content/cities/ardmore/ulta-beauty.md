@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /ardmore/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

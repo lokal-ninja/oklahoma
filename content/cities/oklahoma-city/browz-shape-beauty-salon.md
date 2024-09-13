@@ -1,5 +1,5 @@
 ---
 title: "Browz Shape Beauty Salon"
 url: /oklahoma-city/browz-shape-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

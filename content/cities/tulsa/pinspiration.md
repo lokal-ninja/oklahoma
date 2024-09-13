@@ -1,5 +1,5 @@
 ---
 title: "Pinspiration"
 url: /tulsa/pinspiration/
-shop: Kunst
+shop: art
 ---

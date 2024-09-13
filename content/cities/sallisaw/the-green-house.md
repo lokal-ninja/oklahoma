@@ -1,5 +1,5 @@
 ---
 title: "The Green House"
 url: /sallisaw/the-green-house/
-shop: Blumen
+shop: florist
 ---

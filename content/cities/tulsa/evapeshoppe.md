@@ -1,5 +1,5 @@
 ---
 title: "EVAPESHOPPE"
 url: /tulsa/evapeshoppe/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Boarding House"
 url: /guthrie/the-boarding-house/
-shop: Spielzeug
+shop: toys
 ---

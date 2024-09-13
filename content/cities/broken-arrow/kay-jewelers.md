@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /broken-arrow/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

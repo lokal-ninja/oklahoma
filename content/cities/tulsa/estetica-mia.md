@@ -1,5 +1,5 @@
 ---
 title: "Estética Mia"
 url: /tulsa/estetica-mia/
-shop: Kosmetik
+shop: beauty
 ---

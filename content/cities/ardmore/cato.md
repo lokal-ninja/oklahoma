@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /ardmore/cato/
-shop: Kleidung
+shop: clothes
 ---

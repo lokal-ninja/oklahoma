@@ -1,5 +1,5 @@
 ---
 title: "United Rentals"
 url: /oklahoma-city/united-rentals/
-shop: Allgemein
+shop: shop
 ---

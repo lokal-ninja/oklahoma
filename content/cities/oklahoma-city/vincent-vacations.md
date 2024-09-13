@@ -1,5 +1,5 @@
 ---
 title: "Vincent Vacations"
 url: /oklahoma-city/vincent-vacations/
-shop: Reisebüro
+shop: travel agency
 ---

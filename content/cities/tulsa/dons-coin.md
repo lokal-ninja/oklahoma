@@ -1,5 +1,5 @@
 ---
 title: "Don's Coin"
 url: /tulsa/dons-coin/
-shop: Sammler
+shop: collector
 ---

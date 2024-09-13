@@ -1,5 +1,5 @@
 ---
 title: "Life Storage - Oklahoma City"
 url: /oklahoma-city/life-storage-oklahoma-city/
-shop: Mieten
+shop: storage rental
 ---

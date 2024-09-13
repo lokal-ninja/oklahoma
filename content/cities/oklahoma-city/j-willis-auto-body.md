@@ -1,5 +1,5 @@
 ---
 title: "J. Willis Auto Body"
 url: /oklahoma-city/j-willis-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

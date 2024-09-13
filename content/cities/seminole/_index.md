@@ -1,6 +1,6 @@
 ---
 title: Seminole
 url: /seminole/
-latitude: 35.248
-longitude: -96.655
+latitude: 35.316
+longitude: -96.671
 ---

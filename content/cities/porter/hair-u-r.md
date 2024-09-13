@@ -1,5 +1,5 @@
 ---
 title: "Hair U R"
 url: /porter/hair-u-r/
-shop: Friseur
+shop: hairdresser
 ---

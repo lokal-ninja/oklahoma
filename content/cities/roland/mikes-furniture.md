@@ -1,5 +1,5 @@
 ---
 title: "Mike's Furniture"
 url: /roland/mikes-furniture/
-shop: Möbel
+shop: furniture
 ---

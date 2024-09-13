@@ -1,5 +1,5 @@
 ---
 title: "Don Grantham's Funeral Home"
 url: /duncan/don-granthams-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

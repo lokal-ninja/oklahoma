@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /edmond/target/
-shop: Warenhaus
+shop: department store
 ---

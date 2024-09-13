@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /enid/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

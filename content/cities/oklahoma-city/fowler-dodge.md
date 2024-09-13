@@ -1,5 +1,5 @@
 ---
 title: "Fowler Dodge"
 url: /oklahoma-city/fowler-dodge/
-shop: Autohaus
+shop: car
 ---

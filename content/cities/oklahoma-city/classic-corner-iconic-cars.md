@@ -1,5 +1,5 @@
 ---
 title: "Classic Corner Iconic Cars"
 url: /oklahoma-city/classic-corner-iconic-cars/
-shop: Autowerkstatt
+shop: car repair
 ---

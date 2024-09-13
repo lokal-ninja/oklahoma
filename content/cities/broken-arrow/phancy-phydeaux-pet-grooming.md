@@ -1,5 +1,5 @@
 ---
 title: "Phancy Phydeaux Pet Grooming"
 url: /broken-arrow/phancy-phydeaux-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

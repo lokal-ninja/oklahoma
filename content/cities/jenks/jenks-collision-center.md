@@ -1,5 +1,5 @@
 ---
 title: "Jenks Collision Center"
 url: /jenks/jenks-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

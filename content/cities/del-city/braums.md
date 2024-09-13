@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /del-city/braums/
-shop: Milch
+shop: dairy
 ---

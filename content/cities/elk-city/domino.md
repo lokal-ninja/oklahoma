@@ -1,5 +1,5 @@
 ---
 title: "Domino"
 url: /elk-city/domino/
-shop: Lebensmittel
+shop: convenience
 ---

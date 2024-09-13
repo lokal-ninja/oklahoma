@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /shawnee/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

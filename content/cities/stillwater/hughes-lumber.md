@@ -1,5 +1,5 @@
 ---
 title: "Hughes Lumber"
 url: /stillwater/hughes-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

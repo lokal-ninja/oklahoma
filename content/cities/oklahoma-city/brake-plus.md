@@ -1,5 +1,5 @@
 ---
 title: "Brake Plus"
 url: /oklahoma-city/brake-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

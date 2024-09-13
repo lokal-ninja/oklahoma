@@ -1,5 +1,5 @@
 ---
 title: "Vintage Stock"
 url: /oklahoma-city/vintage-stock/
-shop: Videospiele
+shop: video games
 ---

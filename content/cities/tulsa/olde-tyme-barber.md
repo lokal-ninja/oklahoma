@@ -1,5 +1,5 @@
 ---
 title: "Olde Tyme Barber"
 url: /tulsa/olde-tyme-barber/
-shop: Friseur
+shop: hairdresser
 ---

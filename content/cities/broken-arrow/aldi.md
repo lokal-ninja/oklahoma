@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /broken-arrow/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

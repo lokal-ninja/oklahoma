@@ -1,5 +1,5 @@
 ---
 title: "R. L. Fix Automotive"
 url: /tulsa/r-l-fix-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

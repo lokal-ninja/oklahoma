@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /midwest-city/pearle-vision/
-shop: Optiker
+shop: optician
 ---

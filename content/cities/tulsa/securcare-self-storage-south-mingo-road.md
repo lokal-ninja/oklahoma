@@ -1,5 +1,5 @@
 ---
 title: "SecurCare Self Storage"
 url: /tulsa/securcare-self-storage-south-mingo-road/
-shop: Mieten
+shop: storage rental
 ---

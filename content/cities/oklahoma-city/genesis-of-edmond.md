@@ -1,5 +1,5 @@
 ---
 title: "Genesis of Edmond"
 url: /oklahoma-city/genesis-of-edmond/
-shop: Autohaus
+shop: car
 ---

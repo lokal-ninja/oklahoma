@@ -1,5 +1,5 @@
 ---
 title: "Interior Gilt"
 url: /oklahoma-city/interior-gilt/
-shop: Möbel
+shop: furniture
 ---

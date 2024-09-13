@@ -1,5 +1,5 @@
 ---
 title: "Vitrum Smoke Shop"
 url: /oklahoma-city/vitrum-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

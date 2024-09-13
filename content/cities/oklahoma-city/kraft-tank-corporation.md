@@ -1,5 +1,5 @@
 ---
 title: "Kraft Tank Corporation"
 url: /oklahoma-city/kraft-tank-corporation/
-shop: Autoteile
+shop: car parts
 ---

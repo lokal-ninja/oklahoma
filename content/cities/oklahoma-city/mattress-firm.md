@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /oklahoma-city/mattress-firm/
-shop: Betten
+shop: bed
 ---

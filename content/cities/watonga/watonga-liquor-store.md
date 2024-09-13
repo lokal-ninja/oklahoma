@@ -1,5 +1,5 @@
 ---
 title: "Watonga Liquor Store"
 url: /watonga/watonga-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

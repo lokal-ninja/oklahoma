@@ -1,5 +1,5 @@
 ---
 title: "Toby's Pit Stop"
 url: /muskogee/tobys-pit-stop/
-shop: Lebensmittel
+shop: convenience
 ---

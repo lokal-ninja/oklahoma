@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /norman/best-buy/
-shop: Elektronik
+shop: electronics
 ---

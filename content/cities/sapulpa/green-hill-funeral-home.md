@@ -1,5 +1,5 @@
 ---
 title: "Green Hill Funeral Home"
 url: /sapulpa/green-hill-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

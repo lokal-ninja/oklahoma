@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Unlimited"
 url: /tulsa/autohaus-unlimited/
-shop: Autowerkstatt
+shop: car repair
 ---

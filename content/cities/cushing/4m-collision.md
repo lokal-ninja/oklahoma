@@ -1,5 +1,5 @@
 ---
 title: "4M Collision"
 url: /cushing/4m-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

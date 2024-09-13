@@ -1,5 +1,5 @@
 ---
 title: "Leisure Way Laundry"
 url: /muskogee/leisure-way-laundry/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fowlers General Store"
 url: /byars/fowlers-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

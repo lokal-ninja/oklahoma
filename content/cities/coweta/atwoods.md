@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /coweta/atwoods/
-shop: Dorfladen
+shop: general
 ---

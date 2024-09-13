@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /tulsa/office-depot-south-lewis/
-shop: Schreibwaren
+shop: office supplies
 ---

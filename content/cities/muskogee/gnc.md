@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /muskogee/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

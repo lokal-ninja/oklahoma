@@ -1,5 +1,5 @@
 ---
 title: "Happy Cloud Time"
 url: /oklahoma-city/happy-cloud-time/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

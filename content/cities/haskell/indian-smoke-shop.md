@@ -1,5 +1,5 @@
 ---
 title: "Indian Smoke Shop"
 url: /haskell/indian-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

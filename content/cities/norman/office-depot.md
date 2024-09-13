@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /norman/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /stillwater/goodwill/
-shop: Kleidung
+shop: clothes
 ---

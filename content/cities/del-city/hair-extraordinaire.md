@@ -1,5 +1,5 @@
 ---
 title: "Hair Extraordinaire"
 url: /del-city/hair-extraordinaire/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Victoria's Secret"
 url: /oklahoma-city/victorias-secret/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food King"
 url: /colbert/food-king/
-shop: Supermarkt
+shop: supermarket
 ---

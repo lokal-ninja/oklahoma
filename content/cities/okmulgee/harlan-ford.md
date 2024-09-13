@@ -1,5 +1,5 @@
 ---
 title: "Harlan Ford"
 url: /okmulgee/harlan-ford/
-shop: Autohaus
+shop: car
 ---

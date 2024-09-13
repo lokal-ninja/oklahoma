@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tulsa/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

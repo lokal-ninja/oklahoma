@@ -1,5 +1,5 @@
 ---
 title: "Rhett's Meat Market"
 url: /oklahoma-city/rhetts-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

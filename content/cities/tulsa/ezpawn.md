@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /tulsa/ezpawn/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Plaza"
 url: /lawton/central-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

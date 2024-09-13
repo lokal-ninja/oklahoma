@@ -1,5 +1,5 @@
 ---
 title: "Dyer Memorial Chapel"
 url: /tulsa/dyer-memorial-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

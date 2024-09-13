@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /owasso/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /norman/natural-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

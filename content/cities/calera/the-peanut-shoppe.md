@@ -1,5 +1,5 @@
 ---
 title: "The Peanut Shoppe"
 url: /calera/the-peanut-shoppe/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /moore/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

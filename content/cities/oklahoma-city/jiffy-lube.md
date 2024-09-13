@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /oklahoma-city/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

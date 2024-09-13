@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /oklahoma-city/fastenal/
-shop: Baustoffe
+shop: trade
 ---

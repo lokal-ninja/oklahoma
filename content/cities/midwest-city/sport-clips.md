@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /midwest-city/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

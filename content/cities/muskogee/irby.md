@@ -1,5 +1,5 @@
 ---
 title: "Irby"
 url: /muskogee/irby/
-shop: Baustoffe
+shop: trade
 ---

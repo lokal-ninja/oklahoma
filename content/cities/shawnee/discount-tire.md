@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /shawnee/discount-tire/
-shop: Reifen
+shop: tyres
 ---

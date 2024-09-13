@@ -1,5 +1,5 @@
 ---
 title: "Twister Wireless"
 url: /tulsa/twister-wireless/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon One Twenty Three"
 url: /broken-bow/salon-one-twenty-three/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Tire"
 url: /stillwater/pioneer-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

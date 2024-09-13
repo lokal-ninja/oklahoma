@@ -1,5 +1,5 @@
 ---
 title: "Lee/Wrangler"
 url: /oklahoma-city/lee-wrangler/
-shop: Kleidung
+shop: clothes
 ---

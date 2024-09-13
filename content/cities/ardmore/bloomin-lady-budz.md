@@ -1,5 +1,5 @@
 ---
 title: "Bloomin' Lady Budz"
 url: /ardmore/bloomin-lady-budz/
-shop: Tabak
+shop: tobacco
 ---

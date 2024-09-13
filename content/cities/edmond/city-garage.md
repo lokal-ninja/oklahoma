@@ -1,5 +1,5 @@
 ---
 title: "City Garage"
 url: /edmond/city-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

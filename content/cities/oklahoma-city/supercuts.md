@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /oklahoma-city/supercuts/
-shop: Kosmetik
+shop: beauty
 ---

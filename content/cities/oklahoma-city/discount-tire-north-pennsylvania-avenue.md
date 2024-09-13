@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /oklahoma-city/discount-tire-north-pennsylvania-avenue/
-shop: Reifen
+shop: tyres
 ---

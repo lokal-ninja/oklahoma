@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /moore/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

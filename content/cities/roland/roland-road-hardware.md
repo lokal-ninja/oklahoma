@@ -1,5 +1,5 @@
 ---
 title: "Roland Road Hardware"
 url: /roland/roland-road-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

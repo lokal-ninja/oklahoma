@@ -1,5 +1,5 @@
 ---
 title: "Absolute Self Storage"
 url: /tulsa/absolute-self-storage/
-shop: Mieten
+shop: storage rental
 ---

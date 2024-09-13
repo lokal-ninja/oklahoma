@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /guthrie/loves/
-shop: Lebensmittel
+shop: convenience
 ---

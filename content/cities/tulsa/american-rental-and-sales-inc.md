@@ -1,5 +1,5 @@
 ---
 title: "American Rental and Sales Inc"
 url: /tulsa/american-rental-and-sales-inc/
-shop: Allgemein
+shop: shop
 ---

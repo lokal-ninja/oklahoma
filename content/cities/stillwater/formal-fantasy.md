@@ -1,5 +1,5 @@
 ---
 title: "Formal Fantasy"
 url: /stillwater/formal-fantasy/
-shop: Kleidung
+shop: clothes
 ---

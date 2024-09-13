@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /mcalester/braums/
-shop: Milch
+shop: dairy
 ---

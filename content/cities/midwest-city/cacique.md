@@ -1,5 +1,5 @@
 ---
 title: "Cacique"
 url: /midwest-city/cacique/
-shop: Kleidung
+shop: clothes
 ---

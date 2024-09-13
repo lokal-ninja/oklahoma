@@ -1,5 +1,5 @@
 ---
 title: "Trout Auto"
 url: /stillwater/trout-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

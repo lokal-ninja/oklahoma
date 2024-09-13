@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /oklahoma-city/ezpawn/
-shop: Leiher
+shop: pawnbroker
 ---

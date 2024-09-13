@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /broken-arrow/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

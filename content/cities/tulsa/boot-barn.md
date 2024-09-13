@@ -1,5 +1,5 @@
 ---
 title: "Boot Barn"
 url: /tulsa/boot-barn/
-shop: Kleidung
+shop: clothes
 ---

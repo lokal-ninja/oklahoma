@@ -1,5 +1,5 @@
 ---
 title: "Fashion Nails"
 url: /edmond/fashion-nails/
-shop: Kosmetik
+shop: beauty
 ---

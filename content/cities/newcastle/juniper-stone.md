@@ -1,5 +1,5 @@
 ---
 title: "Juniper Stone"
 url: /newcastle/juniper-stone/
-shop: Friseur
+shop: hairdresser
 ---

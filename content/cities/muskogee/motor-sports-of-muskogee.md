@@ -1,5 +1,5 @@
 ---
 title: "Motor Sports of Muskogee"
 url: /muskogee/motor-sports-of-muskogee/
-shop: Motorrad
+shop: motorcycle
 ---

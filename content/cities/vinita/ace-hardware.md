@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /vinita/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

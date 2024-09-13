@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /stillwater/walmart-supercenter-north-perkins-road/
-shop: Supermarkt
+shop: supermarket
 ---

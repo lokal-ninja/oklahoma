@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /norman/target/
-shop: Supermarkt
+shop: supermarket
 ---

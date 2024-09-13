@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /oklahoma-city/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

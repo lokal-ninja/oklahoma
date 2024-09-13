@@ -1,5 +1,5 @@
 ---
 title: "Fast Lane"
 url: /muskogee/fast-lane/
-shop: Lebensmittel
+shop: convenience
 ---

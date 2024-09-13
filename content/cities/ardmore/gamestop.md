@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /ardmore/gamestop/
-shop: Videospiele
+shop: video games
 ---

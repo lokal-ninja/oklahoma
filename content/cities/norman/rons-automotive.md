@@ -1,5 +1,5 @@
 ---
 title: "Ron's Automotive"
 url: /norman/rons-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

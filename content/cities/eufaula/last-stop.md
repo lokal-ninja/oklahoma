@@ -1,5 +1,5 @@
 ---
 title: "Last Stop"
 url: /eufaula/last-stop/
-shop: Lebensmittel
+shop: convenience
 ---

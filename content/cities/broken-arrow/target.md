@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /broken-arrow/target/
-shop: Warenhaus
+shop: department store
 ---

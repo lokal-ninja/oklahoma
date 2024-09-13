@@ -1,5 +1,5 @@
 ---
 title: "Fan Fortress"
 url: /tulsa/fan-fortress/
-shop: Spielzeug
+shop: toys
 ---

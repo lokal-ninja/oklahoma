@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /oklahoma-city/walmart-supercenter-northwest-expressway/
-shop: Supermarkt
+shop: supermarket
 ---

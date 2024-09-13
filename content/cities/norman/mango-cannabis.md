@@ -1,5 +1,5 @@
 ---
 title: "Mango Cannabis"
 url: /norman/mango-cannabis/
-shop: Allgemein
+shop: shop
 ---

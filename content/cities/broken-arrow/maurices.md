@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /broken-arrow/maurices/
-shop: Kleidung
+shop: clothes
 ---

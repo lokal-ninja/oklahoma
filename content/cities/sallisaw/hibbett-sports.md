@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /sallisaw/hibbett-sports/
-shop: Sport
+shop: sports
 ---

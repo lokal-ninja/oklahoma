@@ -1,5 +1,5 @@
 ---
 title: "Sunflower Nutrition"
 url: /coweta/sunflower-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

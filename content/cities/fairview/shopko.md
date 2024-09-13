@@ -1,5 +1,5 @@
 ---
 title: "Shopko"
 url: /fairview/shopko/
-shop: Warenhaus
+shop: department store
 ---

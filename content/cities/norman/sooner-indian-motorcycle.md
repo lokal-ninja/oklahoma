@@ -1,5 +1,5 @@
 ---
 title: "Sooner Indian Motorcycle"
 url: /norman/sooner-indian-motorcycle/
-shop: Motorrad
+shop: motorcycle
 ---

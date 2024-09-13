@@ -1,5 +1,5 @@
 ---
 title: "Loan Company"
 url: /stillwater/loan-company/
-shop: Leiher
+shop: pawnbroker
 ---

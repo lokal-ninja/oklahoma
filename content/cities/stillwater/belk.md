@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /stillwater/belk/
-shop: Warenhaus
+shop: department store
 ---

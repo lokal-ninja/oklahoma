@@ -1,5 +1,5 @@
 ---
 title: "Rainforest"
 url: /ardmore/rainforest/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /blackwell/braums/
-shop: Milch
+shop: dairy
 ---

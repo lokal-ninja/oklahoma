@@ -1,5 +1,5 @@
 ---
 title: "Firefly Manor"
 url: /oklahoma-city/firefly-manor/
-shop: Andenken
+shop: gift
 ---

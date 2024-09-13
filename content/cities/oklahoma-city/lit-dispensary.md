@@ -1,5 +1,5 @@
 ---
 title: "Lit Dispensary"
 url: /oklahoma-city/lit-dispensary/
-shop: Hanf
+shop: cannabis
 ---

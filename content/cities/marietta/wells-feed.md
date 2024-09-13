@@ -1,5 +1,5 @@
 ---
 title: "Wells Feed"
 url: /marietta/wells-feed/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A-Avanti Self Storage"
 url: /muskogee/a-avanti-self-storage/
-shop: Mieten
+shop: storage rental
 ---

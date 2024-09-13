@@ -1,5 +1,5 @@
 ---
 title: "Blue Seven"
 url: /oklahoma-city/blue-seven/
-shop: Andenken
+shop: gift
 ---

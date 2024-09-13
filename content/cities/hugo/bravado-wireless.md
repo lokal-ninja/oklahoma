@@ -1,5 +1,5 @@
 ---
 title: "Bravado Wireless"
 url: /hugo/bravado-wireless/
-shop: Handy
+shop: mobile phone
 ---

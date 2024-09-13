@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /oklahoma-city/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

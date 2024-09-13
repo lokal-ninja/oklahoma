@@ -1,5 +1,5 @@
 ---
 title: "Nutrition King"
 url: /tulsa/nutrition-king/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

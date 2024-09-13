@@ -1,5 +1,5 @@
 ---
 title: "Fort Smith Stockyards"
 url: /moffett/fort-smith-stockyards/
-shop: Auktionshaus
+shop: auction house
 ---

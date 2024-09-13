@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /tulsa/mattress-firm-east-71st-street/
-shop: Betten
+shop: bed
 ---

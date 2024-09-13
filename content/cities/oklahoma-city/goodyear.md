@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /oklahoma-city/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

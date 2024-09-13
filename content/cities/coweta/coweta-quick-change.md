@@ -1,5 +1,5 @@
 ---
 title: "Coweta Quick Change"
 url: /coweta/coweta-quick-change/
-shop: Autowerkstatt
+shop: car repair
 ---

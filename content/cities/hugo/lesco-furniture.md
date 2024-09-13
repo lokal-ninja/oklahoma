@@ -1,5 +1,5 @@
 ---
 title: "LESCO Furniture"
 url: /hugo/lesco-furniture/
-shop: Möbel
+shop: furniture
 ---

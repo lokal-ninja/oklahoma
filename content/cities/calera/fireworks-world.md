@@ -1,5 +1,5 @@
 ---
 title: "Fireworks World"
 url: /calera/fireworks-world/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

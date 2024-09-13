@@ -1,5 +1,5 @@
 ---
 title: "McLaughlin Mortgage Team"
 url: /muskogee/mclaughlin-mortgage-team/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blushink"
 url: /bristow/blushink/
-shop: Kosmetik
+shop: beauty
 ---

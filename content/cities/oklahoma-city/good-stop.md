@@ -1,5 +1,5 @@
 ---
 title: "Good Stop"
 url: /oklahoma-city/good-stop/
-shop: Lebensmittel
+shop: convenience
 ---

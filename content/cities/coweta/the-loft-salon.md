@@ -1,5 +1,5 @@
 ---
 title: "The Loft Salon"
 url: /coweta/the-loft-salon/
-shop: Friseur
+shop: hairdresser
 ---

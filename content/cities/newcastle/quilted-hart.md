@@ -1,5 +1,5 @@
 ---
 title: "Quilted Hart"
 url: /newcastle/quilted-hart/
-shop: Textil
+shop: fabric
 ---

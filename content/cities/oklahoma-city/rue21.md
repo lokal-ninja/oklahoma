@@ -1,5 +1,5 @@
 ---
 title: "rue21"
 url: /oklahoma-city/rue21/
-shop: Kleidung
+shop: clothes
 ---

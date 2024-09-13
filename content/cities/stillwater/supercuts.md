@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /stillwater/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

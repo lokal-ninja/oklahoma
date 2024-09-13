@@ -1,5 +1,5 @@
 ---
 title: "Grand Center"
 url: /tulsa/grand-center/
-shop: Allgemein
+shop: shop
 ---

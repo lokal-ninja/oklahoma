@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /altus/verizon/
-shop: Handy
+shop: mobile phone
 ---

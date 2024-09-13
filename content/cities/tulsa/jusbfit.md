@@ -1,5 +1,5 @@
 ---
 title: "JusBfit"
 url: /tulsa/jusbfit/
-shop: Allgemein
+shop: shop
 ---

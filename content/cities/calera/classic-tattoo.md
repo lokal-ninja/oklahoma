@@ -1,5 +1,5 @@
 ---
 title: "Classic Tattoo"
 url: /calera/classic-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

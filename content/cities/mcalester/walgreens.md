@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mcalester/walgreens/
-shop: Drogerie
+shop: chemist
 ---

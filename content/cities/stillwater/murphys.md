@@ -1,5 +1,5 @@
 ---
 title: "Murphy's"
 url: /stillwater/murphys/
-shop: Warenhaus
+shop: department store
 ---

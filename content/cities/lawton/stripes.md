@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lawton/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

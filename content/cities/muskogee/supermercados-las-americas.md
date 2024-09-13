@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Las Americas"
 url: /muskogee/supermercados-las-americas/
-shop: Supermarkt
+shop: supermarket
 ---

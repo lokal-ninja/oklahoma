@@ -1,5 +1,5 @@
 ---
 title: "Loyd's Superette"
 url: /noble/loyds-superette/
-shop: Lebensmittel
+shop: convenience
 ---

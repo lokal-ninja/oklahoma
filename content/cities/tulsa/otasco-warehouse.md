@@ -1,5 +1,5 @@
 ---
 title: "OTASCO Warehouse"
 url: /tulsa/otasco-warehouse/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ziegler Art and Frame"
 url: /tulsa/ziegler-art-and-frame/
-shop: Kunst
+shop: art
 ---

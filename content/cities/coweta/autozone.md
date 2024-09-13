@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /coweta/autozone/
-shop: Autoteile
+shop: car parts
 ---

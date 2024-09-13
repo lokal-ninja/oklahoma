@@ -1,5 +1,5 @@
 ---
 title: "Zen Tattoo Shop"
 url: /broken-arrow/zen-tattoo-shop/
-shop: Tattoo
+shop: tattoo
 ---

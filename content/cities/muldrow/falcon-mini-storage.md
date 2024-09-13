@@ -1,5 +1,5 @@
 ---
 title: "Falcon Mini Storage"
 url: /muldrow/falcon-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

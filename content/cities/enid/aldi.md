@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /enid/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

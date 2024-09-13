@@ -1,5 +1,5 @@
 ---
 title: "Wiseman Discount Tire"
 url: /muskogee/wiseman-discount-tire/
-shop: Reifen
+shop: tyres
 ---

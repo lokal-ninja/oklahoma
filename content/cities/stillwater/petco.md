@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /stillwater/petco/
-shop: Tiere
+shop: pet
 ---

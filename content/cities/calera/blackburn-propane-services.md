@@ -1,5 +1,5 @@
 ---
 title: "Blackburn Propane Services"
 url: /calera/blackburn-propane-services/
-shop: Gasflaschen
+shop: gas
 ---

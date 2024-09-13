@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /nowata/loves/
-shop: Lebensmittel
+shop: convenience
 ---

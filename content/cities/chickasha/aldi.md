@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chickasha/aldi/
-shop: Supermarkt
+shop: supermarket
 ---
