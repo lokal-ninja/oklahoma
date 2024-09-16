@@ -1,11 +1,11 @@
 id: 402810964
-type: way
+type: node
 latitude: 35.95727
 longitude: -95.39467
 postcode: "74467"
 city: Wagoner
-street: "South Dewey Avenue"
-housenumber: 407
+street: South Dewey Avenue
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

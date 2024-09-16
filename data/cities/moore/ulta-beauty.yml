@@ -1,11 +1,11 @@
 id: 947017581
-type: way
+type: node
 latitude: 35.31808
 longitude: -97.50281
 postcode: "73160"
 city: Moore
-street: "Southwest 19th Street"
-housenumber: 790
-phone: "+1 405-977-1166"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/moore-ok-1548"
+street: Southwest 19th Street
+housenumber: "790"
+phone: +1 405-977-1166
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/moore-ok-1548

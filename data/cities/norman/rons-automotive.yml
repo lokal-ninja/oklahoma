@@ -1,11 +1,11 @@
 id: 187422418
-type: way
+type: node
 latitude: 35.20304
 longitude: -97.47631
 postcode: "73069"
 city: Norman
-street: "24th Avenue Southwest"
-housenumber: 1215
+street: 24th Avenue Southwest
+housenumber: "1215"
 phone: ""
 opening_hours: ""
 website: ""

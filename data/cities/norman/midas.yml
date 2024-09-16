@@ -1,11 +1,11 @@
 id: 323743042
-type: way
+type: node
 latitude: 35.2034
 longitude: -97.47434
 postcode: "73069"
 city: Norman
-street: "West Lindsey Street"
-housenumber: 2206
+street: West Lindsey Street
+housenumber: "2206"
 phone: ""
 opening_hours: ""
 website: ""

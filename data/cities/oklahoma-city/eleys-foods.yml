@@ -1,11 +1,11 @@
 id: 1251488713
-type: way
+type: node
 latitude: 35.50098
 longitude: -97.56529
 postcode: "73112"
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 3106
-phone: "+1 405 942 2113"
-opening_hours: "07:00-23:00"
-website: "https://eleysfoods.com/"
+street: North May Avenue
+housenumber: "3106"
+phone: +1 405 942 2113
+opening_hours: 07:00-23:00
+website: https://eleysfoods.com/

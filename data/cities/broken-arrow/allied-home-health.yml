@@ -1,11 +1,11 @@
 id: 1168429615
-type: way
+type: node
 latitude: 36.05686
 longitude: -95.80943
 postcode: "74012"
 city: Broken Arrow
-street: "North Poplar Avenue"
-housenumber: 500
-phone: "+1 918 742 4289"
+street: North Poplar Avenue
+housenumber: "500"
+phone: +1 918 742 4289
 opening_hours: ""
 website: ""

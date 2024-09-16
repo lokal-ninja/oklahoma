@@ -1,11 +1,11 @@
 id: 764324761
-type: way
+type: node
 latitude: 34.01094
 longitude: -95.50267
 postcode: "74743"
 city: Hugo
-street: "East Jackson Street"
-housenumber: 901
+street: East Jackson Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

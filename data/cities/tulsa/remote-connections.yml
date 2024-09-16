@@ -1,11 +1,11 @@
 id: 951736256
-type: way
+type: node
 latitude: 36.14798
 longitude: -95.96511
 postcode: ""
 city: Tulsa
-street: "East 11th Street"
-housenumber: 1809
+street: East 11th Street
+housenumber: "1809"
 phone: ""
 opening_hours: ""
-website: "http://www.remoteconnectionsinc.com/"
+website: http://www.remoteconnectionsinc.com/

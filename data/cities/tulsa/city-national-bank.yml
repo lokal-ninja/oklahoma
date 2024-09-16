@@ -1,11 +1,11 @@
 id: 99094620
-type: way
+type: node
 latitude: 36.04576
 longitude: -95.85624
 postcode: "74133"
 city: Tulsa
-street: "East 81st Street"
-housenumber: 10712
+street: East 81st Street
+housenumber: "10712"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

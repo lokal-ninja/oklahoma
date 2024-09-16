@@ -1,11 +1,11 @@
 id: 464455240
-type: way
+type: node
 latitude: 35.57748
 longitude: -97.56772
 postcode: ""
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 10617
+street: North May Avenue
+housenumber: "10617"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ok/the-village/6945"
+website: https://www.dollargeneral.com/store-directory/ok/the-village/6945

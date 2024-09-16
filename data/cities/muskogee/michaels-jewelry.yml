@@ -1,11 +1,11 @@
 id: 1112540755
-type: way
+type: node
 latitude: 35.74961
 longitude: -95.37183
 postcode: "74401"
 city: Muskogee
-street: "West Broadway Street"
-housenumber: 315
+street: West Broadway Street
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

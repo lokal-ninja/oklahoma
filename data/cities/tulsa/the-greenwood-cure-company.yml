@@ -1,11 +1,11 @@
 id: 1259830365
-type: way
+type: node
 latitude: 36.1766
 longitude: -95.97832
 postcode: ""
 city: Tulsa
-street: "East Pine Street"
-housenumber: 1046
-phone: "+1 918 292 8023"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://thegreenwoodcureco.com/"
+street: East Pine Street
+housenumber: "1046"
+phone: +1 918 292 8023
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00; Su 12:00-18:00
+website: https://thegreenwoodcureco.com/

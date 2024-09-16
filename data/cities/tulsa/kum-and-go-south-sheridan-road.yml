@@ -1,11 +1,11 @@
 id: 601443667
-type: way
+type: node
 latitude: 36.13309
 longitude: -95.90395
 postcode: ""
 city: Tulsa
-street: "South Sheridan Road"
-housenumber: 2109
+street: South Sheridan Road
+housenumber: "2109"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=0883"
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=0883

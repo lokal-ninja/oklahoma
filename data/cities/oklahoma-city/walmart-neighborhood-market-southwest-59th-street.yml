@@ -1,11 +1,11 @@
 id: 497265782
-type: way
+type: node
 latitude: 35.40583
 longitude: -97.54569
 postcode: "73119"
 city: Oklahoma City
-street: "Southwest 59th Street"
-housenumber: 1500
-phone: "+1 405-684-9761"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2394/oklahoma-city-ok/whats-new"
+street: Southwest 59th Street
+housenumber: "1500"
+phone: +1 405-684-9761
+opening_hours: 24/7
+website: https://www.walmart.com/store/2394/oklahoma-city-ok/whats-new

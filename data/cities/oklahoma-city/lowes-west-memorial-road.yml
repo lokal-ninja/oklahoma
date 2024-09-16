@@ -1,11 +1,11 @@
 id: 238022252
-type: way
+type: node
 latitude: 35.60722
 longitude: -97.55569
 postcode: "73134"
 city: Oklahoma City
-street: "West Memorial Road"
-housenumber: 2400
-phone: "+1 405-936-2060"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ok-oklahoma-city/0535"
+street: West Memorial Road
+housenumber: "2400"
+phone: +1 405-936-2060
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ok-oklahoma-city/0535

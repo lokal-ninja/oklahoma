@@ -1,11 +1,11 @@
 id: 1149046725
-type: way
+type: node
 latitude: 35.54712
 longitude: -97.56665
 postcode: "73116"
 city: Oklahoma City
-street: "Northwest Grand Boulevard"
-housenumber: 2900
-phone: "+1 405 907 2231"
+street: Northwest Grand Boulevard
+housenumber: "2900"
+phone: +1 405 907 2231
 opening_hours: ""
-website: "https://www.publicstorage.com/self-storage-ok-oklahoma-city/5991.html"
+website: https://www.publicstorage.com/self-storage-ok-oklahoma-city/5991.html

@@ -1,11 +1,11 @@
 id: 496199358
-type: way
+type: node
 latitude: 36.15851
 longitude: -95.95769
 postcode: ""
 city: Tulsa
-street: "South Lewis Avenue"
-housenumber: 111
-phone: "+1 918 582 2020"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.myeyedr.com/"
+street: South Lewis Avenue
+housenumber: "111"
+phone: +1 918 582 2020
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.myeyedr.com/

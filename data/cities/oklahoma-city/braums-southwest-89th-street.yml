@@ -1,11 +1,11 @@
 id: 751403716
-type: way
+type: node
 latitude: 35.37758
 longitude: -97.54567
 postcode: "73159"
 city: Oklahoma City
-street: "Southwest 89th Street"
-housenumber: 1529
-phone: "+1-405-685-8155"
+street: Southwest 89th Street
+housenumber: "1529"
+phone: +1-405-685-8155
 opening_hours: ""
 website: ""

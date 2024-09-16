@@ -1,11 +1,11 @@
 id: 464640893
-type: way
+type: node
 latitude: 35.60556
 longitude: -97.55066
 postcode: "73120"
 city: Oklahoma City
-street: "North Pennsylvania Avenue"
-housenumber: 13301
-phone: "+1 844-475-1014"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ok/oklahoma-city/13301-n-penn-ave"
+street: North Pennsylvania Avenue
+housenumber: "13301"
+phone: +1 844-475-1014
+opening_hours: Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ok/oklahoma-city/13301-n-penn-ave

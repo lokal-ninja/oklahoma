@@ -1,11 +1,11 @@
 id: 1238201376
-type: way
+type: node
 latitude: 35.40692
 longitude: -97.42424
 postcode: "73135"
 city: Oklahoma City
-street: "South Sooner Road"
-housenumber: 5913
-phone: "+1 405 601 5320"
-opening_hours: "Tu,Th 07:00-18:00; Sa 10:00-16:00; We,Fr,Su,Mo off"
+street: South Sooner Road
+housenumber: "5913"
+phone: +1 405 601 5320
+opening_hours: Tu,Th 07:00-18:00; Sa 10:00-16:00; We,Fr,Su,Mo off
 website: ""

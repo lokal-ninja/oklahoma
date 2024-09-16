@@ -1,11 +1,11 @@
 id: 709066499
-type: way
+type: node
 latitude: 35.53734
 longitude: -97.51535
 postcode: "73116"
 city: Oklahoma City
-street: "Northwest 63rd Street"
-housenumber: 101
+street: Northwest 63rd Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

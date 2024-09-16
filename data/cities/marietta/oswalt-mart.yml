@@ -1,11 +1,11 @@
 id: 749646878
-type: way
+type: node
 latitude: 34.027
 longitude: -97.15155
 postcode: "73448"
 city: Marietta
-street: "Oswalt Road"
-housenumber: 12671
+street: Oswalt Road
+housenumber: "12671"
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00"
+opening_hours: Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00
 website: ""

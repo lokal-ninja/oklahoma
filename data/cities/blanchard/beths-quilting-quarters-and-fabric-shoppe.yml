@@ -4,8 +4,8 @@ latitude: 35.13749
 longitude: -97.65811
 postcode: "73010"
 city: Blanchard
-street: "North Main Street"
-housenumber: 114
+street: North Main Street
+housenumber: "114"
 phone: ""
-opening_hours: "Mo 10:00-16:00; Tu-Sa 10:00-18:00; Su, PH off"
-website: "https://www.bethsquiltingquarters.com/index.html"
+opening_hours: Mo 10:00-16:00; Tu-Sa 10:00-18:00; Su, PH off
+website: https://www.bethsquiltingquarters.com/index.html

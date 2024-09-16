@@ -1,11 +1,11 @@
 id: 360636827
-type: way
+type: node
 latitude: 35.42181
 longitude: -97.44107
 postcode: "73115"
 city: Del City
-street: "Southeast 43rd Street"
-housenumber: 4300
-phone: "+1-405-670-2646"
-opening_hours: "Mo-Su 06:00-22:45"
-website: "https://www.braums.com/"
+street: Southeast 43rd Street
+housenumber: "4300"
+phone: +1-405-670-2646
+opening_hours: Mo-Su 06:00-22:45
+website: https://www.braums.com/

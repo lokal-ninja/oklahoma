@@ -1,11 +1,11 @@
 id: 257708044
-type: way
+type: node
 latitude: 36.11737
 longitude: -97.12594
 postcode: "74074"
 city: Stillwater
-street: "West 6th Avenue"
-housenumber: 4900
-phone: "+1 866 635 4840"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://janzentoyota.calls.net/BodyShop.aspx"
+street: West 6th Avenue
+housenumber: "4900"
+phone: +1 866 635 4840
+opening_hours: Mo-Fr 08:00-17:00
+website: http://janzentoyota.calls.net/BodyShop.aspx

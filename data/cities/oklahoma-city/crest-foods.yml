@@ -1,11 +1,11 @@
 id: 480501239
-type: way
+type: node
 latitude: 35.46358
 longitude: -97.40191
 postcode: "73110"
 city: Oklahoma City
-street: "East Reno Avenue"
-housenumber: 7212
+street: East Reno Avenue
+housenumber: "7212"
 phone: ""
-opening_hours: "24/7"
-website: "https://crestfoodsok.com/"
+opening_hours: 24/7
+website: https://crestfoodsok.com/

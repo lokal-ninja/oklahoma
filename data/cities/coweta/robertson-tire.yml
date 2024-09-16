@@ -1,11 +1,11 @@
 id: 1012138718
-type: way
+type: node
 latitude: 36.00498
 longitude: -95.6818
 postcode: "74014"
 city: Coweta
-street: "South State Highway 51"
-housenumber: 11075
-phone: "+1-918-251-3712"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-14:00"
-website: "https://www.robertson-tire.com/"
+street: South State Highway 51
+housenumber: "11075"
+phone: +1-918-251-3712
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-14:00
+website: https://www.robertson-tire.com/

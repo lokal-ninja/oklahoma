@@ -1,11 +1,11 @@
 id: 711645333
-type: way
+type: node
 latitude: 34.02507
 longitude: -94.73762
 postcode: "74728"
 city: Broken Bow
-street: "South Park Drive"
-housenumber: 201
-phone: "580-306-9224"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.pruettsfood.com"
+street: South Park Drive
+housenumber: "201"
+phone: 580-306-9224
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.pruettsfood.com

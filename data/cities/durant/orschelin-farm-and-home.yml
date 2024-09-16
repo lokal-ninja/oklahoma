@@ -1,11 +1,11 @@
 id: 607992183
-type: way
+type: node
 latitude: 34.00113
 longitude: -96.40757
 postcode: "74701"
 city: Durant
-street: "West Main Street"
-housenumber: 2424
+street: West Main Street
+housenumber: "2424"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1077200046
-type: way
+type: node
 latitude: 35.21402
 longitude: -99.86721
 postcode: "73645"
 city: Erick
-street: "North Sheb Wooley Avenue"
-housenumber: 123
+street: North Sheb Wooley Avenue
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

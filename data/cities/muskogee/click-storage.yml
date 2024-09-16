@@ -1,11 +1,11 @@
 id: 1171583757
-type: way
+type: node
 latitude: 35.73078
 longitude: -95.3426
 postcode: "74403"
 city: Muskogee
-street: "Georgia Avenue"
-housenumber: 2208
+street: Georgia Avenue
+housenumber: "2208"
 phone: ""
 opening_hours: ""
 website: ""

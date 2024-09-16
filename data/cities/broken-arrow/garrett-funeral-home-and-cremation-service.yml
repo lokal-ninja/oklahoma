@@ -1,11 +1,11 @@
 id: 1258376974
-type: way
+type: node
 latitude: 36.05276
 longitude: -95.79309
 postcode: "74012"
 city: Broken Arrow
-street: "West Broadway Avenue"
-housenumber: 222
+street: West Broadway Avenue
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

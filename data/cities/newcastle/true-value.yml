@@ -1,11 +1,11 @@
 id: 734507336
-type: way
+type: node
 latitude: 35.28807
 longitude: -97.60117
 postcode: "73065"
 city: Newcastle
-street: "Bypass Road"
-housenumber: 3009
+street: Bypass Road
+housenumber: "3009"
 phone: ""
 opening_hours: ""
 website: ""

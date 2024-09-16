@@ -1,11 +1,11 @@
 id: 988158737
-type: way
+type: node
 latitude: 33.85349
 longitude: -96.56781
 postcode: "74731"
 city: Cartwright
-street: "Boat Club Road"
-housenumber: 204
+street: Boat Club Road
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

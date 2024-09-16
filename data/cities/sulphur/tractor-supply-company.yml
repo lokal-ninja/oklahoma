@@ -1,11 +1,11 @@
 id: 1232813524
-type: way
+type: node
 latitude: 34.50756
 longitude: -97.0091
 postcode: "73086"
 city: Sulphur
-street: "West Broadway Avenue"
-housenumber: 2900
-phone: "+1 580-622-4051"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Broadway Avenue
+housenumber: "2900"
+phone: +1 580-622-4051
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

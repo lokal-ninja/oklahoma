@@ -1,11 +1,11 @@
 id: 995453958
-type: way
+type: node
 latitude: 36.43561
 longitude: -99.43081
 postcode: "73801"
 city: Woodward
-street: "Northwest Highway 270"
-housenumber: 1105
-phone: "+1 580-254-2704"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Northwest Highway 270
+housenumber: "1105"
+phone: +1 580-254-2704
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 260383386
-type: way
+type: node
 latitude: 36.11515
 longitude: -97.08681
 postcode: "74074"
 city: Stillwater
-street: "South Western Road"
-housenumber: 623
-phone: "405-372-1841"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "http://www.farmcreditecok.com"
+street: South Western Road
+housenumber: "623"
+phone: 405-372-1841
+opening_hours: Mo-Fr 08:00-16:30
+website: http://www.farmcreditecok.com

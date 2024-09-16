@@ -1,11 +1,11 @@
 id: 497675908
-type: way
+type: node
 latitude: 35.4584
 longitude: -97.61303
 postcode: "73128"
 city: Oklahoma City
-street: "Southwest 5th Street"
-housenumber: 5510
-phone: "+1 405-943-9810"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.samsclub.com/club/oklahoma-city-ok-sams-club/8289"
+street: Southwest 5th Street
+housenumber: "5510"
+phone: +1 405-943-9810
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.samsclub.com/club/oklahoma-city-ok-sams-club/8289

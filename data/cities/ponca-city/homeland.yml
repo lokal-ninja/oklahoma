@@ -1,11 +1,11 @@
 id: 867182710
-type: way
+type: node
 latitude: 36.69492
 longitude: -97.08088
 postcode: "74601"
 city: Ponca City
-street: "South 4th Street"
-housenumber: 904
+street: South 4th Street
+housenumber: "904"
 phone: ""
 opening_hours: ""
 website: ""

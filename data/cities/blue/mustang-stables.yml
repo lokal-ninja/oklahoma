@@ -1,11 +1,11 @@
 id: 988733544
-type: way
+type: node
 latitude: 33.9973
 longitude: -96.23329
 postcode: "74701"
 city: Blue
-street: "US Highway 70"
-housenumber: 22777
+street: US Highway 70
+housenumber: "22777"
 phone: ""
 opening_hours: ""
 website: ""

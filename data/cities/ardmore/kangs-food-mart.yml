@@ -1,11 +1,11 @@
 id: 865237534
-type: way
+type: node
 latitude: 34.19239
 longitude: -97.14286
 postcode: "73401"
 city: Ardmore
-street: "North Commerce Street"
-housenumber: 1620
+street: North Commerce Street
+housenumber: "1620"
 phone: ""
 opening_hours: ""
 website: ""

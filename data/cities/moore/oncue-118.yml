@@ -1,11 +1,11 @@
 id: 1225884834
-type: way
+type: node
 latitude: 35.33523
 longitude: -97.49155
 postcode: "73160"
 city: Moore
-street: "SW 4th St"
-housenumber: 411
+street: SW 4th St
+housenumber: "411"
 phone: "+14052371185"
-opening_hours: "24/7"
-website: "https://oncueexpress.com"
+opening_hours: 24/7
+website: https://oncueexpress.com

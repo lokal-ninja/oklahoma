@@ -1,11 +1,11 @@
 id: 1249562091
-type: way
+type: node
 latitude: 35.76013
 longitude: -95.34138
 postcode: "74403"
 city: Muskogee
-street: "North York Street"
-housenumber: 1425
-phone: "+1 918-683-2987"
+street: North York Street
+housenumber: "1425"
+phone: +1 918-683-2987
 opening_hours: ""
 website: ""

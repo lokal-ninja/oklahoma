@@ -1,11 +1,11 @@
 id: 402069040
-type: way
+type: node
 latitude: 36.29655
 longitude: -95.3224
 postcode: "74361"
 city: Pryor Creek
-street: "South Mill Street"
-housenumber: 591
+street: South Mill Street
+housenumber: "591"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-591+s+mill+st-pryor-ok-74361/id=15763"
+website: https://www.walgreens.com/locator/walgreens-591+s+mill+st-pryor-ok-74361/id=15763

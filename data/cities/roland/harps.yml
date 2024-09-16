@@ -1,11 +1,11 @@
 id: 1082212416
-type: way
+type: node
 latitude: 35.40591
 longitude: -94.51438
 postcode: "74954"
 city: Roland
-street: "West Ray Fine Boulevard"
-housenumber: 100
-phone: "918-427-6610"
+street: West Ray Fine Boulevard
+housenumber: "100"
+phone: 918-427-6610
 opening_hours: ""
-website: "https://www.harpsfood.com"
+website: https://www.harpsfood.com

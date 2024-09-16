@@ -1,11 +1,11 @@
 id: 1259830253
-type: way
+type: node
 latitude: 36.17698
 longitude: -95.95955
 postcode: ""
 city: Tulsa
-street: "East Pine Street"
-housenumber: 2220
-phone: "+1 918 583 4644"
-opening_hours: "07:00-22:00"
+street: East Pine Street
+housenumber: "2220"
+phone: +1 918 583 4644
+opening_hours: 07:00-22:00
 website: ""

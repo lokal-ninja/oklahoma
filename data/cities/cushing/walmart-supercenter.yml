@@ -1,11 +1,11 @@
 id: 241517936
-type: way
+type: node
 latitude: 35.98784
 longitude: -96.7221
 postcode: "74023"
 city: Cushing
-street: "East Main Street"
-housenumber: 3100
-phone: "+1 918-225-0578"
-opening_hours: "24/7"
-website: "https://www.walmart.com/;https://www.walmart.com/store/360/cushing-ok/whats-new"
+street: East Main Street
+housenumber: "3100"
+phone: +1 918-225-0578
+opening_hours: 24/7
+website: https://www.walmart.com/;https://www.walmart.com/store/360/cushing-ok/whats-new

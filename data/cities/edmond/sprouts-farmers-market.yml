@@ -1,11 +1,11 @@
 id: 1147247513
-type: way
+type: node
 latitude: 35.65259
 longitude: -97.48081
 postcode: "73034"
 city: Edmond
-street: "East 2nd Street"
-housenumber: 24
-phone: "+1 405-341-5727"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ok/edmond/edmond/"
+street: East 2nd Street
+housenumber: "24"
+phone: +1 405-341-5727
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ok/edmond/edmond/

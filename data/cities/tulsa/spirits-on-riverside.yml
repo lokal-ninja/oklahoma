@@ -1,11 +1,11 @@
 id: 248891649
-type: way
+type: node
 latitude: 36.01821
 longitude: -95.94983
 postcode: ""
 city: Tulsa
-street: "Riverside Parkway"
-housenumber: 10030
+street: Riverside Parkway
+housenumber: "10030"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

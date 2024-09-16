@@ -1,11 +1,11 @@
 id: 1173412124
-type: way
+type: node
 latitude: 35.74986
 longitude: -95.36534
 postcode: "74403"
 city: Muskogee
-street: "North Cherokee Street"
-housenumber: 404
+street: North Cherokee Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

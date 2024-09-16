@@ -1,11 +1,11 @@
 id: 244747626
-type: way
+type: node
 latitude: 36.27928
 longitude: -95.85441
 postcode: ""
 city: Owasso
-street: "East 16th Street"
-housenumber: 10603
+street: East 16th Street
+housenumber: "10603"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0886"
+website: https://www.kumandgo.com/store-locator?details=0886

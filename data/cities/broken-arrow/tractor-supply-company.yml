@@ -1,11 +1,11 @@
 id: 836237691
-type: way
+type: node
 latitude: 36.05983
 longitude: -95.7331
 postcode: "74014"
 city: Broken Arrow
-street: "East Kenosha Street"
-housenumber: 4777
-phone: "+1 918-355-9077"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Kenosha Street
+housenumber: "4777"
+phone: +1 918-355-9077
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

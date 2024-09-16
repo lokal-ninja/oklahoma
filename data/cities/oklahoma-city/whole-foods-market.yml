@@ -1,11 +1,11 @@
 id: 401887681
-type: way
+type: node
 latitude: 35.53381
 longitude: -97.53089
 postcode: "73118"
 city: Oklahoma City
-street: "North Western Avenue"
-housenumber: 6001
-phone: "+1 405-879-3500"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/oklahomacity"
+street: North Western Avenue
+housenumber: "6001"
+phone: +1 405-879-3500
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/oklahomacity

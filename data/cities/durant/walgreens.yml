@@ -1,11 +1,11 @@
 id: 988488439
-type: way
+type: node
 latitude: 34.0003
 longitude: -96.40987
 postcode: "74701"
 city: Durant
-street: "University Place"
-housenumber: 302
+street: University Place
+housenumber: "302"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-302+university+pl-durant-ok-74701/id=11317"
+website: https://www.walgreens.com/locator/walgreens-302+university+pl-durant-ok-74701/id=11317

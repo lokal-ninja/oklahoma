@@ -4,8 +4,8 @@ latitude: 35.52067
 longitude: -97.56645
 postcode: "73112"
 city: Oklahoma City
-street: "North May Avenue Suite 200"
-housenumber: 4901
+street: North May Avenue Suite 200
+housenumber: "4901"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-16:00"
-website: "https://rockler.com/"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-16:00
+website: https://rockler.com/

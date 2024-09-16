@@ -1,11 +1,11 @@
 id: 606525106
-type: way
+type: node
 latitude: 36.0352
 longitude: -95.97563
 postcode: ""
 city: Jenks
-street: "North Elm Street"
-housenumber: 1607
+street: North Elm Street
+housenumber: "1607"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00"
+opening_hours: Mo-Su 08:00-17:00
 website: ""

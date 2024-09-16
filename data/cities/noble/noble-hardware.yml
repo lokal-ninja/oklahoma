@@ -1,11 +1,11 @@
 id: 1056723633
-type: way
+type: node
 latitude: 35.14723
 longitude: -97.3945
 postcode: "73068"
 city: Noble
-street: "North Main Street"
-housenumber: 605
+street: North Main Street
+housenumber: "605"
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 07:30-18:00; Su 11:00-17:00
 website: ""

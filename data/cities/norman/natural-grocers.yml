@@ -1,11 +1,11 @@
 id: 324087735
-type: way
+type: node
 latitude: 35.21813
 longitude: -97.4702
 postcode: "73069"
 city: Norman
-street: "West Main Street"
-housenumber: 1918
+street: West Main Street
+housenumber: "1918"
 phone: ""
-opening_hours: "Mo-Sa 08:27-20:36; Su 08:57-19:36"
-website: "https://www.naturalgrocers.com/store-location/norman/"
+opening_hours: Mo-Sa 08:27-20:36; Su 08:57-19:36
+website: https://www.naturalgrocers.com/store-location/norman/

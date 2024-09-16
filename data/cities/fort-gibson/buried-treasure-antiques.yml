@@ -1,11 +1,11 @@
 id: 606538587
-type: way
+type: node
 latitude: 35.79718
 longitude: -95.25016
 postcode: "74434"
 city: Fort Gibson
-street: "South Lee Street"
-housenumber: 111
+street: South Lee Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

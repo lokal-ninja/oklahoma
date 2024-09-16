@@ -1,11 +1,11 @@
 id: 608696962
-type: way
+type: node
 latitude: 33.99961
 longitude: -96.40045
 postcode: "74701"
 city: Durant
-street: "West Evergreen Street"
-housenumber: 2100
+street: West Evergreen Street
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

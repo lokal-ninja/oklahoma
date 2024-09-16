@@ -1,11 +1,11 @@
 id: 232664539
-type: way
+type: node
 latitude: 34.50425
 longitude: -97.00489
 postcode: "73086"
 city: Sulphur
-street: "West Broadway Avenue"
-housenumber: 2705
-phone: "+1 580-622-6146"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/225/sulphur-ok/whats-new"
+street: West Broadway Avenue
+housenumber: "2705"
+phone: +1 580-622-6146
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/225/sulphur-ok/whats-new

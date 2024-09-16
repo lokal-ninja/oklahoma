@@ -1,11 +1,11 @@
 id: 192441764
-type: way
+type: node
 latitude: 35.87814
 longitude: -97.4252
 postcode: "73044"
 city: Guthrie
-street: "East Oklahoma Avenue"
-housenumber: 104
+street: East Oklahoma Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

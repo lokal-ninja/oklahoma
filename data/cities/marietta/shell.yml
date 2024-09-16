@@ -1,11 +1,11 @@
 id: 866060672
-type: way
+type: node
 latitude: 33.94117
 longitude: -97.13812
 postcode: "73448"
 city: Marietta
-street: "Memorial Drive"
-housenumber: 1502
+street: Memorial Drive
+housenumber: "1502"
 phone: ""
 opening_hours: ""
 website: ""

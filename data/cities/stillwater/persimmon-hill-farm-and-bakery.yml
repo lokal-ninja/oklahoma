@@ -1,11 +1,11 @@
 id: 232896743
-type: way
+type: node
 latitude: 36.11655
 longitude: -97.06062
 postcode: "74074"
 city: Stillwater
-street: "South Husband Street"
-housenumber: 502
-phone: "405-372-8886"
+street: South Husband Street
+housenumber: "502"
+phone: 405-372-8886
 opening_hours: ""
 website: ""

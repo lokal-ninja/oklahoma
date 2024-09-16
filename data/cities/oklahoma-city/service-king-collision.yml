@@ -1,11 +1,11 @@
 id: 468909538
-type: way
+type: node
 latitude: 35.60287
 longitude: -97.52243
 postcode: "73114"
 city: Oklahoma City
-street: "John Kilpatrick Turnpike"
-housenumber: 420
+street: John Kilpatrick Turnpike
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 988782515
-type: way
+type: node
 latitude: 34.01646
 longitude: -96.1493
 postcode: "74726"
 city: Bokchito
-street: "West Main Street"
-housenumber: 400
+street: West Main Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

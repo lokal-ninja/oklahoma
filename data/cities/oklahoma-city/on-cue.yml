@@ -1,11 +1,11 @@
 id: 468794695
-type: way
+type: node
 latitude: 35.60856
 longitude: -97.53077
 postcode: ""
 city: Oklahoma City
-street: "North Western Avenue"
-housenumber: 13600
+street: North Western Avenue
+housenumber: "13600"
 phone: ""
 opening_hours: ""
 website: ""

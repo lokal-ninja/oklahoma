@@ -1,11 +1,11 @@
 id: 404089367
-type: way
+type: node
 latitude: 34.91216
 longitude: -95.32261
 postcode: "74578"
 city: Wilburton
-street: "Southwest Highway 2"
-housenumber: 68
-phone: "+1-918-465-2723"
+street: Southwest Highway 2
+housenumber: "68"
+phone: +1-918-465-2723
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 683462323
-type: way
+type: node
 latitude: 36.10932
 longitude: -95.97587
 postcode: "74105"
 city: Tulsa
-street: "South Peoria Avenue"
-housenumber: 3702
-phone: "+1 918-712-9768"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/ok/tulsa/460/"
+street: South Peoria Avenue
+housenumber: "3702"
+phone: +1 918-712-9768
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/ok/tulsa/460/

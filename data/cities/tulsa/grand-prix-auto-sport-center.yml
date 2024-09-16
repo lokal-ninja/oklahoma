@@ -1,11 +1,11 @@
 id: 1210627231
-type: way
+type: node
 latitude: 36.16119
 longitude: -95.9217
 postcode: ""
 city: Tulsa
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 491537104
-type: way
+type: node
 latitude: 35.24798
 longitude: -97.44072
 postcode: "73071"
 city: Norman
-street: "North Porter Avenue"
-housenumber: 2405
-phone: "+1-405-292-9628"
-opening_hours: "Mo-Sa 07:00-19:00"
+street: North Porter Avenue
+housenumber: "2405"
+phone: +1-405-292-9628
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

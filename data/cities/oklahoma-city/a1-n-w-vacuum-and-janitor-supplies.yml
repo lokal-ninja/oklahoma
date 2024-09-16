@@ -1,11 +1,11 @@
 id: 271367719
-type: way
+type: node
 latitude: 35.54605
 longitude: -97.56527
 postcode: "73116"
 city: Oklahoma City
-street: "Pembroke Terrace"
-housenumber: 2832
-phone: "+1 405 848 2929"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.a1nwvacuum.com/"
+street: Pembroke Terrace
+housenumber: "2832"
+phone: +1 405 848 2929
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.a1nwvacuum.com/

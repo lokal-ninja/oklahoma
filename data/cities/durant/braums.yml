@@ -1,11 +1,11 @@
 id: 608125952
-type: way
+type: node
 latitude: 33.99992
 longitude: -96.40521
 postcode: "74701"
 city: Durant
-street: "Westside Drive"
-housenumber: 312
+street: Westside Drive
+housenumber: "312"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 865243891
-type: way
+type: node
 latitude: 34.17289
 longitude: -97.12841
 postcode: "73401"
 city: Ardmore
-street: "North Washington Street"
-housenumber: 7
+street: North Washington Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

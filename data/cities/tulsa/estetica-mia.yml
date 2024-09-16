@@ -1,11 +1,11 @@
 id: 1240050282
-type: way
+type: node
 latitude: 36.13282
 longitude: -95.86178
 postcode: "74129"
 city: Tulsa
-street: "East 21st Street"
-housenumber: 10326
+street: East 21st Street
+housenumber: "10326"
 phone: ""
-opening_hours: "Mo-Sa 12:00-18:00"
+opening_hours: Mo-Sa 12:00-18:00
 website: ""

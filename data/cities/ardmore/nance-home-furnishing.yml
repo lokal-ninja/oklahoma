@@ -1,11 +1,11 @@
 id: 865613393
-type: way
+type: node
 latitude: 34.17503
 longitude: -97.14256
 postcode: "73401"
 city: Ardmore
-street: "West Broadway Street"
-housenumber: 1023
+street: West Broadway Street
+housenumber: "1023"
 phone: ""
 opening_hours: ""
 website: ""

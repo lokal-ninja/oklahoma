@@ -1,11 +1,11 @@
 id: 865500773
-type: way
+type: node
 latitude: 34.15165
 longitude: -97.14257
 postcode: "73401"
 city: Ardmore
-street: "South Commerce Street"
-housenumber: 1492
+street: South Commerce Street
+housenumber: "1492"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ok/ardmore/20336"
+website: https://www.dollargeneral.com/store-directory/ok/ardmore/20336

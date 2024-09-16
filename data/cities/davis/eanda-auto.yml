@@ -1,11 +1,11 @@
 id: 1097581425
-type: way
+type: node
 latitude: 34.50471
 longitude: -97.12071
 postcode: "73030"
 city: Davis
-street: "East Main Street"
-housenumber: 207
+street: East Main Street
+housenumber: "207"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-14:00"
-website: "https://stores.truevalue.com/ok/davis/20119/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-14:00
+website: https://stores.truevalue.com/ok/davis/20119/

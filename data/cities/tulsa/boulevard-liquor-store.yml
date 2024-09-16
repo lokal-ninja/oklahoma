@@ -1,11 +1,11 @@
 id: 1082777197
-type: way
+type: node
 latitude: 36.13722
 longitude: -96.00658
 postcode: "74107"
 city: Tulsa
-street: "Southwest Boulevard"
-housenumber: 1709
+street: Southwest Boulevard
+housenumber: "1709"
 phone: ""
 opening_hours: ""
 website: ""

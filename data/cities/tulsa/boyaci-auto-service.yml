@@ -1,11 +1,11 @@
 id: 1117442635
-type: way
+type: node
 latitude: 36.13754
 longitude: -95.98684
 postcode: ""
 city: Tulsa
-street: "South Main Street"
-housenumber: 1709
+street: South Main Street
+housenumber: "1709"
 phone: ""
 opening_hours: ""
 website: ""

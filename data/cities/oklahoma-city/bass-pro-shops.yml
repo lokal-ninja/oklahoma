@@ -1,11 +1,11 @@
 id: 159100242
-type: way
+type: node
 latitude: 35.46341
 longitude: -97.50348
 postcode: "73104"
 city: Oklahoma City
-street: "Bass Pro Drive"
-housenumber: 200
-phone: "+1 (405) 218-5200"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.basspro.com/"
+street: Bass Pro Drive
+housenumber: "200"
+phone: +1 (405) 218-5200
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.basspro.com/

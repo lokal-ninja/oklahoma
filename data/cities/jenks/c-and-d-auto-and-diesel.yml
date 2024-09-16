@@ -1,11 +1,11 @@
 id: 484581483
-type: way
+type: node
 latitude: 36.02912
 longitude: -95.97427
 postcode: "74037"
 city: Jenks
-street: "West G Street"
-housenumber: 424
-phone: "+1-918-299-2924"
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-12:00,13:30-17:00"
-website: "http://cdautoanddiesel.com/"
+street: West G Street
+housenumber: "424"
+phone: +1-918-299-2924
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-12:00,13:30-17:00
+website: http://cdautoanddiesel.com/

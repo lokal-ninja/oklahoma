@@ -1,11 +1,11 @@
 id: 257717161
-type: way
+type: node
 latitude: 36.11546
 longitude: -97.08899
 postcode: "74074"
 city: Stillwater
-street: "West 6th Avenue"
-housenumber: 2401
-phone: "+1-405-372-8085"
+street: West 6th Avenue
+housenumber: "2401"
+phone: +1-405-372-8085
 opening_hours: ""
 website: ""

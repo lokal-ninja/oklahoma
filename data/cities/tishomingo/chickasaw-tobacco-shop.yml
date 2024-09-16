@@ -1,11 +1,11 @@
 id: 1010185744
-type: way
+type: node
 latitude: 34.24025
 longitude: -96.69002
 postcode: "73460"
 city: Tishomingo
-street: "West Main Street"
-housenumber: 1200
+street: West Main Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

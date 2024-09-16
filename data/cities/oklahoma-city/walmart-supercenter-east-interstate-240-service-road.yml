@@ -1,11 +1,11 @@
 id: 497278793
-type: way
+type: node
 latitude: 35.38956
 longitude: -97.51137
 postcode: "73149"
 city: Oklahoma City
-street: "East Interstate 240 Service Road"
-housenumber: 100
-phone: "+1 405-631-0746"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/743-oklahoma-city-ok"
+street: East Interstate 240 Service Road
+housenumber: "100"
+phone: +1 405-631-0746
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/743-oklahoma-city-ok

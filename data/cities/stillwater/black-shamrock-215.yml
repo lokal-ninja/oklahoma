@@ -1,11 +1,11 @@
 id: 260042603
-type: way
+type: node
 latitude: 36.12016
 longitude: -97.06497
 postcode: "74074"
 city: Stillwater
-street: "South Knoblock Street"
-housenumber: 215
-phone: "405-332-4248"
-opening_hours: "Tu-Sa 13:00-22:00"
+street: South Knoblock Street
+housenumber: "215"
+phone: 405-332-4248
+opening_hours: Tu-Sa 13:00-22:00
 website: ""

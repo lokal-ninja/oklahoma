@@ -1,11 +1,11 @@
 id: 749041305
-type: way
+type: node
 latitude: 35.60635
 longitude: -97.53463
 postcode: "73114"
 city: Oklahoma City
-street: "West Memorial Road"
-housenumber: 1200
+street: West Memorial Road
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

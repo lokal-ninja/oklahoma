@@ -1,11 +1,11 @@
 id: 657445840
-type: way
+type: node
 latitude: 35.42244
 longitude: -99.40915
 postcode: "73662"
 city: Elk City
-street: "West Country Club Boulevard"
-housenumber: 403
-phone: "580-225-2112"
+street: West Country Club Boulevard
+housenumber: "403"
+phone: 580-225-2112
 opening_hours: ""
 website: ""

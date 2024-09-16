@@ -1,11 +1,11 @@
 id: 866039777
-type: way
+type: node
 latitude: 33.93762
 longitude: -97.12587
 postcode: "73448"
 city: Marietta
-street: "South US Highway 77"
-housenumber: 101
+street: South US Highway 77
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

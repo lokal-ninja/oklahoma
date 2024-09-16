@@ -1,11 +1,11 @@
 id: 241736890
-type: way
+type: node
 latitude: 36.3211
 longitude: -95.81948
 postcode: "74055"
 city: Owasso
-street: "East 116th Street North"
-housenumber: 11590
+street: East 116th Street North
+housenumber: "11590"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

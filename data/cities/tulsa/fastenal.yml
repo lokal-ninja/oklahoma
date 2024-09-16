@@ -1,11 +1,11 @@
 id: 941433903
-type: way
+type: node
 latitude: 36.07649
 longitude: -95.85018
 postcode: "74146"
 city: Tulsa
-street: "East 60th Place"
-housenumber: 11313
-phone: "+1 918 994 6330"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.fastenal.com/"
+street: East 60th Place
+housenumber: "11313"
+phone: +1 918 994 6330
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.fastenal.com/

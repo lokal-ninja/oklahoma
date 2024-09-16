@@ -1,11 +1,11 @@
 id: 1236604691
-type: way
+type: node
 latitude: 36.01145
 longitude: -95.68697
 postcode: "74014"
 city: Broken Arrow
-street: "East State Highway 51"
-housenumber: 26055
-phone: "+1 918 279 0269"
+street: East State Highway 51
+housenumber: "26055"
+phone: +1 918 279 0269
 opening_hours: ""
-website: "https://www.templeofzoom.net/"
+website: https://www.templeofzoom.net/

@@ -1,11 +1,11 @@
 id: 192368776
-type: way
+type: node
 latitude: 35.87864
 longitude: -97.39781
 postcode: "73044"
 city: Guthrie
-street: "East Noble Avenue"
-housenumber: 2318
-phone: "+1-405-282-0973"
+street: East Noble Avenue
+housenumber: "2318"
+phone: +1-405-282-0973
 opening_hours: ""
 website: ""

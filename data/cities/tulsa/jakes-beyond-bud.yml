@@ -1,11 +1,11 @@
 id: 1181232916
-type: way
+type: node
 latitude: 36.14703
 longitude: -96.06592
 postcode: "74127"
 city: Tulsa
-street: "East Charles Page Boulevard"
-housenumber: 6524
-phone: "+1-918-514-4208"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.jakesbeyondbud.com/"
+street: East Charles Page Boulevard
+housenumber: "6524"
+phone: +1-918-514-4208
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.jakesbeyondbud.com/

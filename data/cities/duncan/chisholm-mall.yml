@@ -1,11 +1,11 @@
 id: 1056660241
-type: way
+type: node
 latitude: 34.51751
 longitude: -97.96587
 postcode: "73533"
 city: Duncan
-street: "North Highway 81"
-housenumber: 1204
+street: North Highway 81
+housenumber: "1204"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

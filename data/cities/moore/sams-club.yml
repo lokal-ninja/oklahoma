@@ -1,11 +1,11 @@
 id: 877604028
-type: way
+type: node
 latitude: 35.32332
 longitude: -97.48844
 postcode: "73160"
 city: Moore
-street: "South Broadway Avenue"
-housenumber: 1705
-phone: "+1 405-300-6019"
-opening_hours: "Su-Fr 10:00-20:00; Sa 09:00-20:00"
-website: "https://www.samsclub.com/club/moore-ok-sams-club/6779"
+street: South Broadway Avenue
+housenumber: "1705"
+phone: +1 405-300-6019
+opening_hours: Su-Fr 10:00-20:00; Sa 09:00-20:00
+website: https://www.samsclub.com/club/moore-ok-sams-club/6779

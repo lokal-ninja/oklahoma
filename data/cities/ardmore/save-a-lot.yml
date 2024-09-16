@@ -1,11 +1,11 @@
 id: 865237550
-type: way
+type: node
 latitude: 34.17782
 longitude: -97.14193
 postcode: "73401"
 city: Ardmore
-street: "North Commerce Street"
-housenumber: 320
+street: North Commerce Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/ardmore-73401-21625/"
+website: https://savealot.com/grocery-stores/ardmore-73401-21625/

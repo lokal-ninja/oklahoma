@@ -1,11 +1,11 @@
 id: 865237546
-type: way
+type: node
 latitude: 34.19092
 longitude: -97.14582
 postcode: "73401"
 city: Ardmore
-street: "North Commerce Street"
-housenumber: 1203
-phone: "+1 580-224-9825"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/ok/ardmore/1203-n-commerce-street"
+street: North Commerce Street
+housenumber: "1203"
+phone: +1 580-224-9825
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/ok/ardmore/1203-n-commerce-street

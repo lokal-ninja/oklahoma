@@ -1,11 +1,11 @@
 id: 1066158075
-type: way
+type: node
 latitude: 36.13788
 longitude: -96.11491
 postcode: "74063"
 city: Tulsa
-street: "North Wilson Avenue"
-housenumber: 101
-phone: "+1 918-770-9204"
+street: North Wilson Avenue
+housenumber: "101"
+phone: +1 918-770-9204
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/ok/tulsa/965007/"
+website: https://www.mattressfirm.com/en-us/stores/ok/tulsa/965007/

@@ -1,11 +1,11 @@
 id: 249994711
-type: way
+type: node
 latitude: 35.43786
 longitude: -97.39462
 postcode: "73110"
 city: Midwest City
-street: "Southeast 29th Street"
-housenumber: 7401
-phone: "+1 405-736-6992"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/ok/midwestcity-114.shtml"
+street: Southeast 29th Street
+housenumber: "7401"
+phone: +1 405-736-6992
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/ok/midwestcity-114.shtml

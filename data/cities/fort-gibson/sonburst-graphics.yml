@@ -1,11 +1,11 @@
 id: 606538594
-type: way
+type: node
 latitude: 35.79735
 longitude: -95.25091
 postcode: "74434"
 city: Fort Gibson
-street: "West Poplar Street"
-housenumber: 116
+street: West Poplar Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

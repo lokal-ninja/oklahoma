@@ -1,11 +1,11 @@
 id: 241573376
-type: way
+type: node
 latitude: 36.12643
 longitude: -97.05801
 postcode: "74075"
 city: Stillwater
-street: "East Hall of Fame Avenue"
-housenumber: 101
-phone: "(405) 707-0287"
-opening_hours: "07:00-22:00"
-website: "https://www.cvs.com/store-locator/stillwater-ok-pharmacies/101-e-hall-of-fame-ave-stillwater-ok-74075/storeid=10101"
+street: East Hall of Fame Avenue
+housenumber: "101"
+phone: (405) 707-0287
+opening_hours: 07:00-22:00
+website: https://www.cvs.com/store-locator/stillwater-ok-pharmacies/101-e-hall-of-fame-ave-stillwater-ok-74075/storeid=10101

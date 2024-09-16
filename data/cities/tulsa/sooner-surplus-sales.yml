@@ -1,11 +1,11 @@
 id: 1208397611
-type: way
+type: node
 latitude: 36.13313
 longitude: -96.02616
 postcode: "74107"
 city: Tulsa
-street: "West 21st Street"
-housenumber: 3190
-phone: "+1 918 445 0895"
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
-website: "https://soonersurplussales.com/tulsa.html"
+street: West 21st Street
+housenumber: "3190"
+phone: +1 918 445 0895
+opening_hours: Mo-Sa 09:00-18:00; Su off
+website: https://soonersurplussales.com/tulsa.html

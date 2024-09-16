@@ -1,11 +1,11 @@
 id: 1030200120
-type: way
+type: node
 latitude: 34.61819
 longitude: -98.42188
 postcode: "73505"
 city: Lawton
-street: "Northwest Sheridan Road"
-housenumber: 821
-phone: "+1 580-448-4571"
-opening_hours: "07:00-21:00"
-website: "https://locations.panerabread.com/ok/lawton/821-northwest-sheridan-road.html"
+street: Northwest Sheridan Road
+housenumber: "821"
+phone: +1 580-448-4571
+opening_hours: 07:00-21:00
+website: https://locations.panerabread.com/ok/lawton/821-northwest-sheridan-road.html

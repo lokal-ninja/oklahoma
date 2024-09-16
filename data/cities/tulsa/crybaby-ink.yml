@@ -1,11 +1,11 @@
 id: 1207910267
-type: way
+type: node
 latitude: 36.07503
 longitude: -95.90337
 postcode: "74136"
 city: Tulsa
-street: "South Sheridan Road"
-housenumber: 6125
+street: South Sheridan Road
+housenumber: "6125"
 phone: ""
 opening_hours: ""
 website: ""

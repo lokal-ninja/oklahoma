@@ -1,11 +1,11 @@
 id: 1234090348
-type: way
+type: node
 latitude: 35.82815
 longitude: -96.38814
 postcode: "74010"
 city: Bristow
-street: "East 1st Avenue"
-housenumber: 212
-phone: "+1-918-367-3123"
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-12:00"
+street: East 1st Avenue
+housenumber: "212"
+phone: +1-918-367-3123
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-12:00
 website: ""

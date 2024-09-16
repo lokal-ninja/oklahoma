@@ -1,11 +1,11 @@
 id: 331548661
-type: way
+type: node
 latitude: 36.36934
 longitude: -96.03097
 postcode: "74070"
 city: Skiatook
-street: "West W.C. Rogers Boulevard"
-housenumber: 3599
+street: West W.C. Rogers Boulevard
+housenumber: "3599"
 phone: ""
 opening_hours: ""
-website: "http://warehousemarket.com/"
+website: http://warehousemarket.com/

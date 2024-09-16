@@ -1,11 +1,11 @@
 id: 624562122
-type: way
+type: node
 latitude: 36.12914
 longitude: -96.00625
 postcode: "74107"
 city: Tulsa
-street: "West 23rd Street"
-housenumber: 1202
+street: West 23rd Street
+housenumber: "1202"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

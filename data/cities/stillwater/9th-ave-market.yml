@@ -1,11 +1,11 @@
 id: 232804579
-type: way
+type: node
 latitude: 36.11223
 longitude: -97.0576
 postcode: "74074"
 city: Stillwater
-street: "East 9th Avenue"
-housenumber: 117
+street: East 9th Avenue
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

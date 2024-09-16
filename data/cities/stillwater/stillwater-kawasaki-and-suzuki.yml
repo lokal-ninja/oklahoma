@@ -1,11 +1,11 @@
 id: 232564082
-type: way
+type: node
 latitude: 36.11552
 longitude: -97.0571
 postcode: "74074"
 city: Stillwater
-street: "South Lewis Street"
-housenumber: 601
+street: South Lewis Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

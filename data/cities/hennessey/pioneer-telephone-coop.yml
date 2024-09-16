@@ -1,11 +1,11 @@
 id: 517733256
-type: way
+type: node
 latitude: 36.10887
 longitude: -97.89735
 postcode: "73742"
 city: Hennessey
-street: "East 1st Street"
-housenumber: 201
+street: East 1st Street
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00"
+opening_hours: Mo-Fr 08:30-17:00
 website: ""

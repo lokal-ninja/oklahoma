@@ -1,11 +1,11 @@
 id: 635183594
-type: way
+type: node
 latitude: 36.12544
 longitude: -95.88177
 postcode: ""
 city: Tulsa
-street: "East Skelly Drive"
-housenumber: 8621
+street: East Skelly Drive
+housenumber: "8621"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, Sa-Su 08:00-16:00"
-website: "https://mhc.com/locations/mhc-truck-leasing-tulsa"
+opening_hours: Mo-Fr 08:00-17:00, Sa-Su 08:00-16:00
+website: https://mhc.com/locations/mhc-truck-leasing-tulsa

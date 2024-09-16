@@ -1,11 +1,11 @@
 id: 509344098
-type: way
+type: node
 latitude: 35.46628
 longitude: -97.4053
-postcode: "73110-1702"
+postcode: 73110-1702
 city: Midwest City
-street: "North Air Depot Boulevard"
-housenumber: 212
-phone: "+1 405-732-9222"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: North Air Depot Boulevard
+housenumber: "212"
+phone: +1 405-732-9222
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 558086905
-type: way
+type: node
 latitude: 34.44808
 longitude: -97.1349
 postcode: "73030"
 city: Davis
-street: "US-77"
-housenumber: 4145
-phone: "580-369-7830"
-opening_hours: "07:00-19:00"
+street: US-77
+housenumber: "4145"
+phone: 580-369-7830
+opening_hours: 07:00-19:00
 website: ""

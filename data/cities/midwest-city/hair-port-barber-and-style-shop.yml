@@ -1,11 +1,11 @@
 id: 480511190
-type: way
+type: node
 latitude: 35.46382
 longitude: -97.41729
 postcode: "73110"
 city: Midwest City
-street: "East Reno Avenue"
-housenumber: 6422
-phone: "405-733-7755"
+street: East Reno Avenue
+housenumber: "6422"
+phone: 405-733-7755
 opening_hours: ""
 website: ""

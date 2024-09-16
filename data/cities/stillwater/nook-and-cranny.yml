@@ -1,11 +1,11 @@
 id: 232846352
-type: way
+type: node
 latitude: 36.11113
 longitude: -97.05878
 postcode: "74074"
 city: Stillwater
-street: "South Main Street"
-housenumber: 1002
-phone: "405-385-1747"
+street: South Main Street
+housenumber: "1002"
+phone: 405-385-1747
 opening_hours: ""
 website: ""

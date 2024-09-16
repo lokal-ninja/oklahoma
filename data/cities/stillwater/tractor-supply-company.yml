@@ -1,11 +1,11 @@
 id: 659951096
-type: way
+type: node
 latitude: 36.08085
 longitude: -97.05225
 postcode: "74074"
 city: Stillwater
-street: "South Perkins Road"
-housenumber: 3624
-phone: "+1 405-707-0113"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Perkins Road
+housenumber: "3624"
+phone: +1 405-707-0113
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1224670745
-type: way
+type: node
 latitude: 35.43329
 longitude: -97.49511
 postcode: "73129"
 city: Oklahoma City
-street: "South High Avenue"
-housenumber: 3205
-phone: "405-619-7888"
+street: South High Avenue
+housenumber: "3205"
+phone: 405-619-7888
 opening_hours: ""
 website: ""

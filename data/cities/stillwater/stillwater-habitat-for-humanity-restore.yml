@@ -1,11 +1,11 @@
 id: 313512462
-type: way
+type: node
 latitude: 36.10298
 longitude: -97.05294
 postcode: "74074"
 city: Stillwater
-street: "East 18th Avenue"
-housenumber: 505
-phone: "405-372-8100"
-opening_hours: "Tu 09:00-17:00;Th-Fr 09:00-17:00;Sa 09:00-13:00"
-website: "https://www.stillwaterhabitat.org/"
+street: East 18th Avenue
+housenumber: "505"
+phone: 405-372-8100
+opening_hours: Tu 09:00-17:00;Th-Fr 09:00-17:00;Sa 09:00-13:00
+website: https://www.stillwaterhabitat.org/

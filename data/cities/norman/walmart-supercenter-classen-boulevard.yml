@@ -1,11 +1,11 @@
 id: 544579399
-type: way
+type: node
 latitude: 35.17475
 longitude: -97.40921
 postcode: "73071"
 city: Norman
-street: "Classen Boulevard"
-housenumber: 3651
-phone: "+1 405-515-7024"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/7294-norman-ok"
+street: Classen Boulevard
+housenumber: "3651"
+phone: +1 405-515-7024
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/7294-norman-ok

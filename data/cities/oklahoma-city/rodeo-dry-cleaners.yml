@@ -1,11 +1,11 @@
 id: 499271708
-type: way
+type: node
 latitude: 35.42136
 longitude: -97.43986
 postcode: "73115"
 city: Oklahoma City
-street: "Southeast 44th Street"
-housenumber: 4329
+street: Southeast 44th Street
+housenumber: "4329"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

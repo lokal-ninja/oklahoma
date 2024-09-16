@@ -1,11 +1,11 @@
 id: 988166157
-type: way
+type: node
 latitude: 33.85412
 longitude: -96.50255
 postcode: "74733"
 city: Colbert
-street: "Burney Street"
-housenumber: 120
+street: Burney Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

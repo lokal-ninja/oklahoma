@@ -2,10 +2,10 @@ id: 4650946671
 type: node
 latitude: 35.49418
 longitude: -97.54874
-postcode: "73107-2401"
+postcode: 73107-2401
 city: Oklahoma City
-street: "Northwest 23rd Street"
-housenumber: 2119
-phone: "+1 405-528-1515"
-opening_hours: "Mo-Sa 07:30-20:00; Su 09:00-18:00"
+street: Northwest 23rd Street
+housenumber: "2119"
+phone: +1 405-528-1515
+opening_hours: Mo-Sa 07:30-20:00; Su 09:00-18:00
 website: ""

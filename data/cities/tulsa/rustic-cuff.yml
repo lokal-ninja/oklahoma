@@ -1,11 +1,11 @@
 id: 1211739558
-type: way
+type: node
 latitude: 36.14073
 longitude: -95.97428
 postcode: "74120"
 city: Tulsa
-street: "East 15th Street"
-housenumber: 1325
+street: East 15th Street
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

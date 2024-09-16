@@ -1,11 +1,11 @@
 id: 250034193
-type: way
+type: node
 latitude: 36.13224
 longitude: -95.9651
 postcode: "74114"
 city: Tulsa
-street: "Utica Square"
-housenumber: 1842
-phone: "(918) 770-8303"
+street: Utica Square
+housenumber: "1842"
+phone: (918) 770-8303
 opening_hours: ""
-website: "https://kendrascott.com/"
+website: https://kendrascott.com/

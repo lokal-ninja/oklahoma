@@ -1,11 +1,11 @@
 id: 244364389
-type: way
+type: node
 latitude: 35.8438
 longitude: -98.41792
 postcode: "73772"
 city: Watonga
-street: "West Main Street"
-housenumber: 409
-phone: "+1-580-623-5000"
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
+street: West Main Street
+housenumber: "409"
+phone: +1-580-623-5000
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1030833632
-type: way
+type: node
 latitude: 35.27886
 longitude: -95.58285
 postcode: "74432"
 city: Eufaula
-street: "Lakeshore Drive"
-housenumber: 1
+street: Lakeshore Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

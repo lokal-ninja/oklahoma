@@ -1,11 +1,11 @@
 id: 250495287
-type: way
+type: node
 latitude: 36.15588
 longitude: -95.98886
 postcode: ""
 city: Tulsa
-street: "South Detroit Avenue"
-housenumber: 114
+street: South Detroit Avenue
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

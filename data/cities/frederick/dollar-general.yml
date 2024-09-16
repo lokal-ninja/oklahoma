@@ -1,11 +1,11 @@
 id: 1079304473
-type: way
+type: node
 latitude: 34.39892
 longitude: -99.01665
 postcode: "73542"
 city: Frederick
-street: "North Main Street"
-housenumber: 914
+street: North Main Street
+housenumber: "914"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/ok/frederick/3837"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/ok/frederick/3837

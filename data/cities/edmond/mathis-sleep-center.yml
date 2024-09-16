@@ -1,11 +1,11 @@
 id: 472237037
-type: way
+type: node
 latitude: 35.61768
 longitude: -97.49179
 postcode: "73013"
 city: Edmond
-street: "Comfort Drive"
-housenumber: 401
+street: Comfort Drive
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

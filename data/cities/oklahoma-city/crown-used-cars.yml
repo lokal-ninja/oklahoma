@@ -1,11 +1,11 @@
 id: 1251500931
-type: way
+type: node
 latitude: 35.50578
 longitude: -97.56529
 postcode: "73112"
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 3520
-phone: "+1 405 768 2722"
+street: North May Avenue
+housenumber: "3520"
+phone: +1 405 768 2722
 opening_hours: ""
-website: "https://crownusedcarsokc.com"
+website: https://crownusedcarsokc.com

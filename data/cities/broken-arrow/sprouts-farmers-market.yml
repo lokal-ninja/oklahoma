@@ -1,11 +1,11 @@
 id: 473114062
-type: way
+type: node
 latitude: 36.06684
 longitude: -95.78155
 postcode: "74012"
 city: Broken Arrow
-street: "East Hillside Drive"
-housenumber: 851
-phone: "+1 918-806-0810"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/ok/broken-arrow/broken-arrow/"
+street: East Hillside Drive
+housenumber: "851"
+phone: +1 918-806-0810
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/ok/broken-arrow/broken-arrow/

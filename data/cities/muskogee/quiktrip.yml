@@ -1,11 +1,11 @@
 id: 1112556482
-type: way
+type: node
 latitude: 35.76865
 longitude: -95.40373
 postcode: "74401"
 city: Muskogee
-street: "North 32nd Street"
-housenumber: 1919
+street: North 32nd Street
+housenumber: "1919"
 phone: ""
 opening_hours: ""
 website: ""

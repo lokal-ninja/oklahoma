@@ -1,11 +1,11 @@
 id: 988465834
-type: way
+type: node
 latitude: 33.92326
 longitude: -96.44061
 postcode: "74730"
 city: Calera
-street: "South McKinley Avenue"
-housenumber: 1504
+street: South McKinley Avenue
+housenumber: "1504"
 phone: ""
 opening_hours: ""
 website: ""

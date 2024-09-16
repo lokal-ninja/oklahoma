@@ -1,11 +1,11 @@
 id: 1072106979
-type: way
+type: node
 latitude: 34.61418
 longitude: -98.38815
 postcode: "73501"
 city: Lawton
-street: "Northwest 2nd Street"
-housenumber: 421
+street: Northwest 2nd Street
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

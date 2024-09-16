@@ -1,11 +1,11 @@
 id: 314903954
-type: way
+type: node
 latitude: 34.60334
 longitude: -98.38955
 postcode: "73501"
 city: Lawton
-street: "Southwest C Avenue"
-housenumber: 200
+street: Southwest C Avenue
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

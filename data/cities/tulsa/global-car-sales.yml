@@ -1,11 +1,11 @@
 id: 1239920258
-type: way
+type: node
 latitude: 36.14819
 longitude: -95.9629
 postcode: ""
 city: Tulsa
-street: "East 11th Street"
-housenumber: 2015
-phone: "+1 918 382 7600"
+street: East 11th Street
+housenumber: "2015"
+phone: +1 918 382 7600
 opening_hours: ""
 website: ""

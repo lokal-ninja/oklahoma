@@ -1,11 +1,11 @@
 id: 907136935
-type: way
+type: node
 latitude: 34.92978
 longitude: -95.75546
 postcode: "74501"
 city: McAlester
-street: "South Strong Boulevard"
-housenumber: 21
+street: South Strong Boulevard
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/mcalester-ok-pharmacies/21-south-strong-blvd-mcalester-ok-74501/storeid=10275"
+website: https://www.cvs.com/store-locator/mcalester-ok-pharmacies/21-south-strong-blvd-mcalester-ok-74501/storeid=10275

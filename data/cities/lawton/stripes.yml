@@ -1,11 +1,11 @@
 id: 1291127353
-type: way
+type: node
 latitude: 34.60935
 longitude: -98.47536
 postcode: "73505"
 city: Lawton
-street: "Northwest 67th Street"
-housenumber: 8
-phone: "+1-580-536-7762"
-opening_hours: "24/7"
-website: "http://www.stripesstores.com/"
+street: Northwest 67th Street
+housenumber: "8"
+phone: +1-580-536-7762
+opening_hours: 24/7
+website: http://www.stripesstores.com/

@@ -1,11 +1,11 @@
 id: 397356478
-type: way
+type: node
 latitude: 36.02431
 longitude: -95.94839
 postcode: "74137"
 city: Tulsa
-street: "Riverside Parkway"
-housenumber: 9645
-phone: "+1 918-296-3312"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ok/tulsa/pet-supplies-tulsa-ok-1430.html"
+street: Riverside Parkway
+housenumber: "9645"
+phone: +1 918-296-3312
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ok/tulsa/pet-supplies-tulsa-ok-1430.html

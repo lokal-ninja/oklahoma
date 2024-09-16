@@ -1,11 +1,11 @@
 id: 1275461695
-type: way
+type: node
 latitude: 35.8712
 longitude: -95.52287
 postcode: "74454"
 city: Porter
-street: "West Hale Avenue"
-housenumber: 503
-phone: "+1 918 639 7411"
+street: West Hale Avenue
+housenumber: "503"
+phone: +1 918 639 7411
 opening_hours: ""
 website: ""

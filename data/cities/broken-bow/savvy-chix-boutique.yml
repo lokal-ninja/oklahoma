@@ -1,11 +1,11 @@
 id: 1012572343
-type: way
+type: node
 latitude: 34.02731
 longitude: -94.73818
 postcode: ""
 city: Broken Bow
-street: "West 1st Street"
-housenumber: 125
+street: West 1st Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 866423669
-type: way
+type: node
 latitude: 35.39293
 longitude: -97.51822
 postcode: "73139"
 city: Oklahoma City
-street: "Southwest 74th Street"
-housenumber: 339
+street: Southwest 74th Street
+housenumber: "339"
 phone: ""
 opening_hours: ""
 website: ""

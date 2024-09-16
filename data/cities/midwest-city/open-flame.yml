@@ -1,11 +1,11 @@
 id: 480523802
-type: way
+type: node
 latitude: 35.46121
 longitude: -97.40661
 postcode: "73110"
 city: Midwest City
-street: "South Air Depot Boulevard"
-housenumber: 307
+street: South Air Depot Boulevard
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

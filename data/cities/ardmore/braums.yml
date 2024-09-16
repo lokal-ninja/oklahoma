@@ -1,11 +1,11 @@
 id: 426375975
-type: way
+type: node
 latitude: 34.18647
 longitude: -97.16535
 postcode: "73401"
 city: Ardmore
-street: "Holiday Drive"
-housenumber: 1021
+street: Holiday Drive
+housenumber: "1021"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 575748934
-type: way
+type: node
 latitude: 35.25821
 longitude: -97.59949
 postcode: "73065"
 city: Newcastle
-street: "North Main Street"
-housenumber: 1166
-phone: "+1-405-387-2400"
+street: North Main Street
+housenumber: "1166"
+phone: +1-405-387-2400
 opening_hours: ""
 website: ""

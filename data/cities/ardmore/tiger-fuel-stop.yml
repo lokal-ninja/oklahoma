@@ -1,11 +1,11 @@
 id: 865432375
-type: way
+type: node
 latitude: 34.2013
 longitude: -97.16122
 postcode: "73401"
 city: Ardmore
-street: "Veterans Boulevard"
-housenumber: 2510
+street: Veterans Boulevard
+housenumber: "2510"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 867169663
-type: way
+type: node
 latitude: 36.70143
 longitude: -97.08323
 postcode: "74601"
 city: Ponca City
-street: "South 2nd Street"
-housenumber: 300
+street: South 2nd Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

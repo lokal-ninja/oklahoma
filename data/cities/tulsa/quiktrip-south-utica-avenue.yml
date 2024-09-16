@@ -1,11 +1,11 @@
 id: 344525038
-type: way
+type: node
 latitude: 36.14885
 longitude: -95.96792
 postcode: ""
 city: Tulsa
-street: "South Utica Avenue"
-housenumber: 1022
+street: South Utica Avenue
+housenumber: "1022"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

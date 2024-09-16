@@ -1,11 +1,11 @@
 id: 1251179776
-type: way
+type: node
 latitude: 35.47514
 longitude: -97.5648
 postcode: "73107"
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 800
-phone: "+1 405 525 9000"
+street: North May Avenue
+housenumber: "800"
+phone: +1 405 525 9000
 opening_hours: ""
-website: "https://manhattanconstructiongroup.com/cantera/locations/oklahoma-city/"
+website: https://manhattanconstructiongroup.com/cantera/locations/oklahoma-city/

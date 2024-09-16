@@ -1,11 +1,11 @@
 id: 382772353
-type: way
+type: node
 latitude: 35.84432
 longitude: -96.39552
 postcode: "74010"
 city: Bristow
-street: "West Highway 16"
-housenumber: 105
-phone: "+1 918-367-3335"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/324/bristow-ok/whats-new"
+street: West Highway 16
+housenumber: "105"
+phone: +1 918-367-3335
+opening_hours: 24/7
+website: https://www.walmart.com/store/324/bristow-ok/whats-new

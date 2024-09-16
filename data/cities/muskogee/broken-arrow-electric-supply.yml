@@ -1,11 +1,11 @@
 id: 1112547136
-type: way
+type: node
 latitude: 35.76822
 longitude: -95.36002
 postcode: "74401"
 city: Muskogee
-street: "Roosevelt Avenue"
-housenumber: 1904
+street: Roosevelt Avenue
+housenumber: "1904"
 phone: ""
 opening_hours: ""
 website: ""

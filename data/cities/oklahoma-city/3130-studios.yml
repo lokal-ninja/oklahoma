@@ -4,8 +4,8 @@ latitude: 35.50175
 longitude: -97.5652
 postcode: "73112"
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 3130
-phone: "+1 405 919 6734"
-opening_hours: "by appointment"
-website: "https://3130studios.com"
+street: North May Avenue
+housenumber: "3130"
+phone: +1 405 919 6734
+opening_hours: '"by appointment"'
+website: https://3130studios.com

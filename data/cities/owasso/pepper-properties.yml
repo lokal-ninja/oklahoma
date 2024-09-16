@@ -1,11 +1,11 @@
 id: 1254353974
-type: way
+type: node
 latitude: 36.26435
 longitude: -95.83086
 postcode: "74055"
 city: Owasso
-street: "East 76th Circle North"
-housenumber: 12899
+street: East 76th Circle North
+housenumber: "12899"
 phone: ""
 opening_hours: ""
 website: ""

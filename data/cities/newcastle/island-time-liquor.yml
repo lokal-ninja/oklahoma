@@ -1,11 +1,11 @@
 id: 572763474
-type: way
+type: node
 latitude: 35.25336
 longitude: -97.59994
 postcode: "73065"
 city: Newcastle
-street: "North Main Street"
-housenumber: 608
-phone: "+1-405-387-9463"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.islandtimeliquor.com/"
+street: North Main Street
+housenumber: "608"
+phone: +1-405-387-9463
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.islandtimeliquor.com/

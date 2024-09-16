@@ -1,11 +1,11 @@
 id: 988175798
-type: way
+type: node
 latitude: 33.93737
 longitude: -96.42424
 postcode: "74730"
 city: Calera
-street: "North Service Road"
-housenumber: 511
+street: North Service Road
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 1251975127
-type: way
+type: node
 latitude: 35.53229
 longitude: -97.56455
 postcode: "73112"
 city: Oklahoma City
-street: "Northwest 62nd Street"
-housenumber: 2828
-phone: "+1 405 406 1914;+1 877 217 1602"
-opening_hours: "Mo-Fr 09:30-18:00 Office; Sa 09:00-17:30 Office; 06:00-22:00 Customer access."
-website: "https://www.extraspace.com/storage/facilities/us/oklahoma/oklahoma_city/"
+street: Northwest 62nd Street
+housenumber: "2828"
+phone: +1 405 406 1914;+1 877 217 1602
+opening_hours: Mo-Fr 09:30-18:00 "Office"; Sa 09:00-17:30 "Office"; 06:00-22:00 "Customer
+    access."
+website: https://www.extraspace.com/storage/facilities/us/oklahoma/oklahoma_city/

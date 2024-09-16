@@ -1,11 +1,11 @@
 id: 1215688190
-type: way
+type: node
 latitude: 35.95937
 longitude: -95.39876
 postcode: ""
 city: Wagoner
-street: "West Highway 51"
-housenumber: 1516
+street: West Highway 51
+housenumber: "1516"
 phone: ""
 opening_hours: ""
 website: ""

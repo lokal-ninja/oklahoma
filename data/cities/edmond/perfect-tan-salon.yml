@@ -1,11 +1,11 @@
 id: 309851009
-type: way
+type: node
 latitude: 35.65104
 longitude: -97.4657
 postcode: "73034"
 city: Edmond
-street: "Waterwood Parkway"
-housenumber: 335
+street: Waterwood Parkway
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

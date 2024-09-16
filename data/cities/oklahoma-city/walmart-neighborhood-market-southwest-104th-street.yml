@@ -1,11 +1,11 @@
 id: 947012653
-type: way
+type: node
 latitude: 35.36413
 longitude: -97.53157
 postcode: "73139"
 city: Oklahoma City
-street: "Southwest 104th Street"
-housenumber: 911
-phone: "+1 405-692-3860"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2878-oklahoma-city-ok"
+street: Southwest 104th Street
+housenumber: "911"
+phone: +1 405-692-3860
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2878-oklahoma-city-ok

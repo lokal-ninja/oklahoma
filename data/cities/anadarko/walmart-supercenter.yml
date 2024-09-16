@@ -1,11 +1,11 @@
 id: 484376996
-type: way
+type: node
 latitude: 35.06049
 longitude: -98.26304
 postcode: "73005"
 city: Anadarko
-street: "West Petree Road"
-housenumber: 1201
-phone: "+1 405-247-2535"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/162/anadarko-ok/whats-new"
+street: West Petree Road
+housenumber: "1201"
+phone: +1 405-247-2535
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/162/anadarko-ok/whats-new

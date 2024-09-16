@@ -1,11 +1,11 @@
 id: 1293537514
-type: way
+type: node
 latitude: 36.05351
 longitude: -95.79798
 postcode: ""
 city: Broken Arrow
-street: "North Elm Place"
-housenumber: 126
-phone: "+1 918 251 0628"
+street: North Elm Place
+housenumber: "126"
+phone: +1 918 251 0628
 opening_hours: ""
 website: ""

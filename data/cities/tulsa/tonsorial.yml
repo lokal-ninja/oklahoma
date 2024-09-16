@@ -1,11 +1,11 @@
 id: 495927969
-type: way
+type: node
 latitude: 36.14766
 longitude: -95.98177
 postcode: "74120"
 city: Tulsa
-street: "East 11th Street"
-housenumber: 416
+street: East 11th Street
+housenumber: "416"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://tonsorialtulsa.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://tonsorialtulsa.com/

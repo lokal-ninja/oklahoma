@@ -1,11 +1,11 @@
 id: 1173386730
-type: way
+type: node
 latitude: 35.76301
 longitude: -95.35914
 postcode: "74401"
 city: Muskogee
-street: "North Main Street"
-housenumber: 1200
+street: North Main Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

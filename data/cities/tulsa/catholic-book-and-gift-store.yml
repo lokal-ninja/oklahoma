@@ -1,11 +1,11 @@
 id: 1146054877
-type: way
+type: node
 latitude: 36.11749
 longitude: -95.92179
 postcode: ""
 city: Tulsa
-street: "South Yale Avenue"
-housenumber: 3141
-phone: "+1 918-745-0196"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-16:00; Su off"
-website: "https://catholicbookandgifts.com/"
+street: South Yale Avenue
+housenumber: "3141"
+phone: +1 918-745-0196
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-16:00; Su off
+website: https://catholicbookandgifts.com/

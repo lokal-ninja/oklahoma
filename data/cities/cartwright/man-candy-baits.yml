@@ -1,11 +1,11 @@
 id: 988158742
-type: way
+type: node
 latitude: 33.85387
 longitude: -96.5659
 postcode: "74731"
 city: Cartwright
-street: "1st Avenue"
-housenumber: 111
+street: 1st Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

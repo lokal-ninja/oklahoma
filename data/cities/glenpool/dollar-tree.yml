@@ -1,11 +1,11 @@
 id: 1059944301
-type: way
+type: node
 latitude: 35.9858
 longitude: -96.01752
 postcode: "74033"
 city: Glenpool
-street: "South Waco Avenue"
-housenumber: 12180
-phone: "(918) 216-8313"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/ok/glenpool/8690/"
+street: South Waco Avenue
+housenumber: "12180"
+phone: (918) 216-8313
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/ok/glenpool/8690/

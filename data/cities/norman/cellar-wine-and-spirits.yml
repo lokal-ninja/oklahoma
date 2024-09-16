@@ -1,11 +1,11 @@
 id: 385928471
-type: way
+type: node
 latitude: 35.21912
 longitude: -97.45006
 postcode: "73069"
 city: Norman
-street: "West Main Street"
-housenumber: 555
+street: West Main Street
+housenumber: "555"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; PH off"
+opening_hours: Mo-Sa 10:00-21:00; PH off
 website: ""

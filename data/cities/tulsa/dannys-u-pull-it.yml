@@ -1,11 +1,11 @@
 id: 515377316
-type: way
+type: node
 latitude: 36.22045
 longitude: -95.87696
 postcode: "74117"
 city: Tulsa
-street: "East 46th Street North"
-housenumber: 9101
+street: East 46th Street North
+housenumber: "9101"
 phone: ""
-opening_hours: "Mo-Sa 08:30-16:30; Su 08:30-15:30"
+opening_hours: Mo-Sa 08:30-16:30; Su 08:30-15:30
 website: ""

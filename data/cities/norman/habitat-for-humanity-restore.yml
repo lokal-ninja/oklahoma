@@ -1,11 +1,11 @@
 id: 324092769
-type: way
+type: node
 latitude: 35.21821
 longitude: -97.4576
 postcode: "73069"
 city: Norman
-street: "West Main Street"
-housenumber: 
+street: West Main Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off"
-website: "https://www.cchfh.org/index.php?restore/contact-the-restore"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off
+website: https://www.cchfh.org/index.php?restore/contact-the-restore

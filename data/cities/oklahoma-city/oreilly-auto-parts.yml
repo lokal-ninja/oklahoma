@@ -1,11 +1,11 @@
 id: 264981467
-type: way
+type: node
 latitude: 35.51419
 longitude: -97.56524
 postcode: "73112"
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 4200
-phone: "+1 405 942 3903"
-opening_hours: "Mo-Sa 07:30-22:00; Su 09:00-22:00"
-website: "https://locations.oreillyauto.com/ok/oklahomacity/autoparts-180.html"
+street: North May Avenue
+housenumber: "4200"
+phone: +1 405 942 3903
+opening_hours: Mo-Sa 07:30-22:00; Su 09:00-22:00
+website: https://locations.oreillyauto.com/ok/oklahomacity/autoparts-180.html

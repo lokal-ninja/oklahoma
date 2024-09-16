@@ -1,11 +1,11 @@
 id: 192444817
-type: way
+type: node
 latitude: 35.87759
 longitude: -97.42609
 postcode: "73044"
 city: Guthrie
-street: "West Oklahoma Avenue"
-housenumber: 111
-phone: "+1-405-282-7477"
+street: West Oklahoma Avenue
+housenumber: "111"
+phone: +1-405-282-7477
 opening_hours: ""
 website: ""

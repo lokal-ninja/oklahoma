@@ -1,11 +1,11 @@
 id: 1204410232
-type: way
+type: node
 latitude: 35.4361
 longitude: -97.39978
 postcode: "73110"
 city: Midwest City
-street: "Southeast 29th Street"
-housenumber: 7201
-phone: "405-732-1140"
+street: Southeast 29th Street
+housenumber: "7201"
+phone: 405-732-1140
 opening_hours: ""
 website: ""

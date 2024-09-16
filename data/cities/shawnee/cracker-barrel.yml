@@ -1,11 +1,11 @@
 id: 436975649
-type: way
+type: node
 latitude: 35.38281
 longitude: -96.92533
 postcode: ""
 city: Shawnee
-street: "West Interstate Parkway"
-housenumber: 27
-phone: "405-214-7718"
-opening_hours: "Su-Th 06:00-22:00; Fr-Sa 06:00-23:00"
+street: West Interstate Parkway
+housenumber: "27"
+phone: 405-214-7718
+opening_hours: Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 724488847
-type: way
+type: node
 latitude: 35.21005
 longitude: -97.48463
 postcode: "73072"
 city: Norman
-street: "Ed Noble Parkway"
-housenumber: 660
-phone: "+1 405-329-9747"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00; PH off"
-website: "https://www.petsmart.com/stores/us/ok/norman-store0214.html"
+street: Ed Noble Parkway
+housenumber: "660"
+phone: +1 405-329-9747
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00; PH off
+website: https://www.petsmart.com/stores/us/ok/norman-store0214.html

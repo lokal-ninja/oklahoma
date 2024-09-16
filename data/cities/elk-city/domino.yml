@@ -1,11 +1,11 @@
 id: 1232576458
-type: way
+type: node
 latitude: 35.4122
 longitude: -99.42012
 postcode: "73644"
 city: Elk City
-street: "West 3rd Street"
-housenumber: 1303
-phone: "+1 580 225 1052"
-opening_hours: "05:00-23:00"
-website: "https://dominocstores.com/locations/location9/"
+street: West 3rd Street
+housenumber: "1303"
+phone: +1 580 225 1052
+opening_hours: 05:00-23:00
+website: https://dominocstores.com/locations/location9/

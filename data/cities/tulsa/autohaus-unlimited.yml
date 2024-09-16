@@ -1,11 +1,11 @@
 id: 1044090883
-type: way
+type: node
 latitude: 36.15642
 longitude: -95.96497
 postcode: ""
 city: Tulsa
-street: "East 3rd Street"
-housenumber: 1830
-phone: "+1 918 592 1607"
+street: East 3rd Street
+housenumber: "1830"
+phone: +1 918 592 1607
 opening_hours: ""
-website: "http://autohaustulsa.com/"
+website: http://autohaustulsa.com/

@@ -1,11 +1,11 @@
 id: 1112412709
-type: way
+type: node
 latitude: 35.76945
 longitude: -95.33016
 postcode: "74403"
 city: Muskogee
-street: "Old Shawnee Road"
-housenumber: 2909
+street: Old Shawnee Road
+housenumber: "2909"
 phone: ""
 opening_hours: ""
 website: ""

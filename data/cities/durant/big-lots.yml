@@ -1,11 +1,11 @@
 id: 607992182
-type: way
+type: node
 latitude: 34.0011
 longitude: -96.40703
 postcode: "74701"
 city: Durant
-street: "West Main Street"
-housenumber: 2418
-phone: "+1 580-920-1308"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://local.biglots.com/ok/durant/2418-w-main-st"
+street: West Main Street
+housenumber: "2418"
+phone: +1 580-920-1308
+opening_hours: Mo-Su 09:00-21:00
+website: https://local.biglots.com/ok/durant/2418-w-main-st

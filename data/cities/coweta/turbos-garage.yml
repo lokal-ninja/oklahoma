@@ -1,11 +1,11 @@
 id: 1244268781
-type: way
+type: node
 latitude: 35.98629
 longitude: -95.67137
 postcode: "74429"
 city: Coweta
-street: "South State Highway 51"
-housenumber: 12222
-phone: "+1 918 887 8039"
+street: South State Highway 51
+housenumber: "12222"
+phone: +1 918 887 8039
 opening_hours: ""
 website: ""

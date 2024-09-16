@@ -1,11 +1,11 @@
 id: 463968003
-type: way
+type: node
 latitude: 35.59442
 longitude: -97.56631
 postcode: ""
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 12240
+street: North May Avenue
+housenumber: "12240"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-12240+n+may+ave-oklahoma+city-ok-73120/id=4111"
+website: https://www.walgreens.com/locator/walgreens-12240+n+may+ave-oklahoma+city-ok-73120/id=4111

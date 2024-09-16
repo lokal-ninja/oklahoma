@@ -1,11 +1,11 @@
 id: 258989604
-type: way
+type: node
 latitude: 36.7478
 longitude: -97.06976
 postcode: "74601"
 city: Ponca City
-street: "North 14th Street"
-housenumber: 3500
-phone: "+1 580-765-1111"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ok-ponca-city/0072"
+street: North 14th Street
+housenumber: "3500"
+phone: +1 580-765-1111
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ok-ponca-city/0072

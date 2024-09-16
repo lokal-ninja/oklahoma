@@ -1,11 +1,11 @@
 id: 1217664685
-type: way
+type: node
 latitude: 36.29104
 longitude: -97.32559
 postcode: "73077"
 city: Perry
-street: "Fir Street"
-housenumber: 2805
+street: Fir Street
+housenumber: "2805"
 phone: ""
 opening_hours: ""
 website: ""

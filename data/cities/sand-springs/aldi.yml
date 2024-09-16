@@ -1,11 +1,11 @@
 id: 872692882
-type: way
+type: node
 latitude: 36.13565
 longitude: -96.1133
 postcode: "74063"
 city: Sand Springs
-street: "West Alexander Boulevard"
-housenumber: 101
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ok/sand-springs/101-w-alexander-blvd"
+street: West Alexander Boulevard
+housenumber: "101"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ok/sand-springs/101-w-alexander-blvd

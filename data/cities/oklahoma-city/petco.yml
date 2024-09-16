@@ -4,8 +4,8 @@ latitude: 35.55902
 longitude: -97.63765
 postcode: "73132"
 city: Oklahoma City
-street: "Northwest Expressway"
-housenumber: 7001
-phone: "+1 405-720-2298"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ok/oklahomacity/pet-supplies-oklahomacity-ok-1443.html"
+street: Northwest Expressway
+housenumber: "7001"
+phone: +1 405-720-2298
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ok/oklahomacity/pet-supplies-oklahomacity-ok-1443.html

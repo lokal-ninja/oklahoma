@@ -1,11 +1,11 @@
 id: 1305621549
-type: way
+type: node
 latitude: 36.05719
 longitude: -95.79114
 postcode: ""
 city: Broken Arrow
-street: "North Main Street"
-housenumber: 520
+street: North Main Street
+housenumber: "520"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

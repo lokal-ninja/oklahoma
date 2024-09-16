@@ -1,11 +1,11 @@
 id: 323743031
-type: way
+type: node
 latitude: 35.20434
 longitude: -97.47307
 postcode: "73069"
 city: Norman
-street: "West Lindsey Street"
-housenumber: 2113
+street: West Lindsey Street
+housenumber: "2113"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ok/norman/autoparts-209.html"
+website: https://locations.oreillyauto.com/ok/norman/autoparts-209.html

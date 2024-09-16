@@ -1,11 +1,11 @@
 id: 1092162035
-type: way
+type: node
 latitude: 36.40529
 longitude: -99.36232
 postcode: "73801"
 city: Woodward
-street: "East Hanks Trail"
-housenumber: 1522
-phone: "+1 580 216 0958"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.trexenterprisesllc.com/"
+street: East Hanks Trail
+housenumber: "1522"
+phone: +1 580 216 0958
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.trexenterprisesllc.com/

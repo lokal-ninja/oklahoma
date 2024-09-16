@@ -1,11 +1,11 @@
 id: 1255115772
-type: way
+type: node
 latitude: 35.82783
 longitude: -95.67962
 postcode: "74436"
 city: Haskell
-street: "West Duncan Road"
-housenumber: 401
+street: West Duncan Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241882777
-type: way
+type: node
 latitude: 35.42034
 longitude: -97.48737
 postcode: "73129"
 city: Oklahoma City
-street: "South I-35 Service Road"
-housenumber: 4500
+street: South I-35 Service Road
+housenumber: "4500"
 phone: ""
 opening_hours: ""
 website: ""

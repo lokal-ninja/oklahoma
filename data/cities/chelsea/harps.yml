@@ -1,11 +1,11 @@
 id: 702950203
-type: way
+type: node
 latitude: 36.53871
 longitude: -95.42261
 postcode: "74016"
 city: Chelsea
-street: "Walnut Street"
-housenumber: 
+street: Walnut Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

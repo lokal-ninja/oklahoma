@@ -1,11 +1,11 @@
 id: 1034496903
-type: way
+type: node
 latitude: 35.96376
 longitude: -95.6536
 postcode: "74429"
 city: Coweta
-street: "South State Highway 51"
-housenumber: 13729
-phone: "+1 918 887 8187"
-opening_hours: "Mo off; Tu-Sa 13:00-18:00; Su 13:00-17:00"
+street: South State Highway 51
+housenumber: "13729"
+phone: +1 918 887 8187
+opening_hours: Mo off; Tu-Sa 13:00-18:00; Su 13:00-17:00
 website: ""

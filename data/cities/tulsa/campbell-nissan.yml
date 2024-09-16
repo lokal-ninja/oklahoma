@@ -1,11 +1,11 @@
 id: 635183565
-type: way
+type: node
 latitude: 36.12175
 longitude: -95.88361
 postcode: "74129"
 city: Tulsa
-street: "East Skelly Drive"
-housenumber: 8190
+street: East Skelly Drive
+housenumber: "8190"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 196817328
-type: way
+type: node
 latitude: 34.92874
 longitude: -95.75412
 postcode: "74501"
 city: McAlester
-street: "East Carl Albert Parkway"
-housenumber: 1112
+street: East Carl Albert Parkway
+housenumber: "1112"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ok/mcalester/1112-e-carl-albert-pkwy.html"
+website: https://www.autozone.com/locations/ok/mcalester/1112-e-carl-albert-pkwy.html

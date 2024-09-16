@@ -1,11 +1,11 @@
 id: 1077783402
-type: way
+type: node
 latitude: 34.11169
 longitude: -94.73967
 postcode: "74728"
 city: Broken Bow
-street: "North US Highway 259"
-housenumber: 6259
-phone: "(580) 933-4787"
-opening_hours: "Tu-Fr 9:30-17:00"
+street: North US Highway 259
+housenumber: "6259"
+phone: (580) 933-4787
+opening_hours: Tu-Fr 9:30-17:00
 website: ""

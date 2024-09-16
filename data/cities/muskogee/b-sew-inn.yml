@@ -1,11 +1,11 @@
 id: 1173412127
-type: way
+type: node
 latitude: 35.74122
 longitude: -95.33644
 postcode: "74403"
 city: Muskogee
-street: "Chandler Road"
-housenumber: 2530
-phone: "+1-918-687-3488"
+street: Chandler Road
+housenumber: "2530"
+phone: +1-918-687-3488
 opening_hours: ""
 website: ""

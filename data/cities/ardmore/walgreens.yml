@@ -1,11 +1,11 @@
 id: 865227574
-type: way
+type: node
 latitude: 34.18706
 longitude: -97.14398
 postcode: "73401"
 city: Ardmore
-street: "North Commerce Street"
-housenumber: 1111
+street: North Commerce Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1111+n+commerce+st-ardmore-ok-73401/id=5739"
+website: https://www.walgreens.com/locator/walgreens-1111+n+commerce+st-ardmore-ok-73401/id=5739

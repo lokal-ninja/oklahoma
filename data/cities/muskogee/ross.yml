@@ -1,11 +1,11 @@
 id: 1112552360
-type: way
+type: node
 latitude: 35.7721
 longitude: -95.37111
 postcode: "74401"
 city: Muskogee
-street: "West Shawnee Street"
-housenumber: 904
-phone: "+1 918-687-1444"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 09:30-22:00; Su 10:00-21:00"
+street: West Shawnee Street
+housenumber: "904"
+phone: +1 918-687-1444
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 09:30-22:00; Su 10:00-21:00
 website: ""

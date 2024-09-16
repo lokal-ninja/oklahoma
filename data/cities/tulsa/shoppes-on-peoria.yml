@@ -1,11 +1,11 @@
 id: 511755351
-type: way
+type: node
 latitude: 36.18096
 longitude: -95.97567
 postcode: ""
 city: Tulsa
-street: "North Peoria Avenue"
-housenumber: 1717
+street: North Peoria Avenue
+housenumber: "1717"
 phone: ""
 opening_hours: ""
 website: ""

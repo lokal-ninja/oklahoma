@@ -1,11 +1,11 @@
 id: 988166153
-type: way
+type: node
 latitude: 33.85399
 longitude: -96.50166
 postcode: "74733"
 city: Colbert
-street: "North Franklin Street"
-housenumber: 103
+street: North Franklin Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

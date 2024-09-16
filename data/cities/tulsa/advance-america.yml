@@ -1,11 +1,11 @@
 id: 495189506
-type: way
+type: node
 latitude: 36.02459
 longitude: -95.94796
 postcode: ""
 city: Tulsa
-street: "Riverside Parkway"
-housenumber: 9645
+street: Riverside Parkway
+housenumber: "9645"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00; Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.advanceamerica.net/"
+opening_hours: Mo-Th 10:00-18:00; Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.advanceamerica.net/

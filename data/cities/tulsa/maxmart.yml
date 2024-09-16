@@ -1,11 +1,11 @@
 id: 613462975
-type: way
+type: node
 latitude: 36.18604
 longitude: -95.94091
 postcode: "74110"
 city: Tulsa
-street: "North Harvard Avenue"
-housenumber: 2218
+street: North Harvard Avenue
+housenumber: "2218"
 phone: ""
 opening_hours: ""
 website: ""

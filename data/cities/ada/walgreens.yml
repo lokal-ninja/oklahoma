@@ -1,11 +1,11 @@
 id: 1236014331
-type: way
+type: node
 latitude: 34.78134
 longitude: -96.66264
 postcode: "74820"
 city: Ada
-street: "East Arlington Street"
-housenumber: 1005
+street: East Arlington Street
+housenumber: "1005"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1005+arlington+st-ada-ok-74820/id=11295"
+website: https://www.walgreens.com/locator/walgreens-1005+arlington+st-ada-ok-74820/id=11295

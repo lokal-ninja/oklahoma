@@ -1,11 +1,11 @@
 id: 183679001
-type: way
+type: node
 latitude: 36.07654
 longitude: -96.0481
 postcode: "74129"
 city: Tulsa
-street: "South 49th West Avenue"
-housenumber: 6008
+street: South 49th West Avenue
+housenumber: "6008"
 phone: ""
 opening_hours: ""
 website: ""

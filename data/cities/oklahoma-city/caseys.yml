@@ -1,11 +1,11 @@
 id: 189438462
-type: way
+type: node
 latitude: 35.51201
 longitude: -97.56643
 postcode: "73112"
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 4001
-phone: "+1 405 578 6130"
-opening_hours: "05:00-11:00"
-website: "https://www.caseys.com/general-store/ok-oklahomacity/4001-n-may-ave/"
+street: North May Avenue
+housenumber: "4001"
+phone: +1 405 578 6130
+opening_hours: 05:00-11:00
+website: https://www.caseys.com/general-store/ok-oklahomacity/4001-n-may-ave/

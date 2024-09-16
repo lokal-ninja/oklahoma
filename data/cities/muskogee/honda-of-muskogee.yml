@@ -1,11 +1,11 @@
 id: 1112552356
-type: way
+type: node
 latitude: 35.77096
 longitude: -95.36238
 postcode: "74401"
 city: Muskogee
-street: "West Shawnee Street"
-housenumber: 240
+street: West Shawnee Street
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

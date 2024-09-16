@@ -1,11 +1,11 @@
 id: 1251975138
-type: way
+type: node
 latitude: 35.53864
 longitude: -97.56626
 postcode: ""
 city: Oklahoma City
-street: "North May Avenue"
-housenumber: 6605
+street: North May Avenue
+housenumber: "6605"
 phone: ""
 opening_hours: ""
 website: ""

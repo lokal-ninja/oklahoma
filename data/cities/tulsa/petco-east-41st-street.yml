@@ -1,11 +1,11 @@
 id: 1187968273
-type: way
+type: node
 latitude: 36.10628
 longitude: -95.91899
 postcode: "74135"
 city: Tulsa
-street: "East 41st Street"
-housenumber: 5207
-phone: "+1 918-281-2311"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ok/tulsa/pet-supplies-tulsa-ok-2479.html"
+street: East 41st Street
+housenumber: "5207"
+phone: +1 918-281-2311
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ok/tulsa/pet-supplies-tulsa-ok-2479.html

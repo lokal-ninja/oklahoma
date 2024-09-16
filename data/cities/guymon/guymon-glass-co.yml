@@ -1,11 +1,11 @@
 id: 348028802
-type: way
+type: node
 latitude: 36.68206
 longitude: -101.48058
 postcode: "73942"
 city: Guymon
-street: "Northeast 4th Street"
-housenumber: 124
-phone: "(580) 338-8188"
+street: Northeast 4th Street
+housenumber: "124"
+phone: (580) 338-8188
 opening_hours: ""
 website: ""

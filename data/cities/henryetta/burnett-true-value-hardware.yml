@@ -1,11 +1,11 @@
 id: 1234566460
-type: way
+type: node
 latitude: 35.43968
 longitude: -95.98799
 postcode: "74437"
 city: Henryetta
-street: "West Main Street"
-housenumber: 521
+street: West Main Street
+housenumber: "521"
 phone: ""
 opening_hours: ""
 website: ""

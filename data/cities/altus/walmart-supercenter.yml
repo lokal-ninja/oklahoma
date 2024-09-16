@@ -4,8 +4,8 @@ latitude: 34.66424
 longitude: -99.33129
 postcode: "73521"
 city: Altus
-street: "North Main Street"
-housenumber: 2500
-phone: "+1 580-482-8189"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/479/altus-ok/whats-new"
+street: North Main Street
+housenumber: "2500"
+phone: +1 580-482-8189
+opening_hours: 24/7
+website: https://www.walmart.com/store/479/altus-ok/whats-new

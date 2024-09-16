@@ -1,11 +1,11 @@
 id: 494027718
-type: way
+type: node
 latitude: 35.49625
 longitude: -97.37034
 postcode: "73141"
 city: Oklahoma City
-street: "Northeast 23rd Street"
-housenumber: 9011
-phone: "+1 405-769-2164"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3430/oklahoma-city-ok/whats-new"
+street: Northeast 23rd Street
+housenumber: "9011"
+phone: +1 405-769-2164
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3430/oklahoma-city-ok/whats-new

@@ -1,11 +1,11 @@
 id: 249456266
-type: way
+type: node
 latitude: 35.49353
 longitude: -97.57825
 postcode: "73107"
 city: Oklahoma City
-street: "Northwest 23rd Street"
-housenumber: 3429
+street: Northwest 23rd Street
+housenumber: "3429"
 phone: ""
 opening_hours: ""
 website: ""

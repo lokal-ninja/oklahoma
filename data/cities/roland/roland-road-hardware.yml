@@ -1,11 +1,11 @@
 id: 1157538857
-type: way
+type: node
 latitude: 35.40734
 longitude: -94.51289
 postcode: "74954"
 city: Roland
-street: "South Roland Road"
-housenumber: 817
-phone: "918-503-6550"
+street: South Roland Road
+housenumber: "817"
+phone: 918-503-6550
 opening_hours: ""
 website: ""

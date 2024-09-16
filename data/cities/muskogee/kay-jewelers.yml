@@ -1,11 +1,11 @@
 id: 1272869951
-type: way
+type: node
 latitude: 35.76862
 longitude: -95.37383
 postcode: "74401"
 city: Muskogee
-street: "West Shawnee Bypass"
-housenumber: 801
+street: West Shawnee Bypass
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

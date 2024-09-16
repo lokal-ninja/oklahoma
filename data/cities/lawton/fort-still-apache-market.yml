@@ -1,11 +1,11 @@
 id: 1072115813
-type: way
+type: node
 latitude: 34.60804
 longitude: -98.35947
 postcode: "73501"
 city: Lawton
-street: "East Gore Boulevard"
-housenumber: 2405
+street: East Gore Boulevard
+housenumber: "2405"
 phone: ""
 opening_hours: ""
 website: ""

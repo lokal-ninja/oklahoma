@@ -1,11 +1,11 @@
 id: 867169657
-type: way
+type: node
 latitude: 36.69557
 longitude: -97.0808
 postcode: "74601"
 city: Ponca City
-street: "East South Avenue"
-housenumber: 315
+street: East South Avenue
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

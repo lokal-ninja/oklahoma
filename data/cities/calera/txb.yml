@@ -1,11 +1,11 @@
 id: 988175792
-type: way
+type: node
 latitude: 33.93385
 longitude: -96.42764
 postcode: "74730"
 city: Calera
-street: "West Main Street"
-housenumber: 102
+street: West Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

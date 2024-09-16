@@ -1,11 +1,11 @@
 id: 878439309
-type: way
+type: node
 latitude: 35.82931
 longitude: -97.93717
 postcode: "73750"
 city: Kingfisher
-street: "Starlite Drive"
-housenumber: 200
-phone: "+1 405-375-5743"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/132-kingfisher-ok"
+street: Starlite Drive
+housenumber: "200"
+phone: +1 405-375-5743
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/132-kingfisher-ok

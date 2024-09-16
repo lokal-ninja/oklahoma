@@ -1,11 +1,11 @@
 id: 232794061
-type: way
+type: node
 latitude: 36.11552
 longitude: -97.05846
 postcode: "74074"
 city: Stillwater
-street: "South Main Street"
-housenumber: 601
-phone: "+1-405-533-8473"
+street: South Main Street
+housenumber: "601"
+phone: +1-405-533-8473
 opening_hours: ""
-website: "https://directdiscounttire.com/"
+website: https://directdiscounttire.com/

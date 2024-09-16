@@ -1,11 +1,11 @@
 id: 930446787
-type: way
+type: node
 latitude: 35.02643
 longitude: -97.93632
 postcode: "73018"
 city: Chickasha
-street: "South 4th Street"
-housenumber: 2318
-phone: "+1 888-475-1126"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/ok/chickasha/2318-s-4th-st"
+street: South 4th Street
+housenumber: "2318"
+phone: +1 888-475-1126
+opening_hours: Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00
+website: https://stores.aldi.us/ok/chickasha/2318-s-4th-st

@@ -1,11 +1,11 @@
 id: 865421859
-type: way
+type: node
 latitude: 34.18925
 longitude: -97.16012
 postcode: "73401"
 city: Ardmore
-street: "12th Avenue Northwest"
-housenumber: 2401
+street: 12th Avenue Northwest
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

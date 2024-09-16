@@ -1,11 +1,11 @@
 id: 744425831
-type: way
+type: node
 latitude: 36.1411
 longitude: -95.96663
 postcode: "74014"
 city: Tulsa
-street: "East 15th Street"
-housenumber: 1701
+street: East 15th Street
+housenumber: "1701"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/tulsa-ok-pharmacies/1701-e-15th-st-tulsa-ok-74104/storeid=10976"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/tulsa-ok-pharmacies/1701-e-15th-st-tulsa-ok-74104/storeid=10976

@@ -1,11 +1,11 @@
 id: 951609619
-type: way
+type: node
 latitude: 36.14819
 longitude: -95.96295
 postcode: ""
 city: Tulsa
-street: "East 11th Street"
-housenumber: 2015
+street: East 11th Street
+housenumber: "2015"
 phone: ""
 opening_hours: ""
 website: ""

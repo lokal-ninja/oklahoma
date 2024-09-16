@@ -1,11 +1,11 @@
 id: 1302904040
-type: way
+type: node
 latitude: 35.38074
 longitude: -96.92944
 postcode: "74804"
 city: Shawnee
-street: "North Kickapoo Street"
-housenumber: 4735
-phone: "+1-405-273-3433"
+street: North Kickapoo Street
+housenumber: "4735"
+phone: +1-405-273-3433
 opening_hours: ""
-website: "https://www.braums.com/store/4735-n-kickapoo-shawnee-ok/"
+website: https://www.braums.com/store/4735-n-kickapoo-shawnee-ok/

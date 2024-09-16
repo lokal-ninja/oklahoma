@@ -1,11 +1,11 @@
 id: 1254386078
-type: way
+type: node
 latitude: 34.50764
 longitude: -97.17703
 postcode: "73030"
 city: Davis
-street: "County Road"
-housenumber: 33967
+street: County Road
+housenumber: "33967"
 phone: ""
 opening_hours: ""
 website: ""

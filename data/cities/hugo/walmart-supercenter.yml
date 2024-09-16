@@ -1,11 +1,11 @@
 id: 764326747
-type: way
+type: node
 latitude: 34.00786
 longitude: -95.48815
 postcode: "74743"
 city: Hugo
-street: "East Jackson Street"
-housenumber: 1911
-phone: "+1 580-326-6494"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/49-hugo-ok"
+street: East Jackson Street
+housenumber: "1911"
+phone: +1 580-326-6494
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/49-hugo-ok

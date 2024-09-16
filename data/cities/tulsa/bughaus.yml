@@ -1,11 +1,11 @@
 id: 1239758416
-type: way
+type: node
 latitude: 36.14766
 longitude: -95.92563
 postcode: ""
 city: Tulsa
-street: "East 11th Street"
-housenumber: 4606
-phone: "+1 918 834 4287"
+street: East 11th Street
+housenumber: "4606"
+phone: +1 918 834 4287
 opening_hours: ""
-website: "https://www.bughaus.com/"
+website: https://www.bughaus.com/

@@ -1,11 +1,11 @@
 id: 962404512
-type: way
+type: node
 latitude: 35.45946
 longitude: -97.61753
 postcode: "73128"
 city: Oklahoma City
-street: "Southwest 5th Street"
-housenumber: 5809
-phone: "+1-405-609-1700"
+street: Southwest 5th Street
+housenumber: "5809"
+phone: +1-405-609-1700
 opening_hours: ""
-website: "https://linex.com/us/line-x-of-okc-F1283"
+website: https://linex.com/us/line-x-of-okc-F1283

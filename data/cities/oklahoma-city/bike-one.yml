@@ -4,8 +4,8 @@ latitude: 35.54653
 longitude: -97.61053
 postcode: "73132"
 city: Oklahoma City
-street: "NW Expressway"
-housenumber: 5503
-phone: "+1 405 573 7433"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.bikeone.us/"
+street: NW Expressway
+housenumber: "5503"
+phone: +1 405 573 7433
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.bikeone.us/

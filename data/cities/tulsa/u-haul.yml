@@ -1,11 +1,11 @@
 id: 159959673
-type: way
+type: node
 latitude: 36.15934
 longitude: -95.98708
 postcode: "74120"
 city: Tulsa
-street: "East Archer Street"
-housenumber: 504
+street: East Archer Street
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

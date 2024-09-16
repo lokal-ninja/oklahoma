@@ -1,11 +1,11 @@
 id: 230900097
-type: way
+type: node
 latitude: 36.0225
 longitude: -95.88552
 postcode: ""
 city: Tulsa
-street: "South Memorial Drive"
-housenumber: 9777
-phone: "918-779-3064"
+street: South Memorial Drive
+housenumber: "9777"
+phone: 918-779-3064
 opening_hours: ""
-website: "https://www.tulsahyundai.com/"
+website: https://www.tulsahyundai.com/

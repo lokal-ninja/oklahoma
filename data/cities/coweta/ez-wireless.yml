@@ -1,11 +1,11 @@
 id: 1191811210
-type: way
+type: node
 latitude: 35.9594
 longitude: -95.65115
 postcode: "74429"
 city: Coweta
-street: "East 141st Street South"
-housenumber: 29171
+street: East 141st Street South
+housenumber: "29171"
 phone: ""
-opening_hours: "Mo 10:00-17:00; Tu-Sa 10:00-19:00"
+opening_hours: Mo 10:00-17:00; Tu-Sa 10:00-19:00
 website: ""

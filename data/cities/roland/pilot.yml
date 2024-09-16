@@ -1,11 +1,11 @@
 id: 265529436
-type: way
+type: node
 latitude: 35.40418
 longitude: -94.52191
 postcode: "74954"
 city: Roland
-street: "West Ray Fine Boulevard"
-housenumber: 302
-phone: "+1 918 427 0895"
+street: West Ray Fine Boulevard
+housenumber: "302"
+phone: +1 918 427 0895
 opening_hours: ""
 website: ""

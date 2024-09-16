@@ -1,11 +1,11 @@
 id: 978525285
-type: way
+type: node
 latitude: 35.99337
 longitude: -96.13984
 postcode: "74066"
 city: Sapulpa
-street: "West Dewey Avenue"
-housenumber: 1205
-phone: "(918) 224-7117"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.gerbercollision.com/locations/sapulpa-ok"
+street: West Dewey Avenue
+housenumber: "1205"
+phone: (918) 224-7117
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.gerbercollision.com/locations/sapulpa-ok

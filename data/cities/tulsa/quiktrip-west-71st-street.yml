@@ -1,11 +1,11 @@
 id: 449094562
-type: way
+type: node
 latitude: 36.06188
 longitude: -96.00263
 postcode: ""
 city: Tulsa
-street: "West 71st Street"
-housenumber: 807
+street: West 71st Street
+housenumber: "807"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

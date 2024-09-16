@@ -1,11 +1,11 @@
 id: 567391409
-type: way
+type: node
 latitude: 35.58096
 longitude: -97.63563
 postcode: "73162"
 city: Oklahoma City
-street: "West Hefner Road"
-housenumber: 6801
-phone: "+1-405-384-4162"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.cbac.com/warwick/"
+street: West Hefner Road
+housenumber: "6801"
+phone: +1-405-384-4162
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.cbac.com/warwick/

@@ -1,11 +1,11 @@
 id: 232562968
-type: way
+type: node
 latitude: 36.11298
 longitude: -97.05845
 postcode: "74074"
 city: Stillwater
-street: "South Main Street"
-housenumber: 809
+street: South Main Street
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

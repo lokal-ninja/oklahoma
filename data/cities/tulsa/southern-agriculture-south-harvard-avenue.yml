@@ -1,11 +1,11 @@
 id: 1011565952
-type: way
+type: node
 latitude: 36.12471
 longitude: -95.94086
 postcode: "74114"
 city: Tulsa
-street: "South Harvard Avenue"
-housenumber: 2610
-phone: "+1 918 747 6872"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-17:00"
-website: "https://southernagriculture.com/"
+street: South Harvard Avenue
+housenumber: "2610"
+phone: +1 918 747 6872
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-17:00
+website: https://southernagriculture.com/

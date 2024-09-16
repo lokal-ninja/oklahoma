@@ -1,11 +1,11 @@
 id: 728085765
-type: way
+type: node
 latitude: 36.01448
 longitude: -95.88455
 postcode: "74133"
 city: Tulsa
-street: "East 103rd Street"
-housenumber: 8207
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ok/tulsa/8207-e-103rd-street"
+street: East 103rd Street
+housenumber: "8207"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ok/tulsa/8207-e-103rd-street

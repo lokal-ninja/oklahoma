@@ -1,11 +1,11 @@
 id: 772946677
-type: way
+type: node
 latitude: 36.11621
 longitude: -95.888
 postcode: "74145"
 city: Tulsa
-street: "South Memorial Drive"
-housenumber: 3220
+street: South Memorial Drive
+housenumber: "3220"
 phone: "+19186646481"
-opening_hours: "Mo-Sa 09:00-21:00, Su 11:00-19:00"
+opening_hours: Mo-Sa 09:00-21:00, Su 11:00-19:00
 website: ""

@@ -2,10 +2,10 @@ id: 11544714471
 type: node
 latitude: 35.52461
 longitude: -98.69811
-postcode: "73096-5640"
+postcode: 73096-5640
 city: Weatherford
-street: "East Main"
-housenumber: 800
-phone: "+1 580-772-7781"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 09:00-20:00"
+street: East Main
+housenumber: "800"
+phone: +1 580-772-7781
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-20:00; Su 09:00-20:00
 website: ""

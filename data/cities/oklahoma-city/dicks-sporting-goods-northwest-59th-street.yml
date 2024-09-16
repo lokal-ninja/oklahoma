@@ -1,11 +1,11 @@
 id: 229068307
-type: way
+type: node
 latitude: 35.53088
 longitude: -97.56822
 postcode: "73112"
 city: Oklahoma City
-street: "Northwest 59th Street"
-housenumber: 3000
-phone: "+1 405-827-6573"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/ok/oklahoma-city/5419/"
+street: Northwest 59th Street
+housenumber: "3000"
+phone: +1 405-827-6573
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/ok/oklahoma-city/5419/

@@ -1,11 +1,11 @@
 id: 238733236
-type: way
+type: node
 latitude: 36.20521
 longitude: -96.28575
 postcode: ""
 city: Cleveland
-street: "West Peninsula North Drive"
-housenumber: 1127
+street: West Peninsula North Drive
+housenumber: "1127"
 phone: ""
 opening_hours: ""
 website: ""

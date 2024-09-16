@@ -1,11 +1,11 @@
 id: 323737535
-type: way
+type: node
 latitude: 35.236
 longitude: -97.48386
-postcode: "73069-6385"
+postcode: 73069-6385
 city: Norman
-street: "24th Avenue Northwest"
-housenumber: 1400
-phone: "+1 405-253-3003"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/norman/2220"
+street: 24th Avenue Northwest
+housenumber: "1400"
+phone: +1 405-253-3003
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/norman/2220

@@ -1,11 +1,11 @@
 id: 965650132
-type: way
+type: node
 latitude: 36.17773
 longitude: -95.92975
 postcode: ""
 city: Tulsa
-street: "East Pine Street"
-housenumber: 4221
+street: East Pine Street
+housenumber: "4221"
 phone: ""
 opening_hours: ""
 website: ""

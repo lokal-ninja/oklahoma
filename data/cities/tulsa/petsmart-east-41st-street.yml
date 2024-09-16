@@ -1,11 +1,11 @@
 id: 1009499025
-type: way
+type: node
 latitude: 36.10346
 longitude: -95.91408
 postcode: "74135"
 city: Tulsa
-street: "East 41st Street"
-housenumber: 5418
-phone: "+1 918-622-6900"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ok/tulsa-store0219.html"
+street: East 41st Street
+housenumber: "5418"
+phone: +1 918-622-6900
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ok/tulsa-store0219.html

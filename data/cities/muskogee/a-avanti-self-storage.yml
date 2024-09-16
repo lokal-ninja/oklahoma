@@ -1,11 +1,11 @@
 id: 1173412132
-type: way
+type: node
 latitude: 35.74344
 longitude: -95.32378
 postcode: "74403"
 city: Muskogee
-street: "North Country Club Road"
-housenumber: 121
+street: North Country Club Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

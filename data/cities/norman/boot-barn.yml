@@ -1,11 +1,11 @@
 id: 724488850
-type: way
+type: node
 latitude: 35.21084
 longitude: -97.48548
 postcode: "73072"
 city: Norman
-street: "Ed Noble Parkway"
-housenumber: 600
+street: Ed Noble Parkway
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

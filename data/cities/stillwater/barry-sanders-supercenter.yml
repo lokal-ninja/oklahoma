@@ -1,11 +1,11 @@
 id: 238758100
-type: way
+type: node
 latitude: 36.11697
 longitude: -97.1125
 postcode: "74074"
 city: Stillwater
-street: "West 6th Avenue"
-housenumber: 4120
-phone: "888-431-3711"
+street: West 6th Avenue
+housenumber: "4120"
+phone: 888-431-3711
 opening_hours: ""
-website: "https://www.barrysandersstillwatersupercenter.com/"
+website: https://www.barrysandersstillwatersupercenter.com/

@@ -1,11 +1,11 @@
 id: 1286124005
-type: way
+type: node
 latitude: 34.0695
 longitude: -96.76599
 postcode: "73446"
 city: Madill
-street: "South 1st Street"
-housenumber: 1100
-phone: "+1 580-795-7383"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1295/madill-ok/whats-new"
+street: South 1st Street
+housenumber: "1100"
+phone: +1 580-795-7383
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1295/madill-ok/whats-new

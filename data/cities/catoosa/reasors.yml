@@ -1,11 +1,11 @@
 id: 219040932
-type: way
+type: node
 latitude: 36.1904
 longitude: -95.7376
 postcode: "74015"
 city: Catoosa
-street: "North Old Highway 66"
-housenumber: 2500
+street: North Old Highway 66
+housenumber: "2500"
 phone: ""
 opening_hours: ""
-website: "https://www.reasors.com/locations/store.php?store=17"
+website: https://www.reasors.com/locations/store.php?store=17

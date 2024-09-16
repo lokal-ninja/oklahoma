@@ -1,11 +1,11 @@
 id: 1175049381
-type: way
+type: node
 latitude: 35.7359
 longitude: -95.34115
 postcode: "74403"
 city: Muskogee
-street: "South York Street"
-housenumber: 401
+street: South York Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

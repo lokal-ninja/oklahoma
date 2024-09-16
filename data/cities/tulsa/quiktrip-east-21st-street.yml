@@ -1,11 +1,11 @@
 id: 1239791786
-type: way
+type: node
 latitude: 36.13301
 longitude: -95.83243
 postcode: ""
 city: Tulsa
-street: "East 21st Street"
-housenumber: 12910
+street: East 21st Street
+housenumber: "12910"
 phone: ""
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/ok/tulsa/12910-e-21st-st"
+opening_hours: 24/7
+website: https://locations.quiktrip.com/ok/tulsa/12910-e-21st-st

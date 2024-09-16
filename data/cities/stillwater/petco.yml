@@ -1,11 +1,11 @@
 id: 238018969
-type: way
+type: node
 latitude: 36.14388
 longitude: -97.05394
 postcode: "74075"
 city: Stillwater
-street: "North Perkins Road"
-housenumber: 2170
-phone: "+1 405-707-0590"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ok/stillwater/pet-supplies-stillwater-ok-1465.html"
+street: North Perkins Road
+housenumber: "2170"
+phone: +1 405-707-0590
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/ok/stillwater/pet-supplies-stillwater-ok-1465.html

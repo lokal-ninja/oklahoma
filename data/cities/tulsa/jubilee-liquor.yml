@@ -1,11 +1,11 @@
 id: 204880494
-type: way
+type: node
 latitude: 36.16097
 longitude: -95.89816
 postcode: "74115"
 city: Tulsa
-street: "East Admiral Place"
-housenumber: 7015
+street: East Admiral Place
+housenumber: "7015"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-18:00
 website: ""

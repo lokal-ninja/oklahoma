@@ -1,11 +1,11 @@
 id: 120486342
-type: way
+type: node
 latitude: 36.04903
 longitude: -95.85571
 postcode: "74133"
 city: Tulsa
-street: "South 107th East Avenue"
-housenumber: 7850
+street: South 107th East Avenue
+housenumber: "7850"
 phone: ""
 opening_hours: ""
-website: "https://www.academy.com/storelocator/oklahoma/tulsa/store-0084"
+website: https://www.academy.com/storelocator/oklahoma/tulsa/store-0084

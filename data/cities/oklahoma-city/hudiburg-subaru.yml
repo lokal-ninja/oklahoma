@@ -1,11 +1,11 @@
 id: 867066408
-type: way
+type: node
 latitude: 35.39126
 longitude: -97.50813
 postcode: "73149"
 city: Oklahoma City
-street: "East Interstate 240 Service Road"
-housenumber: 210
+street: East Interstate 240 Service Road
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

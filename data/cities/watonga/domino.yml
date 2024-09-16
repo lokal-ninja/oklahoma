@@ -1,11 +1,11 @@
 id: 244364395
-type: way
+type: node
 latitude: 35.84085
 longitude: -98.42004
 postcode: "73772"
 city: Watonga
-street: "West Russworm Street"
-housenumber: 603
+street: West Russworm Street
+housenumber: "603"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1292212632
-type: way
+type: node
 latitude: 34.62854
 longitude: -98.45881
 postcode: "73505"
 city: Lawton
-street: "Northwest 52nd Street"
-housenumber: 1820
-phone: "+1-580-595-9000"
+street: Northwest 52nd Street
+housenumber: "1820"
+phone: +1-580-595-9000
 opening_hours: ""
-website: "https://www.atwoods.com/"
+website: https://www.atwoods.com/

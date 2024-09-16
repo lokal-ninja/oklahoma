@@ -1,11 +1,11 @@
 id: 1079306164
-type: way
+type: node
 latitude: 34.3835
 longitude: -99.0173
 postcode: "73542"
 city: Frederick
-street: "South Main Street"
-housenumber: 621
+street: South Main Street
+housenumber: "621"
 phone: ""
 opening_hours: ""
 website: ""

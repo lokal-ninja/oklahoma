@@ -1,11 +1,11 @@
 id: 840963051
-type: way
+type: node
 latitude: 36.0159
 longitude: -95.88883
 postcode: "74133"
 city: Tulsa
-street: "South Memorial Drive"
-housenumber: 10122
-phone: "+1 918-364-1086"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ok/tulsa-store2716.html"
+street: South Memorial Drive
+housenumber: "10122"
+phone: +1 918-364-1086
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ok/tulsa-store2716.html

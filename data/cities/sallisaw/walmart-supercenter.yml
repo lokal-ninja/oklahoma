@@ -1,11 +1,11 @@
 id: 1205525911
-type: way
+type: node
 latitude: 35.45145
 longitude: -94.80252
 postcode: "74955"
 city: Sallisaw
-street: "West Ruth Avenue"
-housenumber: 1101
-phone: "+1 918-775-4492"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/47/sallisaw-ok/whats-new"
+street: West Ruth Avenue
+housenumber: "1101"
+phone: +1 918-775-4492
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/47/sallisaw-ok/whats-new

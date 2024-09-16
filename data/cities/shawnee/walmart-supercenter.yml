@@ -1,11 +1,11 @@
 id: 1308426147
-type: way
+type: node
 latitude: 35.38739
 longitude: -96.92056
 postcode: "74804"
 city: Shawnee
-street: "Shawnee Mall Drive"
-housenumber: 196
-phone: "+1 405-275-1030"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/103/shawnee-ok/whats-new"
+street: Shawnee Mall Drive
+housenumber: "196"
+phone: +1 405-275-1030
+opening_hours: 24/7
+website: https://www.walmart.com/store/103/shawnee-ok/whats-new

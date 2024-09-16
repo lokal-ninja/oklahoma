@@ -1,11 +1,11 @@
 id: 411184609
-type: way
+type: node
 latitude: 36.16135
 longitude: -95.76263
 postcode: "74108"
 city: Tulsa
-street: "North 193rd East Avenue"
-housenumber: 18
+street: North 193rd East Avenue
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

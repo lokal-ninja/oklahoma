@@ -1,11 +1,11 @@
 id: 547492329
-type: way
+type: node
 latitude: 35.21936
 longitude: -97.42046
 postcode: "73071"
 city: Norman
-street: "East Alameda Street"
-housenumber: 1251
+street: East Alameda Street
+housenumber: "1251"
 phone: ""
 opening_hours: ""
 website: ""

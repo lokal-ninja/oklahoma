@@ -1,11 +1,11 @@
 id: 317885390
-type: way
+type: node
 latitude: 35.23728
 longitude: -97.47944
 postcode: "73069"
 city: Norman
-street: "Mount Williams Drive"
-housenumber: 2550
-phone: "+1 405 809 8100"
-opening_hours: "24/7"
-website: "https://www.crestfoodsok.com/"
+street: Mount Williams Drive
+housenumber: "2550"
+phone: +1 405 809 8100
+opening_hours: 24/7
+website: https://www.crestfoodsok.com/

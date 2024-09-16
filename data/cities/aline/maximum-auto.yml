@@ -1,11 +1,11 @@
 id: 446946535
-type: way
+type: node
 latitude: 36.5093
 longitude: -98.45107
 postcode: ""
 city: Aline
-street: "North Main Street"
-housenumber: 314
+street: North Main Street
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

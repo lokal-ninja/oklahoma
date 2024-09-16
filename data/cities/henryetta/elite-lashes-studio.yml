@@ -1,11 +1,11 @@
 id: 1234568076
-type: way
+type: node
 latitude: 35.44078
 longitude: -95.98597
 postcode: "74437"
 city: Henryetta
-street: "West Trudgeon Street"
-housenumber: 400
+street: West Trudgeon Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

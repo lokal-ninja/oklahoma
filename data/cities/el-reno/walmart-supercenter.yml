@@ -1,11 +1,11 @@
 id: 208566671
-type: way
+type: node
 latitude: 35.51189
 longitude: -97.97553
 postcode: "73036"
 city: El Reno
-street: "South Country Club Road"
-housenumber: 2400
-phone: "+1 405-262-7354"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/227/el-reno-ok/whats-new"
+street: South Country Club Road
+housenumber: "2400"
+phone: +1 405-262-7354
+opening_hours: 24/7
+website: https://www.walmart.com/store/227/el-reno-ok/whats-new
