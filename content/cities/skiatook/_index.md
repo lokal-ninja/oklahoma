@@ -1,6 +1,6 @@
 ---
 title: Skiatook
 url: /skiatook/
-latitude: 36.369
-longitude: -96.031
+latitude: 36.371
+longitude: -96.012
 ---
