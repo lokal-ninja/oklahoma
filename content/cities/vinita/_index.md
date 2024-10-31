@@ -1,6 +1,6 @@
 ---
 title: Vinita
 url: /vinita/
-latitude: 36.632
-longitude: -95.141
+latitude: 36.638
+longitude: -95.155
 ---
