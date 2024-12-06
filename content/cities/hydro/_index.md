@@ -1,6 +1,6 @@
 ---
 title: Hydro
 url: /hydro/
-latitude: 35.39
-longitude: -98.572
+latitude: 35.55
+longitude: -98.577
 ---
