@@ -1,5 +1,5 @@
 ---
 title: "On Cue"
-url: /stillwater/on-cue-east-6th-avenue/
+url: /stillwater/on-cue-2/
 shop: convenience
 ---
