@@ -1,6 +1,6 @@
 ---
 title: Mounds
 url: /mounds/
-latitude: 35.894
-longitude: -96.017
+latitude: 35.843
+longitude: -96.014
 ---

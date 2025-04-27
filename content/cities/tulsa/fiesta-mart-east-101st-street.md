@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Mart"
-url: /tulsa/fiesta-mart-east-31st-street/
+url: /tulsa/fiesta-mart-east-101st-street/
 shop: convenience
 ---
