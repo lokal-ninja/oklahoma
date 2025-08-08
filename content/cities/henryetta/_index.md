@@ -1,6 +1,6 @@
 ---
 title: Henryetta
 url: /henryetta/
-latitude: 35.439
-longitude: -95.974
+latitude: 35.44
+longitude: -95.985
 ---
