@@ -1,6 +1,6 @@
 ---
 title: Tahlequah ᏓᎵᏆ
 url: /tahlequah-daliqua/
-latitude: 35.916
-longitude: -94.986
+latitude: 35.876
+longitude: -94.977
 ---
