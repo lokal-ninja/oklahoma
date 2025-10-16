@@ -1,6 +1,6 @@
 ---
 title: Verden
 url: /verden/
-latitude: 35.083
-longitude: -98.08
+latitude: 35.084
+longitude: -98.086
 ---
