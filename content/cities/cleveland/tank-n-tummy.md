@@ -1,5 +1,5 @@
 ---
-title: "Tank n Tummy"
+title: "Tank-N-Tummy"
 url: /cleveland/tank-n-tummy/
 shop: convenience
 ---
