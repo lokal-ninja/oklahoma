@@ -1,6 +1,6 @@
 ---
 title: Hobart
 url: /hobart/
-latitude: 35.024
-longitude: -99.096
+latitude: 35.017
+longitude: -99.105
 ---
