@@ -1,5 +1,5 @@
 ---
-title: "Backwoods automotive"
+title: "Backwoods Automotive"
 url: /tishomingo/backwoods-automotive/
 shop: car repair
 ---

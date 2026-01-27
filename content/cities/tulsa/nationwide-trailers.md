@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Trailers"
 url: /tulsa/nationwide-trailers/
-shop: shop
+shop: trailer
 ---
