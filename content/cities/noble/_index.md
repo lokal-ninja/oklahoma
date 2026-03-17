@@ -1,6 +1,6 @@
 ---
 title: Noble
 url: /noble/
-latitude: 35.147
-longitude: -97.395
+latitude: 35.151
+longitude: -97.397
 ---
