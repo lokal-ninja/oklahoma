@@ -1,6 +1,6 @@
 ---
 title: Watonga
 url: /watonga/
-latitude: 35.843
-longitude: -98.42
+latitude: 35.844
+longitude: -98.418
 ---
