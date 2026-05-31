@@ -1,5 +1,5 @@
 ---
-title: "Rudy's Country Store & Bar-B-Q"
+title: "Rudy's Country Store and Bar-B-Q"
 url: /norman/rudys-country-store-and-bar-b-q/
 shop: convenience
 ---
