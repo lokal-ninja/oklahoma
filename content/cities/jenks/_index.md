@@ -1,6 +1,6 @@
 ---
 title: Jenks
 url: /jenks/
-latitude: 36.026
-longitude: -95.959
+latitude: 36.024
+longitude: -95.961
 ---
