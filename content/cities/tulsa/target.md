@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tulsa/target/
-shop: supermarket
+shop: department store
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jennings
 url: /jennings/
-latitude: 36.178
-longitude: -96.57
+latitude: 36.179
+longitude: -96.569
 ---
