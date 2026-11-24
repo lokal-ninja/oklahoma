@@ -1,6 +1,6 @@
 ---
 title: Ringling
 url: /ringling/
-latitude: 34.179
-longitude: -97.591
+latitude: 34.172
+longitude: -97.59
 ---
